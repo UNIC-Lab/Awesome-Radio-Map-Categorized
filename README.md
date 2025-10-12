@@ -13,6 +13,9 @@ This repository serves as a curated collection of outstanding papers and code re
 [[Arxiv 2025](https://arxiv.org/abs/2504.15623)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
 
+#### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
+[[Arxiv 2025](https://arxiv.org/abs/2504.14298)]
+
 #### RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication
 [[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11083758)]
 [[Code](https://github.com/UNIC-Lab/UrbanRadio3D)] 
@@ -30,3 +33,4 @@ This repository serves as a curated collection of outstanding papers and code re
 #### PhyRMDM: Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction
 [[ACM MM BNI 2025](https://arxiv.org/abs/2501.19160)]
 [[Code](https://github.com/Hxxxz0/RMDM)] 
+
