@@ -20,6 +20,9 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11083758)]
 [[Code](https://github.com/UNIC-Lab/UrbanRadio3D)] 
 
+#### RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation
+[[Arxiv 2025](https://www.arxiv.org/abs/2509.01875)]
+
 #### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction
 [[IEEE INFOCOM wksp 2025](https://ieeexplore.ieee.org/document/11152929)]
 
