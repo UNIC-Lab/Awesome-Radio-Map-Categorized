@@ -11,6 +11,7 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### RadioDiff- $k^2$ : An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction
 [[Arxiv 2025](https://arxiv.org/abs/2504.15623)]
+[[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
 
 #### RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication
 [[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11083758)]
