@@ -9,7 +9,7 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE TCCN 2025](https://ieeexplore.ieee.org/document/10764739)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff)] 
 
-#### RadioDiff- $k^2$ : An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction
+#### RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction
 [[Arxiv 2025](https://arxiv.org/abs/2504.15623)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
 
