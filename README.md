@@ -35,6 +35,9 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE TWC 2023](https://ieeexplore.ieee.org/abstract/document/10122907)]
 [[Code](https://github.com/CagkanYapar/LocUNet)] 
 
+#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
+[[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
+[[Code](https://github.com/CagkanYapar/LocUNet)] 
 
 ## Paper without Code
 ---
@@ -70,3 +73,6 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### Pseudo Ray-Tracing: Deep Leaning Assisted Outdoor mm-Wave Path Loss Prediction
 [[IEEE WLC 2022](https://ieeexplore.ieee.org/abstract/document/9774859)]
+
+#### Channel Path Loss Prediction Using Satellite Images: A Deep Learning Approach
+[[IEEE TMLCN 2024](https://ieeexplore.ieee.org/abstract/document/10663692)]
