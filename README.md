@@ -35,9 +35,10 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE TWC 2023](https://ieeexplore.ieee.org/abstract/document/10122907)]
 [[Code](https://github.com/CagkanYapar/LocUNet)] 
 
-#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
-[[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
-[[Code](https://github.com/CagkanYapar/LocUNet)] 
+#### PMNet: Robust Pathloss Map Prediction via Supervised Learning
+[[IEEE GlobeCom 2023](https://ieeexplore.ieee.org/abstract/document/10437562)]
+[[Code](https://github.com/abman23/PMNet)] 
+
 
 ## Paper without Code
 ---
@@ -77,5 +78,27 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Channel Path Loss Prediction Using Satellite Images: A Deep Learning Approach
 [[IEEE TMLCN 2024](https://ieeexplore.ieee.org/abstract/document/10663692)]
 
+#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
+[[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
+
 #### Cell-Level RSRP Estimation With the Image-to-Image Wireless Propagation Model Based on Measured Data
 [[IEEE TCCN 2023](https://ieeexplore.ieee.org/abstract/document/10227351)]
+
+#### Machine Learning-Based Radio Coverage Prediction in Urban Environments
+[[IEEE TNSE 2020](https://ieeexplore.ieee.org/abstract/document/9247298)]
+
+#### Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map
+[[IEEE TNSE 2020](https://ieeexplore.ieee.org/abstract/document/10424680)]
+
+#### Accurate Spectrum Map Construction for Spectrum Management Through Intelligent Frequency-Spatial Reasoning
+[[IEEE TCOMM 2023](https://ieeexplore.ieee.org/abstract/document/10103465)]
+
+#### Super-Resolution of Wireless Channel Characteristics: A Multitask Learning Model
+[[IEEE TAP 2023](https://ieeexplore.ieee.org/abstract/document/10224827)]
+
+#### Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning
+[IEEE TVT 2025](https://ieeexplore.ieee.org/abstract/document/11146461)]
+
+#### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
+[[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
+
