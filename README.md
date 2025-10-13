@@ -183,11 +183,23 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Channel Knowledge Map Construction with Laplacian Pyramid Reconstruction Network
 [[IEEE WCNC 2024](https:/ieeexplore.ieee.org/abstract/document/10570885)]
 
+#### Channel Gain Map Construction Based on Subregional Learning and Prediction
+[[IEEE TVT 2025](https:/ieeexplore.ieee.org/abstract/document/10891198)]
+
+#### WiFi-Diffusion: Achieving Fine-Grained WiFi Radio Map Estimation with Ultra-Low Sampling Rate by Diffusion Models
+[[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11066175)]
+
+#### Time-Variant Radio Map Reconstruction With Optimized Distributed Sensors in Dynamic Spectrum Environments
+[[IEEE IoT J 2025](https:/ieeexplore.ieee.org/abstract/document/10902472)]
+
 #### Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction
 [[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
 
 #### DeepRT: A Hybrid Framework Combining Large Model Architectures and Ray Tracing Principles for 6G Digital Twin Channels
 [[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/9/1849)]
+
+#### Electromagnetic wave property inspired radio environment knowledge construction and artificial intelligence based verification for 6G digital twin channel
+[[Springer FITEE 2025](https://link.springer.com/article/10.1631/FITEE.2400464)]
 
 #### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
 [[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
