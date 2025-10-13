@@ -43,6 +43,10 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IET communications 2024](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846)]
 [[Code](https://github.com/YNUniversityCQ/ACT-GAN)]
 
+#### RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting
+[[ArXiv 2025](https://arxiv.org/abs/2411.19420)]
+[[Code](https://github.com/SunLab-UGA/RF-3DGS)]
+
 ## Paper without Code
 ---
 #### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
@@ -138,6 +142,35 @@ This repository serves as a curated collection of outstanding papers and code re
 #### UAV-aided Joint Radio Map and 3D Environment Reconstruction using Deep Learning Approaches
 [[IEEE ICC 2022](https:/ieeexplore.ieee.org/abstract/document/9838964)]
 
+#### A Deep Learning-Based Indoor Radio Estimation Method Driven by 2.4 GHz Ray-Tracing Data
+[[IEEE Access 2023](https:/ieeexplore.ieee.org/abstract/document/10347228)]
+
+#### A Multi-Task Learning Model for Super Resolution of Wireless Channel Characteristics
+[[IEEE GlobeCom 2022](https:/ieeexplore.ieee.org/abstract/document/10001700)]
+
+#### Temporal prediction for spectrum environment maps with moving radiation sources
+[[IET Communication 2023](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12560)]
+
+#### Deep Learning-Based CKM Construction with Image Super-Resolution
+[[IEEE VTC-Spring 2025](https:/ieeexplore.ieee.org/abstract/document/11174933)]
+
+#### Transformer-Based Neural Surrogate for Link-Level Path Loss Prediction from Variable-Sized Maps
+[[IEEE GlobeCom 2023](https:/ieeexplore.ieee.org/abstract/document/10436935)]
+
+#### CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks
+[[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11059941)]
+
+#### Deep Learning for Reduced Sampling Spatial 3-D REM Reconstruction
+[[IEEE OJCOMS 2024](https:/ieeexplore.ieee.org/abstract/document/10495350)]
+
+#### Fast and Accurate Cooperative Radio Map Estimation Enabled by GAN
+[[IEEE ICC wksp 2024](https:/ieeexplore.ieee.org/abstract/document/10615679)]
+
+#### Weighted Ensembles for Adaptive Active Learning
+[[IEEE TSP 2024](https:/ieeexplore.ieee.org/abstract/document/10648946)]
+
 #### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
 [[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
+
+
 
