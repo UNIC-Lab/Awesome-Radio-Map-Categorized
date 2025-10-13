@@ -100,10 +100,10 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE TCCN 2025](https://ieeexplore.ieee.org/abstract/document/10843401)]
 
 #### Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning
-[IEEE TVT 2025](https://ieeexplore.ieee.org/abstract/document/11146461)]
+[[IEEE TVT 2025](https://ieeexplore.ieee.org/abstract/document/11146461)]
 
 #### Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction
-[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
+[[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
 
 #### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
 [[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
