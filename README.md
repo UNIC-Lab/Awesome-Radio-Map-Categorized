@@ -99,6 +99,9 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Denoising Diffusion Probabilistic Model for Radio Map Estimation in Generative Wireless Networks
 [[IEEE TCCN 2025](https://ieeexplore.ieee.org/abstract/document/10843401)]
 
+#### UnetRay: A Prediction Method of Indoor Radio Signal Strength Distribution
+[[IEEE ICAIT 2023](https://ieeexplore.ieee.org/abstract/document/10367372)]
+
 #### Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning
 [[IEEE TVT 2025](https://ieeexplore.ieee.org/abstract/document/11146461)]
 
