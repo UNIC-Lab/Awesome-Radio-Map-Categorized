@@ -39,6 +39,9 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE GlobeCom 2023](https://ieeexplore.ieee.org/abstract/document/10437562)]
 [[Code](https://github.com/abman23/PMNet)] 
 
+#### ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks
+[[IET communications 2024](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846)]
+[[Code](https://github.com/YNUniversityCQ/ACT-GAN)]
 
 ## Paper without Code
 ---
@@ -107,6 +110,33 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction
 [[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
+
+#### REM-U-Net: Deep Learning Based Agile REM Prediction With Energy-Efficient Cell-Free Use Case
+[[IEEE OJSP 2024](https:/ieeexplore.ieee.org/abstract/document/10474197)]
+
+#### Agile Radio Map Prediction Using Deep Learning
+[[IEEE ICASSP 2023](https:/ieeexplore.ieee.org/abstract/document/10096546)]
+
+#### RM-Gen: Conditional Diffusion Model-Based Radio Map Generation for Wireless Networks
+[[IEEE IFIP Networking 2024](https:/ieeexplore.ieee.org/abstract/document/10619829)]
+
+#### Generative CKM construction using partially observed data with diffusion model
+[[IEEE VTC-Spring 2025](https:/ieeexplore.ieee.org/abstract/document/11174670)]
+
+#### Spatial Transformers for Radio Map Estimation
+[[IEEE ICC 2025](https:/ieeexplore.ieee.org/abstract/document/11160709)]
+
+#### IMNet: Interference-Aware Channel Knowledge Map Construction and Localization
+[[IEEE WCL 2025](https:/ieeexplore.ieee.org/abstract/document/10829585)]
+
+#### Transformer based Radio Map Prediction Model for Dense Urban Environments
+[[IEEE ISAPE 2021](https:/ieeexplore.ieee.org/abstract/document/9753644)]
+
+#### IPP-Net: A Generalizable Deep Neural Network Model for Indoor Pathloss Radio Map Prediction
+[[IEEE ICASSP 2025](https:/ieeexplore.ieee.org/abstract/document/10890663)]
+
+#### UAV-aided Joint Radio Map and 3D Environment Reconstruction using Deep Learning Approaches
+[[IEEE ICC 2022](https:/ieeexplore.ieee.org/abstract/document/9838964)]
 
 #### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
 [[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
