@@ -2,6 +2,7 @@
 This repository serves as a curated collection of outstanding papers and code related to learning-based radio maps (RM), also referred to as channel knowledge maps (CKM).
 
 ## Paper with Code
+---
 #### RadioUNet: Fast Radio Map Estimation With Convolutional Neural Networks
 [[IEEE TWC 2021](https://ieeexplore.ieee.org/document/9354041)]
 [[Code](https://github.com/RonLevie/RadioUNet)] 
@@ -39,8 +40,9 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE TWC 2022](https://ieeexplore.ieee.org/abstract/document/9523765)]
 [[Code](https://github.com/fachu000/deep-autoencoders-cartography)] 
 
+---
 ## Paper without Code
-
+---
 #### 3D-RadioDiff: An Altitude-Conditioned Diffusion Model for 3D Radio Map Construction
 [[IEEE WCL 2025](https://ieeexplore.ieee.org/document/10963917)]
 
