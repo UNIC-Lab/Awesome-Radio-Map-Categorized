@@ -15,18 +15,9 @@ This repository serves as a curated collection of outstanding papers and code re
 [[Arxiv 2025](https://arxiv.org/abs/2504.15623)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
 
-#### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
-[[Arxiv 2025](https://arxiv.org/abs/2504.14298)]
-
 #### RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication
 [[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11083758)]
 [[Code](https://github.com/UNIC-Lab/UrbanRadio3D)] 
-
-#### RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation
-[[Arxiv 2025](https://www.arxiv.org/abs/2509.01875)]
-
-#### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction
-[[IEEE INFOCOM wksp 2025](https://ieeexplore.ieee.org/document/11152929)]
 
 #### RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network
 [[IEEE IoT J 2023](https://ieeexplore.ieee.org/document/10130091)]
@@ -47,6 +38,15 @@ This repository serves as a curated collection of outstanding papers and code re
 
 ## Paper without Code
 ---
+#### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
+[[Arxiv 2025](https://arxiv.org/abs/2504.14298)]
+
+#### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction
+[[IEEE INFOCOM wksp 2025](https://ieeexplore.ieee.org/document/11152929)]
+
+#### RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation
+[[Arxiv 2025](https://www.arxiv.org/abs/2509.01875)]
+
 #### 3D-RadioDiff: An Altitude-Conditioned Diffusion Model for 3D Radio Map Construction
 [[IEEE WCL 2025](https://ieeexplore.ieee.org/document/10963917)]
 
