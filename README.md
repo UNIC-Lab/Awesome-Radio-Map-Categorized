@@ -43,6 +43,14 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IET communications 2024](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846)]
 [[Code](https://github.com/YNUniversityCQ/ACT-GAN)]
 
+#### SIP2Net: Situational-Aware Indoor Pathloss-Map Prediction Network for Radio Map Generation
+[[IEEE ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10890319)]
+[[Code](https://github.com/lululu123321/SIP2Net)] 
+
+#### TransPathNet: A Novel Two-Stage Framework for Indoor Radio Map Prediction
+[[IEEE ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887939)]
+[[Code](https://github.com/LiXin97/TransPathNet)] 
+
 #### RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting
 [[ArXiv 2025](https://arxiv.org/abs/2411.19420)]
 [[Code](https://github.com/SunLab-UGA/RF-3DGS)]
@@ -112,9 +120,6 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning
 [[IEEE TVT 2025](https://ieeexplore.ieee.org/abstract/document/11146461)]
 
-#### Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction
-[[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
-
 #### REM-U-Net: Deep Learning Based Agile REM Prediction With Energy-Efficient Cell-Free Use Case
 [[IEEE OJSP 2024](https:/ieeexplore.ieee.org/abstract/document/10474197)]
 
@@ -168,6 +173,21 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### Weighted Ensembles for Adaptive Active Learning
 [[IEEE TSP 2024](https:/ieeexplore.ieee.org/abstract/document/10648946)]
+
+#### IRGAN: cGAN-based Indoor Radio Map Prediction
+[[IEEE IFIP Networking 2023](https:/ieeexplore.ieee.org/abstract/document/10186359)]
+
+#### Radio Map Estimation Using a Generative Adversarial Network and Related Business Aspects
+[[IEEE WPMC 2021](https:/ieeexplore.ieee.org/abstract/document/9700474)]
+
+#### Channel Knowledge Map Construction with Laplacian Pyramid Reconstruction Network
+[[IEEE WCNC 2024](https:/ieeexplore.ieee.org/abstract/document/10570885)]
+
+#### Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction
+[[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
+
+#### DeepRT: A Hybrid Framework Combining Large Model Architectures and Ray Tracing Principles for 6G Digital Twin Channels
+[[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/9/1849)]
 
 #### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
 [[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
