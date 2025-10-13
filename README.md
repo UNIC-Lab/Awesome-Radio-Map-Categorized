@@ -76,3 +76,6 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### Channel Path Loss Prediction Using Satellite Images: A Deep Learning Approach
 [[IEEE TMLCN 2024](https://ieeexplore.ieee.org/abstract/document/10663692)]
+
+#### Cell-Level RSRP Estimation With the Image-to-Image Wireless Propagation Model Based on Measured Data
+[[IEEE TCCN 2023](https://ieeexplore.ieee.org/abstract/document/10227351)]
