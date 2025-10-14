@@ -231,6 +231,9 @@ This repository serves as a curated collection of outstanding papers and code re
 #### FedRME: Federated Learning for Enhanced Distributed Radiomap Estimation
 [[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757742)]
 
+#### Deep Transfer Learning Based Radio Map Estimation for Indoor Wireless Communications
+[[IEEE SPAWC 2022](https:/ieeexplore.ieee.org/abstract/document/9833974)]
+
 #### Convolutional neural networks for predicting the perceived density of large urban fabrics
 [[Elsevier CEUS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000572)]
 
@@ -260,4 +263,7 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### ExposNet: A Deep Learning Framework for EMF Exposure Prediction in Complex Urban Environments
 [[ArXiv 2025](https://arxiv.org/abs/2503.02966)]
+
+#### Solving Maxwell's equations with Non-Trainable Graph Neural Network Message Passing
+[[ArXiv 2024](https://arxiv.org/abs/2405.00814)]
 
