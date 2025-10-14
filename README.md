@@ -192,17 +192,72 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Time-Variant Radio Map Reconstruction With Optimized Distributed Sensors in Dynamic Spectrum Environments
 [[IEEE IoT J 2025](https:/ieeexplore.ieee.org/abstract/document/10902472)]
 
+#### IndoorRSSINet - Deep learning based 2D RSSI map prediction for indoor environments with application to wireless localization
+[[IEEE COMSNETS 2023](https:/ieeexplore.ieee.org/abstract/document/10041394)]
+
+#### Channel Knowledge Maps Construction Based on Point Cloud Environment Information
+[[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757755)]
+
+#### Deep Learning-Based Path Loss Prediction for Outdoor Wireless Communication Systems
+[[IEEE ICASSP 2023](https:/ieeexplore.ieee.org/abstract/document/10095501)]
+
+#### Geo2ComMap: Deep Learning-Based MIMO Throughput Prediction Using Geographic Data
+[[IEEE WCL 2025](https:/ieeexplore.ieee.org/abstract/document/10950386)]
+
+#### Radio Map Estimation with Deep Dual Path Autoencoders and Skip Connection Learning
+[[IEEE PIMRC 2024](https:/ieeexplore.ieee.org/abstract/document/10293748)]
+
+#### Machine Learning for Channel Quality Prediction: From Concept to Experimental Validation
+[[IEEE TWC 2024](https:/ieeexplore.ieee.org/abstract/document/10577598)]
+
+#### Ultra-Grained Channel Fingerprint Construction via Conditional Generative Diffusion Models
+[[IEEE INFOCOM 2025](https:/ieeexplore.ieee.org/abstract/document/11152821)]
+
+#### Leveraging Transfer Learning for Radio Map Estimation via Mixture of Experts
+[[IEEE TCCN 2025](https:/ieeexplore.ieee.org/abstract/document/11005396)]
+
+#### Rigorous Indoor Wireless Communication System Simulations With Deep Learning-Based Radio Propagation Models
+[[IEEE JMMCT 2024](https:/ieeexplore.ieee.org/abstract/document/10786819)]
+
+#### A Transformer-Based Network for Unifying Radio Map Estimation and Optimized Site Selection
+[[IEEE ICASSP wksp 2024](https:/ieeexplore.ieee.org/abstract/document/10627516)]
+
+#### Two-Stage Radio Map Construction With Real Environments and Sparse Measurements
+[[IEEE WCL 2025](https:/ieeexplore.ieee.org/abstract/document/10838708)]
+
+#### Radio Map Estimation via Latent-Domain Plug-and-Play Denoisers
+[[IEEE ICASSP 2025](https:/ieeexplore.ieee.org/abstract/document/10889056)]
+
+#### FedRME: Federated Learning for Enhanced Distributed Radiomap Estimation
+[[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757742)]
+
+#### Convolutional neural networks for predicting the perceived density of large urban fabrics
+[[Elsevier CEUS 2025](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000572)]
+
+#### A robust learning framework for spatial-temporal-spectral radio map prediction
+[[Elsevier ESWA 2025](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029665)]
+
 #### Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction
 [[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/10/1905)]
 
 #### DeepRT: A Hybrid Framework Combining Large Model Architectures and Ray Tracing Principles for 6G Digital Twin Channels
 [[MDPI Electronics 2025](https://www.mdpi.com/2079-9292/14/9/1849)]
 
+#### Machine-Learning-Based Path Loss Prediction for Vehicle-to-Vehicle Communication in Highway Environments
+[[MDPI Applied Science 2025](https://www.mdpi.com/2076-3417/14/17/7545)]
+
+#### Reconstruction of Radio Environment Map Based on Multi-Source Domain Adaptive of Graph Neural Network for Regression
+[[MDPI Sensors 2025](https://www.mdpi.com/1424-8220/24/8/2523)]
+
 #### Electromagnetic wave property inspired radio environment knowledge construction and artificial intelligence based verification for 6G digital twin channel
 [[Springer FITEE 2025](https://link.springer.com/article/10.1631/FITEE.2400464)]
+
+#### A Deep-Learning Approach to a Volumetric Radio Environment Map Construction for UAV-Assisted Networks
+[[Wiley IJAP 2024](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/9062023)]
 
 #### Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning
 [[ArXiv 2025](https://arxiv.org/abs/2505.15571)]
 
-
+#### ExposNet: A Deep Learning Framework for EMF Exposure Prediction in Complex Urban Environments
+[[ArXiv 2025](https://arxiv.org/abs/2503.02966)]
 
