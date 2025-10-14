@@ -25,7 +25,11 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### PhyRMDM: Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction
 [[ACM MM BNI 2025](https://arxiv.org/abs/2501.19160)]
-[[Code](https://github.com/Hxxxz0/RMDM)] 
+[[Code](https://github.com/Hxxxz0/RMDM)]
+
+#### RadioMamba: Breaking the Accuracy-Efficiency Trade-Off in Radio Map Construction Via a Hybrid Mamba-UNet
+[[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11190042)]
+[[Code](https://github.com/UNIC-Lab/RadioMamba)] 
 
 #### Deep Completion Autoencoders for Radio Map Estimation
 [[IEEE TWC 2022](https://ieeexplore.ieee.org/abstract/document/9523765)]
