@@ -75,9 +75,6 @@ This repository serves as a curated collection of outstanding papers and code re
 ## Paper without Code
 ---
 ### Journal
-#### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction
-[[IEEE INFOCOM wksp 2025](https://ieeexplore.ieee.org/document/11152929)]
-
 #### CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks
 [[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11059941)]
 
@@ -220,9 +217,8 @@ This repository serves as a curated collection of outstanding papers and code re
 
 ---
 ### Conference
-
-#### Spatial Transformers for Radio Map Estimation
-[[IEEE ICC 2025](https:/ieeexplore.ieee.org/abstract/document/11160709)]
+#### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction
+[[IEEE INFOCOM wksp 2025](https://ieeexplore.ieee.org/document/11152929)]
 
 #### Ultra-Grained Channel Fingerprint Construction via Conditional Generative Diffusion Models
 [[IEEE INFOCOM 2025](https:/ieeexplore.ieee.org/abstract/document/11152821)]
@@ -233,20 +229,14 @@ This repository serves as a curated collection of outstanding papers and code re
 #### IPP-Net: A Generalizable Deep Neural Network Model for Indoor Pathloss Radio Map Prediction
 [[IEEE ICASSP 2025](https:/ieeexplore.ieee.org/abstract/document/10890663)]
 
+#### Spatial Transformers for Radio Map Estimation
+[[IEEE ICC 2025](https:/ieeexplore.ieee.org/abstract/document/11160709)]
+
 #### Generative CKM construction using partially observed data with diffusion model
 [[IEEE VTC-Spring 2025](https:/ieeexplore.ieee.org/abstract/document/11174670)]
 
 #### Deep Learning-Based CKM Construction with Image Super-Resolution
 [[IEEE VTC-Spring 2025](https:/ieeexplore.ieee.org/abstract/document/11174933)]
-
-#### Machine Learning-based Predictive Channel Modeling for 6G Wireless Communications Using Image Semantic Segmentation
-[[IEEE PIMRC 2024](https:/ieeexplore.ieee.org/abstract/document/10294072)]
-
-#### FedRME: Federated Learning for Enhanced Distributed Radiomap Estimation
-[[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757742)]
-
-#### Channel Knowledge Maps Construction Based on Point Cloud Environment Information
-[[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757755)]
 
 #### Data-and-Semantic Dual-Driven Spectrum Map Construction for 6G Spectrum Management
 [[IEEE GlobeCom 2024](https:/ieeexplore.ieee.org/abstract/document/10901421)]
@@ -254,8 +244,17 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Channel Knowledge Map Construction with Laplacian Pyramid Reconstruction Network
 [[IEEE WCNC 2024](https:/ieeexplore.ieee.org/abstract/document/10570885)]
 
+#### Machine Learning-based Predictive Channel Modeling for 6G Wireless Communications Using Image Semantic Segmentation
+[[IEEE PIMRC 2024](https:/ieeexplore.ieee.org/abstract/document/10294072)]
+
 #### Radio Map Estimation with Deep Dual Path Autoencoders and Skip Connection Learning
 [[IEEE PIMRC 2024](https:/ieeexplore.ieee.org/abstract/document/10293748)]
+
+#### FedRME: Federated Learning for Enhanced Distributed Radiomap Estimation
+[[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757742)]
+
+#### Channel Knowledge Maps Construction Based on Point Cloud Environment Information
+[[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757755)]
 
 #### RM-Gen: Conditional Diffusion Model-Based Radio Map Generation for Wireless Networks
 [[IEEE IFIP Networking 2024](https:/ieeexplore.ieee.org/abstract/document/10619829)]
