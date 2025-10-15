@@ -180,8 +180,8 @@ This repository serves as a curated collection of outstanding papers and code re
 #### A Deep-Learning Approach to a Volumetric Radio Environment Map Construction for UAV-Assisted Networks
 [[Wiley IJAP 2024](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/9062023)]
 
-#### A Graph Neural Network Based Radio Map Construction Method for Urban Environment
-[[IEEE WLC 2023](https://ieeexplore.ieee.org/abstract/document/10078269)]
+#### Super-Resolution of Wireless Channel Characteristics: A Multitask Learning Model
+[[IEEE TAP 2023](https://ieeexplore.ieee.org/abstract/document/10224827)]
 
 #### Cell-Level RSRP Estimation With the Image-to-Image Wireless Propagation Model Based on Measured Data
 [[IEEE TCCN 2023](https://ieeexplore.ieee.org/abstract/document/10227351)]
@@ -189,8 +189,8 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Accurate Spectrum Map Construction for Spectrum Management Through Intelligent Frequency-Spatial Reasoning
 [[IEEE TCOMM 2023](https://ieeexplore.ieee.org/abstract/document/10103465)]
 
-#### Super-Resolution of Wireless Channel Characteristics: A Multitask Learning Model
-[[IEEE TAP 2023](https://ieeexplore.ieee.org/abstract/document/10224827)]
+#### A Graph Neural Network Based Radio Map Construction Method for Urban Environment
+[[IEEE WLC 2023](https://ieeexplore.ieee.org/abstract/document/10078269)]
 
 #### A Deep Learning-Based Indoor Radio Estimation Method Driven by 2.4 GHz Ray-Tracing Data
 [[IEEE Access 2023](https:/ieeexplore.ieee.org/abstract/document/10347228)]
