@@ -78,6 +78,51 @@ This repository serves as a curated collection of outstanding papers and code re
 #### CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks
 [[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11059941)]
 
+#### Fast Transmission Control Adaptation for URLLC via Channel Knowledge Map and Meta-Learning
+[[IEEE Internet of Things Journal 2025](https://ieeexplore.ieee.org/abstract/document/10930931)]
+
+#### Radiation Source Localization Using Radio Maps: A Computer Vision Approach
+[[IEEE Wireless Communications Letters 2025](https://ieeexplore.ieee.org/abstract/document/11137360)]
+
+#### SC-GAN: A spectrum cartography with satellite Internet based on Pix2Pix generative adversarial network
+[[China Communications 2025](https://ieeexplore.ieee.org/abstract/document/10906396)]
+
+#### KAN Based Interpretable Radio Map Prediction Framework with Symbolic Data Fusion
+[[IEEE Transactions on Cognitive Communications and Networking 2025](https://ieeexplore.ieee.org/abstract/document/11143592)]
+
+#### Visual transformer based unified framework for radio map estimation and optimized site selection
+[[IEICE Transactions on Communications 2025](https://ieeexplore.ieee.org/abstract/document/11114848)]
+
+#### 3D-RadioDiff: An Altitude-Conditioned Diffusion Model for 3D Radio Map Construction
+[[IEEE Wireless Communications Letters 2025](https://ieeexplore.ieee.org/abstract/document/10963917)]
+
+#### Radio map estimation using a CycleGAN-based learning framework for 6G wireless communication
+[[Digital Communications and Networks 2025](https://www.sciencedirect.com/science/article/pii/S2352864825001294)]
+
+#### Constructing Frequency Modulation-Broadcasting Map Based on Semi-Supervised Clustering
+[[IEEE Transactions on Broadcasting 2025](https://ieeexplore.ieee.org/abstract/document/11074722)]
+
+#### Physics-Guided Language Model via Low-Rank Adaptation for Path Loss Prediction
+[[IEEE Transactions on Cognitive Communications and Networking 2025](https://ieeexplore.ieee.org/abstract/document/11202166)]
+
+#### Fast Transmission Control Adaptation for URLLC via Channel Knowledge Map and Meta-Learning
+[[IEEE Communications Magazine 2025](https://ieeexplore.ieee.org/abstract/document/10974726)]
+
+#### A Data-driven Transfer Learning Method for Indoor Radio Map Estimation
+[[IEEE Transactions on Vehicular Technology 2025](https://ieeexplore.ieee.org/abstract/document/11159327)]
+
+#### TiRE-GAN: Task-Incentivized Generative Learning for Radiomap Estimation
+[[IEEE Wireless Communications Letters 2025](https://ieeexplore.ieee.org/abstract/document/10892295)]
+
+#### Electromagnetic wave property inspired radio environment knowledge construction and artificial intelligence based verification for 6G digital twin channel
+[[Frontiers of Information Technology & Electronic Engineering 2025](http://doi.org/10.1631/FITEE.2400464)]
+
+#### GPRT: A Gaussian Process Regression-Based Radio Map Construction Method for Rugged Terrain
+[[IEEE Internet of Things Journal 2025](https://ieeexplore.ieee.org/abstract/document/10938559)]
+
+#### WirelessNet: An Efficient Radio Access Network Model Based on Heterogeneous Graph Neural Networks
+[[IEEE Access 2025](https://ieeexplore.ieee.org/abstract/document/10902045)]
+
 #### WiFi-Diffusion: Achieving Fine-Grained WiFi Radio Map Estimation with Ultra-Low Sampling Rate by Diffusion Models
 [[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11066175)]
 
@@ -122,6 +167,33 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### A Scalable and Generalizable Pathloss Map Prediction
 [[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682525)]
+
+#### Overview on IEEE 802.11bf: WLAN Sensing
+[[IEEE Communications Surveys & Tutoria 2024](https://ieeexplore.ieee.org/abstract/document/10547188)]
+
+#### Intelligent reconstruction algorithm of electromagnetic map based on propagation model
+[[Journal of Communications and Networks 2024](https://ieeexplore.ieee.org/abstract/document/10748590)]
+
+#### A Novel Multimodal Fusion Sensing-Based Channel Prediction Method for UAV Communications
+[[IEEE Internet of Things Journal 2024](https://ieeexplore.ieee.org/abstract/document/10720899)]
+
+#### Development of a Conditional Generative Adversarial Network Model for Television Spectrum Radio Environment Mapping
+[[IEEE Access 2024](https://ieeexplore.ieee.org/abstract/document/10813343)]
+
+#### A Tutorial on Environment-Aware Communications via Channel Knowledge Map for 6G
+[[IEEE Communications Surveys & Tutorials 2024](https://ieeexplore.ieee.org/abstract/document/10430216)]
+
+#### Diffraction and Scattering Aware Radio Map and Environment Reconstruction Using Geometry Model-Assisted Deep Learning
+[[IEEE Transactions on Wireless Communications 2024](https://ieeexplore.ieee.org/abstract/document/10745208)]
+
+#### Machine Learning for Channel Quality Prediction: From Concept to Experimental Validation
+[[IEEE Transactions on Wireless Communications 2024](https://ieeexplore.ieee.org/abstract/document/10577598)]
+
+#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
+[[IEEE Transactions on Wireless Communications 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
+
+#### ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks
+[[IET communications 2024](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846)]
 
 #### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
 [[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
@@ -193,6 +265,21 @@ This repository serves as a curated collection of outstanding papers and code re
 [[IEEE WLC 2023](https://ieeexplore.ieee.org/abstract/document/10078269)]
 
 #### A Deep Learning-Based Indoor Radio Estimation Method Driven by 2.4 GHz Ray-Tracing Data
+[[IEEE Access,2023](https://ieeexplore.ieee.org/abstract/document/10347228)]
+
+#### A FL-Based Radio Map Reconstruction Approach for UAV-Aided Wireless Networks
+[[MDPI electronics,2023](https://www.mdpi.com/2079-9292/12/13/2817)]
+
+#### Multi-Stage RF Emitter Search and Geolocation With UAV: A Cognitive Learning-Based Method
+[[IEEE Transactions on Vehicular Technology 2023](https://ieeexplore.ieee.org/abstract/document/10016683)]
+
+#### DeepREM: Deep-Learning-Based Radio Environment Map Estimation From Sparse Measurements
+[[IEEE Access 2023](https://ieeexplore.ieee.org/abstract/document/10127968)]
+
+#### RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network
+[[IEEE Internet of Things Journal 2023](https://ieeexplore.ieee.org/abstract/document/10130091)]
+
+#### A Deep Learning-Based Indoor Radio Estimation Method Driven by 2.4 GHz Ray-Tracing Data
 [[IEEE Access 2023](https:/ieeexplore.ieee.org/abstract/document/10347228)]
 
 #### Temporal prediction for spectrum environment maps with moving radiation sources
@@ -204,6 +291,12 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Pseudo Ray-Tracing: Deep Leaning Assisted Outdoor mm-Wave Path Loss Prediction
 [[IEEE WLC 2022](https://ieeexplore.ieee.org/abstract/document/9774859)]
 
+#### Fast Radio Propagation Prediction with Deep Learning
+[[Compressed Sensing in Information Processing 2022](https://link.springer.com/chapter/10.1007/978-3-031-09745-4_10)]
+
+#### An Overview of Propagation Models BasElectriacaled on Deep Learning Techniques
+[[International Journal Electrical Engineering 2022](https://ijeec.etf.ues.rs.ba/index.php/ijeec/article/view/134)]
+
 #### An Empirical Study on Using CNNs for Fast Radio Signal Prediction
 [[Springer SN Computer Science 2022](https://link.springer.com/article/10.1007/s42979-022-01022-2)]
 
@@ -213,12 +306,37 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map
 [[IEEE TNSE 2020](https://ieeexplore.ieee.org/abstract/document/10424680)]
 
-
-
 ---
 ### Conference
 #### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction
 [[IEEE INFOCOM wksp 2025](https://ieeexplore.ieee.org/document/11152929)]
+
+#### Radio Map Reconstruction Based on Nas Enhanced Deep Regularization Completion for Uav Communications
+[[2025 VTC2025-Spring](https://ieeexplore.ieee.org/abstract/document/11174759)]
+
+#### DULRTC-RME: A Deep Unrolled Low-rank Tensor Completion Network for Radio Map Estimation
+[[2025 ICASSP](https://ieeexplore.ieee.org/abstract/document/10889162)]
+
+#### FedRME: Importance-Aware Cooperative Radio Map Estimation Empowered by Vertical Federated Learning
+[[2025 ICC Workshops](https://ieeexplore.ieee.org/abstract/document/11162141)]
+
+#### A Diffusion-Based Propagation Model for Path Loss Prediction in Indoor Environments
+[[2025 EuCAP](https://ieeexplore.ieee.org/abstract/document/10999434)]
+
+#### RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction （UNIC）
+[[2025 IEEE INFOCOM WKSHPS](https://ieeexplore.ieee.org/abstract/document/11152929)]
+
+#### UNet-Based Deep Learning Pathloss Estimator with Boundary Condition Input
+[[2025 RWS](https://ieeexplore.ieee.org/abstract/document/10904839)]
+
+#### Learning Blockage and Reflection Geometry for MIMO Beam Map Construction
+[[ICC 2025 - IEEE International Conference on Communications](https://ieeexplore.ieee.org/abstract/document/11161713)]
+
+#### Environment-Aware AoD and AoA Prediction for Wireless Networks Utilizing Machine Learning
+[[2025 ICAIIC](https://ieeexplore.ieee.org/abstract/document/10920688)]
+
+#### Channel-Aware Deep Learning for Superimposed Pilot Power Allocation and Receiver Design
+[[2025 VTC2025-Spring](https://ieeexplore.ieee.org/abstract/document/11174787)]
 
 #### Ultra-Grained Channel Fingerprint Construction via Conditional Generative Diffusion Models
 [[IEEE INFOCOM 2025](https:/ieeexplore.ieee.org/abstract/document/11152821)]
@@ -256,6 +374,54 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Channel Knowledge Maps Construction Based on Point Cloud Environment Information
 [[IEEE VTC-Fall 2024](https:/ieeexplore.ieee.org/abstract/document/10757755)]
 
+#### A Transformer-Based Network for Unifying Radio Map Estimation and Optimized Site Selection
+[[2024 ICASSPW](https://ieeexplore.ieee.org/abstract/document/10627516)]
+
+#### Fine Tuning an AI-Based Indoor Radio Propagation Model with Crowd-Sourced Data
+[[2024 EuCAP](https://ieeexplore.ieee.org/abstract/document/10500905)]
+
+#### Distributed Radio Map Reconstruction Based on Semi-Asynchronous Federated Learning Generative Adversarial Networks
+[[2024 ICCC Workshops](https://ieeexplore.ieee.org/abstract/document/10693836)]
+
+#### RobUNet: A Radio Map Construction Method with A Strong Generalization Capability
+[[2024 IEEE Global Communications Conference](https://ieeexplore.ieee.org/abstract/document/10901772)]
+
+#### A 2D Deep Residual Learning Approach for 3D Indoor Radio Map Estimation
+[[ICC 2024 - IEEE International Conference on Communications](https://ieeexplore.ieee.org/abstract/document/10622880)]
+
+#### Towards the Metaverse: Distributed Radio Map Reconstruction based on Federated Learning Generative Adversarial Networks
+[[2024 IWCMC](https://ieeexplore.ieee.org/abstract/document/10592435)]
+
+#### Optimal Base Station Sleep Control via Multi-Agent Reinforcement Learning with Data-Driven Radio Environment Map Calibration
+[[2024 VTC2024-Spring](https://ieeexplore.ieee.org/abstract/document/10683549)]
+
+#### A Bayesian Learning Approach to Wireless Outdoor Heatmap Construction Using Deep Gaussian Process
+[[2024 58th Asilomar Conference on Signals, Systems, and Computers](https://ieeexplore.ieee.org/abstract/document/10942780)]
+
+#### A New Approach to Predict Radio Map via Learning-Based Spatial Loss Field
+[[2024 ICASSPW](https://ieeexplore.ieee.org/abstract/document/10627524)]
+
+#### RecuGAN: A Novel Generative AI Approach for Synthesizing RF Coverage Maps
+[[2024 ICCCN](https://ieeexplore.ieee.org/abstract/document/10637562)]
+
+#### Radio Map Reconstruction Based on Transformer from Sparse Measurement
+[[2024 ICCT](https://ieeexplore.ieee.org/abstract/document/10946503)]
+
+#### Deep Learning-Based Radio Estimation Using a Semi-Automatically Created Indoor Building Information
+[[2024 WCNC](https://ieeexplore.ieee.org/abstract/document/10571287)]
+
+#### Evaluation of Transformer Empowered Channel Prediction for 5G and Beyond Communication
+[[2024 VTC2024-Fall](https://ieeexplore.ieee.org/abstract/document/10757983)]
+
+#### Radio Map Estimation (RME) with Deep Progressive Network
+[[2024 MIPR](https://ieeexplore.ieee.org/abstract/document/10708042)]
+
+#### Fast Indoor Radio Propagation Prediction using Deep Learning
+[[2024 EuCAP](https://ieeexplore.ieee.org/abstract/document/10500989)]
+
+#### Deep Machine Learning-Based AoD Map and AoA Map Construction for Wireless Networks
+[[2024 VTC2024-Spring](https://ieeexplore.ieee.org/abstract/document/10683141)]
+
 #### RM-Gen: Conditional Diffusion Model-Based Radio Map Generation for Wireless Networks
 [[IEEE IFIP Networking 2024](https:/ieeexplore.ieee.org/abstract/document/10619829)]
 
@@ -289,6 +455,18 @@ This repository serves as a curated collection of outstanding papers and code re
 #### UnetRay: A Prediction Method of Indoor Radio Signal Strength Distribution
 [[IEEE ICAIT 2023](https://ieeexplore.ieee.org/abstract/document/10367372)]
 
+#### Locswinunet: A Neural Network for Urban Wireless Localization Using TOA and RSS Radio Maps
+[[2023 MLSP](https://ieeexplore.ieee.org/abstract/document/10285974)]
+
+#### Three-Dimensional Radio Spectrum Map Prediction Based on Fully Connected Neural Network
+[[2023 ICAIT](https://ieeexplore.ieee.org/abstract/document/10367287)]
+
+#### Federated Learning-Based Radio Environment Map Construction for Wireless Networks
+[[2023 IEEE Global Communications Conference](https://ieeexplore.ieee.org/abstract/document/10437765)]
+
+#### Propagation Graph Representation Learning and Its Implementation in Direct Path Representation
+[[2023 WCNC](https://ieeexplore.ieee.org/abstract/document/10118812)]
+
 #### UAV-aided Joint Radio Map and 3D Environment Reconstruction using Deep Learning Approaches
 [[IEEE ICC 2022](https:/ieeexplore.ieee.org/abstract/document/9838964)]
 
@@ -297,6 +475,27 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### Deep Transfer Learning Based Radio Map Estimation for Indoor Wireless Communications
 [[IEEE SPAWC 2022](https:/ieeexplore.ieee.org/abstract/document/9833974)]
+
+#### LocUNet: Fast Urban Positioning Using Radio Maps and Deep Learning
+[[2022 ICASSP ](https://ieeexplore.ieee.org/abstract/document/9747240)]
+
+#### Deep Transfer Learning Based Radio Map Estimation for Indoor Wireless Communications
+[[2022 SPAWC](https://ieeexplore.ieee.org/abstract/document/9833974)]
+
+#### Learning Graph Convolutional Neural Networks to Predict Radio Environment Maps
+[[2022 WPMC](https://ieeexplore.ieee.org/abstract/document/10014842)]
+
+#### RadioResUNet: Wireless Measurement by Deep Learning for Indoor Environments
+[[2022 WPMC](https://ieeexplore.ieee.org/abstract/document/10014763)]
+
+#### Extending Machine Learning Based RF Coverage Predictions to 3D
+[[2022 AP-S/URSI](https://ieeexplore.ieee.org/abstract/document/9887000)]
+
+#### Exemplar-Based Radio Map Reconstruction of Missing Areas Using Propagation Priority
+[[2022 IEEE Global Communications Conference](https://ieeexplore.ieee.org/abstract/document/10001269)]
+
+#### Spatial Prediction of Channel Signal Strength Map Using Deep Fully Convolutional Neural Network
+[[2022 56th Asilomar Conference on Signals, Systems, and Computers](https://ieeexplore.ieee.org/abstract/document/10051926)]
 
 #### Transformer based Radio Map Prediction Model for Dense Urban Environments
 [[IEEE ISAPE 2021](https:/ieeexplore.ieee.org/abstract/document/9753644)]
@@ -313,6 +512,39 @@ This repository serves as a curated collection of outstanding papers and code re
 
 #### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
 [[Arxiv 2025](https://arxiv.org/abs/2504.14298)]
+
+#### GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization
+[[ArXiv 2025](https://arxiv.org/abs/2503.18078)]
+
+#### Fusion of Pervasive RF Data with Spatial Images via Vision Transformers for Enhanced Mapping in Smart Cities
+[[ArXiv 2025](https://arxiv.org/abs/2508.03736)]
+
+#### BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks
+[[ArXiv 2025](https://arxiv.org/abs/2507.23236)]
+
+#### Channel Fingerprint Construction for Massive MIMO: A Deep Conditional Generative Approach
+[[ArXiv 2025](https://arxiv.org/abs/2505.07893)]
+
+#### PINN and GNN-based RF Map Construction for Wireless Communication Systems
+[[ArXiv 2025](https://arxiv.org/abs/2507.22513)]
+
+#### RMTransformer: Accurate Radio Map Construction and Coverage Prediction
+[[ArXiv 2025](https://arxiv.org/abs/2501.05190)]
+
+#### LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines
+[[ArXiv 2025](https://arxiv.org/abs/2509.14711)]
+
+#### Machine Learning based Radio Environment Map Estimation for Indoor Visible Light Communication
+[[ArXiv 2025](https://arxiv.org/abs/2507.19149)]
+
+#### Bayesian Radio Map Estimation: Fundamentals and Implementation via Diffusion Models
+[[ArXiv 2025](https://arxiv.org/abs/2508.06037)]
+
+#### RadioDUN: A Physics-Inspired Deep Unfolding Network for Radio Map Estimation
+[[ArXiv 2025](https://arxiv.org/abs/2506.08418)]
+
+#### RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer with 1\textpertenthousand Spatial Sampling
+[[ArXiv 2025](https://arxiv.org/abs/2504.19161)]
 
 #### RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation
 [[Arxiv 2025](https://www.arxiv.org/abs/2509.01875)]
@@ -332,5 +564,40 @@ This repository serves as a curated collection of outstanding papers and code re
 #### Solving Maxwell's equations with Non-Trainable Graph Neural Network Message Passing
 [[ArXiv 2024](https://arxiv.org/abs/2405.00814)]
 
+#### Radio Map Estimation -- An Open Dataset with Directive Transmitter Antennas and Initial Experiments
+[[ArXiv 2024](https://arxiv.org/abs/2402.00878)]
+
+#### A Deep Unfolding-Based Scalarization Approach for Power Control in D2D Networks
+[[ArXiv 2024](https://arxiv.org/abs/2410.16104)]
+
+#### Simulating, Fast and Slow: Learning Policies for Black-Box Optimization
+[[ArXiv 2024](https://arxiv.org/abs/2406.04261)]
+
+#### White Paper on Radio Channel Modeling and Prediction to Support Future Environment-aware Wireless Communication Systems
+[[ArXiv 2023](https://arxiv.org/abs/2402.00878)]
+
+#### Deep Learning Based Active Spatial Channel Gain Prediction Using a Swarm of Unmanned Aerial Vehicles
+[[ArXiv 2023](https://arxiv.org/abs/2310.04547)]
+
 #### RadioNet: Transformer based Radio Map Prediction Model For Dense Urban Environments
 [[ArXiv 2021](https://arxiv.org/abs/2105.07158)]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
