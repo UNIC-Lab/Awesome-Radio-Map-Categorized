@@ -1,6 +1,8 @@
 # Awesome-Radio-Map
 This repository serves as a curated collection of outstanding papers and code related to learning-based radio maps (RM), also referred to as channel knowledge maps (CKM).
 
+If there are any of your papers that have not been collected, please contact us.
+
 ## Paper with Code
 ---
 ### Journal
