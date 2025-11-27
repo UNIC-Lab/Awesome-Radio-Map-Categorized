@@ -72,6 +72,9 @@ If there are any of your papers that have not been collected, please contact us.
 [[Arxiv 2025](https://arxiv.org/abs/2504.15623)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
 
+#### iRadioDiff: Physics Informed Diffusion Model for Effective Indoor Radio Map Construction and Localization
+[[Arxiv 2025](https://arxiv.org/abs/2511.20015)]
+[[Code](https://github.com/UNIC-Lab/iRadioDiff)] 
 
 ---
 ## Paper without Code
