@@ -19,6 +19,10 @@ If there are any of your papers that have not been collected, please contact us.
 [[IEEE TCCN 2025](https://ieeexplore.ieee.org/document/10764739)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff)] 
 
+#### RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction
+[[IEEE JSAC 2025](https://ieeexplore.ieee.org/document/11278649)]
+[[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
+
 #### RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication
 [[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11083758)]
 [[Code](https://github.com/UNIC-Lab/UrbanRadio3D)] 
@@ -45,6 +49,9 @@ If there are any of your papers that have not been collected, please contact us.
 
 ---
 ### Conference
+#### iRadioDiff: Physics Informed Diffusion Model for Effective Indoor Radio Map Construction and Localization
+[[IEEE ICC 2026](https://arxiv.org/abs/2511.20015)]
+[[Code](https://github.com/UNIC-Lab/iRadioDiff)] 
 #### PhyRMDM: Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction
 [[ACM MM BNI 2025](https://arxiv.org/abs/2501.19160)]
 [[Code](https://github.com/Hxxxz0/RMDM)]
@@ -68,13 +75,6 @@ If there are any of your papers that have not been collected, please contact us.
 [[ArXiv 2025](https://arxiv.org/abs/2411.19420)]
 [[Code](https://github.com/SunLab-UGA/RF-3DGS)]
 
-#### RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction
-[[Arxiv 2025](https://arxiv.org/abs/2504.15623)]
-[[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
-
-#### iRadioDiff: Physics Informed Diffusion Model for Effective Indoor Radio Map Construction and Localization
-[[Arxiv 2025](https://arxiv.org/abs/2511.20015)]
-[[Code](https://github.com/UNIC-Lab/iRadioDiff)] 
 
 ---
 ## Paper without Code
