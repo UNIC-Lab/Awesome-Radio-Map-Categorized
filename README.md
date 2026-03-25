@@ -20,7 +20,7 @@ If there are any of your papers that have not been collected, please contact us.
 [[Code](https://github.com/UNIC-Lab/RadioDiff)] 
 
 #### RadioDiff- $k^2$ : Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction
-[[IEEE JSAC 2025](https://ieeexplore.ieee.org/document/11278649)]
+[[IEEE JSAC 2026](https://ieeexplore.ieee.org/document/11278649)]
 [[Code](https://github.com/UNIC-Lab/RadioDiff-k)] 
 
 #### RadioDiff-3D: A 3D× 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication
