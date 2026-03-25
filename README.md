@@ -83,6 +83,9 @@ If there are any of your papers that have not been collected, please contact us.
 #### CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks
 [[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11059941)]
 
+#### A Disentangled Representation Learning Framework for Low-altitude Network Coverage Prediction
+[[IEEE Transactions on Mobile Computing 2025](https://ieeexplore.ieee.org/document/11268973)]
+
 #### Fast Transmission Control Adaptation for URLLC via Channel Knowledge Map and Meta-Learning
 [[IEEE Internet of Things Journal 2025](https://ieeexplore.ieee.org/abstract/document/10930931)]
 
