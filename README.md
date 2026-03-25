@@ -35,6 +35,10 @@ If there are any of your papers that have not been collected, please contact us.
 [[IEEE TNSE 2025](https://ieeexplore.ieee.org/document/11190042)]
 [[Code](https://github.com/UNIC-Lab/RadioMamba)] 
 
+#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
+[[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
+[[Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction)]
+
 #### ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks
 [[IET communications 2024](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846)]
 [[Code](https://github.com/YNUniversityCQ/ACT-GAN)]
@@ -70,6 +74,10 @@ If there are any of your papers that have not been collected, please contact us.
 
 ---
 ### ArXiv
+
+#### U6G XL-MIMO Radiomap Prediction: Multi-Config Dataset and Beam Map Approach
+[[Arxiv 2026](https://arxiv.org/abs/2603.06401v1)]
+[[Code](https://github.com/Lxj321/MulticonfigRadiomapDataset)]
 
 #### RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting
 [[ArXiv 2025](https://arxiv.org/abs/2411.19420)]
@@ -194,14 +202,10 @@ If there are any of your papers that have not been collected, please contact us.
 #### Machine Learning for Channel Quality Prediction: From Concept to Experimental Validation
 [[IEEE Transactions on Wireless Communications 2024](https://ieeexplore.ieee.org/abstract/document/10577598)]
 
-#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
-[[IEEE Transactions on Wireless Communications 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
 
 #### ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks
 [[IET communications 2024](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846)]
 
-#### RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks
-[[IEEE TWC 2024](https://ieeexplore.ieee.org/abstract/document/10682510)]
 
 #### Machine Learning for Channel Quality Prediction: From Concept to Experimental Validation
 [[IEEE TWC 2024](https:/ieeexplore.ieee.org/abstract/document/10577598)]
