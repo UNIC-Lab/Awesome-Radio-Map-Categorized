@@ -56,6 +56,7 @@ If there are any of your papers that have not been collected, please contact us.
 #### iRadioDiff: Physics Informed Diffusion Model for Effective Indoor Radio Map Construction and Localization
 [[IEEE ICC 2026](https://arxiv.org/abs/2511.20015)]
 [[Code](https://github.com/UNIC-Lab/iRadioDiff)] 
+
 #### PhyRMDM: Physics-Informed Representation Alignment for Sparse Radio-Map Reconstruction
 [[ACM MM BNI 2025](https://arxiv.org/abs/2501.19160)]
 [[Code](https://github.com/Hxxxz0/RMDM)]
@@ -63,6 +64,10 @@ If there are any of your papers that have not been collected, please contact us.
 #### SIP2Net: Situational-Aware Indoor Pathloss-Map Prediction Network for Radio Map Generation
 [[IEEE ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10890319)]
 [[Code](https://github.com/lululu123321/SIP2Net)] 
+
+#### OpenPathNet: An Open-Source RF Multipath Data Generator for AI-Driven Wireless Systems
+[[IEEE VTC2026-Spring](https://arxiv.org/abs/2512.17286)]
+[[Code](https://github.com/liu-lz/OpenPathNet)]
 
 #### TransPathNet: A Novel Two-Stage Framework for Indoor Radio Map Prediction
 [[IEEE ICASSP 2025](https://ieeexplore.ieee.org/abstract/document/10887939)]
