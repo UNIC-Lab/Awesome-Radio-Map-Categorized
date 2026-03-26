@@ -84,6 +84,10 @@ If there are any of your papers that have not been collected, please contact us.
 ---
 ### ArXiv
 
+#### RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction
+[[Arxiv 2026](https://arxiv.org/abs/2603.18865)]
+[[Code](https://github.com/UNIC-Lab/RadioDiff-FS)]
+
 #### U6G XL-MIMO Radiomap Prediction: Multi-Config Dataset and Beam Map Approach
 [[Arxiv 2026](https://arxiv.org/abs/2603.06401v1)]
 [[Code](https://github.com/Lxj321/MulticonfigRadiomapDataset)]
