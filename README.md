@@ -101,6 +101,10 @@ If there are any of your papers that have not been collected, please contact us.
 ## Paper without Code
 ---
 ### Journal
+
+#### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
+[[IEEE TWC 2026](https://arxiv.org/abs/2504.14298)]
+
 #### CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks
 [[IEEE JSAC 2025](https:/ieeexplore.ieee.org/abstract/document/11059941)]
 
@@ -535,8 +539,6 @@ If there are any of your papers that have not been collected, please contact us.
 ---
 ### ArXiv
 
-#### RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction
-[[Arxiv 2025](https://arxiv.org/abs/2504.14298)]
 
 #### GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization
 [[ArXiv 2025](https://arxiv.org/abs/2503.18078)]
