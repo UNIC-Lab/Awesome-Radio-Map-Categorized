@@ -92,6 +92,10 @@ If there are any of your papers that have not been collected, please contact us.
 [[Arxiv 2026](https://arxiv.org/abs/2603.06401v1)]
 [[Code](https://github.com/Lxj321/MulticonfigRadiomapDataset)]
 
+### PathFinder: Advancing Path Loss Prediction for Single-to-Multi-Transmitter Scenario
+[[Arxiv 2025](https://arxiv.org/pdf/2512.14150)]
+[[Code](https://github.com/EmorZz1G/PathFinder)]
+
 #### RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting
 [[ArXiv 2025](https://arxiv.org/abs/2411.19420)]
 [[Code](https://github.com/SunLab-UGA/RF-3DGS)]
