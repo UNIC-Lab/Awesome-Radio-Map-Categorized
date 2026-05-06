@@ -55,7 +55,12 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 
 ### Journal
 - **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421)
-- **https://ieeexplore.ieee.org/abstract/document/11481010**. *IEEE CL 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481010)
+- **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**. *IEEE TMC*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481652)
+- **Blind Radio Map Construction via Topology Guided Manifold Learning**. *IEEE IoT J*. [Paper](https://ieeexplore.ieee.org/abstract/document/11474342)
+- **End-to-End UAV-Enabled Adaptive 3D Radio Mapping via Joint Optimization of Sparse Sampling and Reconstruction**. *IEEE IoT J*. [Paper](https://ieeexplore.ieee.org/abstract/document/11456505)
+- **A graph neural network-based method for 3D radio environment map construction in urban scenarios**. *IEEE JSEE*. [Paper](https://ieeexplore.ieee.org/abstract/document/11456877)
+- **Minimum energy consumption of multi-UAV logistics distribution with heading angle constraints based on radio map**. *J. PhyCom*. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382)
+- **Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**. *IEEE CL 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481010)
 - **RMF: one-step radio map reconstruction via mean flow matching**. *Connection Science 2026*. [Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2026.2658948)
 - **RadioVAR: Fast Sampling-Free Radio Map Construction via Coarse-to-Fine Token Prediction**。 *IEEE TCE 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11493478)
 - **An RT-Supervised Simulation-to-Simulation Framework for Path Loss Radio Map Prediction Based on Geographic Environmental Information**. *Electronics 2026*.  [Paper](https://www.mdpi.com/2079-9292/15/8/1750)
@@ -199,6 +204,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **Prediction of Indoor Wireless Coverage from 3D Floor Plans Using Deep Convolutional Neural Networks**. *IEEE LCN 2021*. [Paper](https://ieeexplore.ieee.org/document/9525019)
 
 ### ArXiv
+- **Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.05788)
 - **Physics-Aware Query-Conditioned Graph Attention Networks for Radio Map Estimation**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.17414)
 - **FARM: Foundational Aerial Radio Map for Intelligent Low-Altitude Networking**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.17362)
 - **Statistical Channel Fingerprint Construction for Massive MIMO: A Unified Tensor Learning Framework**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.27574)
