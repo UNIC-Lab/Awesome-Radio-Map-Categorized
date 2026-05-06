@@ -27,6 +27,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**. *IEEE TCCN 2025*. [Paper](https://ieeexplore.ieee.org/document/10764739) | [Code](https://github.com/UNIC-Lab/RadioDiff)
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. *IEEE JSAC 2026*. [Paper](https://ieeexplore.ieee.org/document/11278649) | [Code](https://github.com/UNIC-Lab/RadioDiff-k)
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**. *IEEE TNSE 2025*. [Paper](https://ieeexplore.ieee.org/document/11083758) | [Code](https://github.com/UNIC-Lab/UrbanRadio3D)
+- **RadioMapMotion: A Dataset and Benchmark for Proactive Spatio-Temporal Radio Environment Prediction**. *IEEE TCCN 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11488322) | [Code](https://github.com/UNIC-Lab/RadioMapMotion)
 - **Paying Deformable Attention to Sparse Spatial Observations for Deep Radio Map Estimation**. *IEEE TCCN 2025*. [Paper](https://ieeexplore.ieee.org/document/11176936) | [Code](https://github.com/AkonLau/DAT-Unet)
 - **RadioMamba: Breaking the Accuracy-Efficiency Trade-Off in Radio Map Construction Via a Hybrid Mamba-UNet**. *IEEE TNSE 2025*. [Paper](https://ieeexplore.ieee.org/document/11190042) | [Code](https://github.com/UNIC-Lab/RadioMamba)
 - **RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks**. *IEEE TWC 2024*. [Paper](https://ieeexplore.ieee.org/document/10682510) | [Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction)
@@ -53,8 +54,11 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 ## Papers without Code
 
 ### Journal
-
-- **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://arxiv.org/abs/2504.14298)
+- **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421)
+- **https://ieeexplore.ieee.org/abstract/document/11481010**. *IEEE CL 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481010)
+- **RMF: one-step radio map reconstruction via mean flow matching**. *Connection Science 2026*. [Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2026.2658948)
+- **RadioVAR: Fast Sampling-Free Radio Map Construction via Coarse-to-Fine Token Prediction**。 *IEEE TCE 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11493478)
+- **An RT-Supervised Simulation-to-Simulation Framework for Path Loss Radio Map Prediction Based on Geographic Environmental Information**. *Electronics 2026*.  [Paper](https://www.mdpi.com/2079-9292/15/8/1750)
 - **CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks**. *IEEE JSAC 2025*. [Paper](https://ieeexplore.ieee.org/document/11059941)
 - **A Disentangled Representation Learning Framework for Low-altitude Network Coverage Prediction**. *IEEE Transactions on Mobile Computing 2025*. [Paper](https://ieeexplore.ieee.org/document/11268973)
 - **Fast Transmission Control Adaptation for URLLC via Channel Knowledge Map and Meta-Learning**. *IEEE Internet of Things Journal 2025*. [Paper](https://ieeexplore.ieee.org/document/10930931)
@@ -128,7 +132,8 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map**. *IEEE TNSE 2020*. [Paper](https://ieeexplore.ieee.org/document/10424680)
 
 ### Conference
-
+- **https://ieeexplore.ieee.org/abstract/document/11462622**. *IEEE ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11462622)
+- **Multiantenna Channel Map Prediction with Missing Location Information using Contrastive Learning and Graph Neural Networks**. *IEEE ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11462797)
 - **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. *IEEE INFOCOM wksp 2025*. [Paper](https://ieeexplore.ieee.org/document/11152929)
 - **Radio Map Reconstruction Based on Nas Enhanced Deep Regularization Completion for Uav Communications**. *2025 VTC2025-Spring*. [Paper](https://ieeexplore.ieee.org/document/11174759)
 - **DULRTC-RME: A Deep Unrolled Low-rank Tensor Completion Network for Radio Map Estimation**. *2025 ICASSP*. [Paper](https://ieeexplore.ieee.org/document/10889162)
@@ -194,7 +199,11 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **Prediction of Indoor Wireless Coverage from 3D Floor Plans Using Deep Convolutional Neural Networks**. *IEEE LCN 2021*. [Paper](https://ieeexplore.ieee.org/document/9525019)
 
 ### ArXiv
-
+- **Physics-Aware Query-Conditioned Graph Attention Networks for Radio Map Estimation**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.17414)
+- **FARM: Foundational Aerial Radio Map for Intelligent Low-Altitude Networking**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.17362)
+- **Statistical Channel Fingerprint Construction for Massive MIMO: A Unified Tensor Learning Framework**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.27574)
+- **PILOT: One Physics-Integrated Generation Framework to Unify 2D and 3D Radio Map Construction**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.23533)
+- **CKM Beyond Channel Gain: Spatial Correlation Map Construction with Deep Learning**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.20684)
 - **GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**. *arXiv 2025*. [Paper](https://arxiv.org/abs/2503.18078)
 - **Fusion of Pervasive RF Data with Spatial Images via Vision Transformers for Enhanced Mapping in Smart Cities**. *arXiv 2025*. [Paper](https://arxiv.org/abs/2508.03736)
 - **BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks**. *arXiv 2025*. [Paper](https://arxiv.org/abs/2507.23236)
