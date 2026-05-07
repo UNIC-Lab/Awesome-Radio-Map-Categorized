@@ -55,9 +55,10 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 
 ### Journal
 - **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421)
-- **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**. *IEEE TMC*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481652)
-- **Blind Radio Map Construction via Topology Guided Manifold Learning**. *IEEE IoT J*. [Paper](https://ieeexplore.ieee.org/abstract/document/11474342)
-- **End-to-End UAV-Enabled Adaptive 3D Radio Mapping via Joint Optimization of Sparse Sampling and Reconstruction**. *IEEE IoT J*. [Paper](https://ieeexplore.ieee.org/abstract/document/11456505)
+- **RMG-SRGAN:Super-Resolution Generative Adversarial Network based on multi-scale attention aggregation and feature enhancement for radio map generation**. *ICT Express 2026*. [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X)
+- **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**. *IEEE TMC 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481652)
+- **Blind Radio Map Construction via Topology Guided Manifold Learning**. *IEEE IoT J 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11474342)
+- **End-to-End UAV-Enabled Adaptive 3D Radio Mapping via Joint Optimization of Sparse Sampling and Reconstruction**. *IEEE IoT J 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11456505)
 - **A graph neural network-based method for 3D radio environment map construction in urban scenarios**. *IEEE JSEE*. [Paper](https://ieeexplore.ieee.org/abstract/document/11456877)
 - **Minimum energy consumption of multi-UAV logistics distribution with heading angle constraints based on radio map**. *J. PhyCom*. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382)
 - **Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**. *IEEE CL 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481010)
@@ -137,7 +138,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map**. *IEEE TNSE 2020*. [Paper](https://ieeexplore.ieee.org/document/10424680)
 
 ### Conference
-- **https://ieeexplore.ieee.org/abstract/document/11462622**. *IEEE ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11462622)
+- **Compressed Spectrum Cartography: Estimating Wide-Band Channel Gain Maps from Sub-Nyquist Delay Correlations**. *IEEE ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11462622)
 - **Multiantenna Channel Map Prediction with Missing Location Information using Contrastive Learning and Graph Neural Networks**. *IEEE ICASSP 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11462797)
 - **RadioDiff-Turbo: Lightweight Generative Large Electromagnetic Model for Wireless Digital Twin Construction**. *IEEE INFOCOM wksp 2025*. [Paper](https://ieeexplore.ieee.org/document/11152929)
 - **Radio Map Reconstruction Based on Nas Enhanced Deep Regularization Completion for Uav Communications**. *2025 VTC2025-Spring*. [Paper](https://ieeexplore.ieee.org/document/11174759)
