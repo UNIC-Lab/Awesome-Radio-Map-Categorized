@@ -28,6 +28,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. *IEEE JSAC 2026*. [Paper](https://ieeexplore.ieee.org/document/11278649) | [Code](https://github.com/UNIC-Lab/RadioDiff-k)
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**. *IEEE TNSE 2025*. [Paper](https://ieeexplore.ieee.org/document/11083758) | [Code](https://github.com/UNIC-Lab/UrbanRadio3D)
 - **RadioMapMotion: A Dataset and Benchmark for Proactive Spatio-Temporal Radio Environment Prediction**. *IEEE TCCN 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11488322) | [Code](https://github.com/UNIC-Lab/RadioMapMotion)
+- **R2Net: 2D Deep Residual Learning with Height Embedding for 3D Radio Map Estimation**. *IEEE TVT 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) | [Code](https://github.com/lighttime2023/3DiRM3200.git)
 - **Paying Deformable Attention to Sparse Spatial Observations for Deep Radio Map Estimation**. *IEEE TCCN 2025*. [Paper](https://ieeexplore.ieee.org/document/11176936) | [Code](https://github.com/AkonLau/DAT-Unet)
 - **RadioMamba: Breaking the Accuracy-Efficiency Trade-Off in Radio Map Construction Via a Hybrid Mamba-UNet**. *IEEE TNSE 2025*. [Paper](https://ieeexplore.ieee.org/document/11190042) | [Code](https://github.com/UNIC-Lab/RadioMamba)
 - **RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks**. *IEEE TWC 2024*. [Paper](https://ieeexplore.ieee.org/document/10682510) | [Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction)
@@ -56,6 +57,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 
 ### Journal
 - **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421)
+- **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**. *IEEE TCom 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11506340)
 - **RMG-SRGAN:Super-Resolution Generative Adversarial Network based on multi-scale attention aggregation and feature enhancement for radio map generation**. *ICT Express 2026*. [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X)
 - **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**. *IEEE TMC 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481652)
 - **Blind Radio Map Construction via Topology Guided Manifold Learning**. *IEEE IoT J 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11474342)
