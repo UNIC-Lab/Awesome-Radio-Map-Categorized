@@ -208,6 +208,8 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **Prediction of Indoor Wireless Coverage from 3D Floor Plans Using Deep Convolutional Neural Networks**. *IEEE LCN 2021*. [Paper](https://ieeexplore.ieee.org/document/9525019)
 
 ### ArXiv
+- **Beam-Aware Radio Map Estimation With Physics-Consistent Parametric Modeling for Unknown Multiple Satellites**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2605.07763)
+- **TGPP: Trajectory-Guided Plug-and-Play Priors for Sparse Radio Map Reconstruction**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2605.05844)
 - **CSI-tuples-based 3D Channel Fingerprints Construction Assisted by MultiModal Learning**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2603.25288)
 - **DF-3DRME: A Data-Friendly Learning Framework for 3D Radio Map Estimation based on Super-Resolution Technique**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.00676)
 - **Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2604.05788)
