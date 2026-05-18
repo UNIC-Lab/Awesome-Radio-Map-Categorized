@@ -57,6 +57,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 
 ### Journal
 - **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421)
+- **A Three-Stage Vision-Based Transformer for Channel Gain Map Construction**. *IEEE TCom 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11514075)
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**. *IEEE TCom 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11506340)
 - **RMG-SRGAN:Super-Resolution Generative Adversarial Network based on multi-scale attention aggregation and feature enhancement for radio map generation**. *ICT Express 2026*. [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X)
 - **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**. *IEEE TMC 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11481652)
