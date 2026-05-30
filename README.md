@@ -22,8 +22,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 
 ### Journal
 
-- **RadioUNet: Fast Radio Map Estimation With Convolutional Neural Networks**. *IEEE TWC 2021*. [Paper](https://ieeexplore.ieee.org/document/9354041) | [Code](https://github.com/RonLevie/RadioUNet)
-- **RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network**. *IEEE IoT J 2023*. [Paper](https://ieeexplore.ieee.org/document/10130091) | [Code](https://github.com/achinthaw/RME-GAN)
+- **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421) | [Code](https://github.com/UNIC-Lab/radiodiff-inverse)
 - **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**. *IEEE TCCN 2025*. [Paper](https://ieeexplore.ieee.org/document/10764739) | [Code](https://github.com/UNIC-Lab/RadioDiff)
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. *IEEE JSAC 2026*. [Paper](https://ieeexplore.ieee.org/document/11278649) | [Code](https://github.com/UNIC-Lab/RadioDiff-k)
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**. *IEEE TNSE 2025*. [Paper](https://ieeexplore.ieee.org/document/11083758) | [Code](https://github.com/UNIC-Lab/UrbanRadio3D)
@@ -37,6 +36,8 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 - **ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks**. *IET Communications 2024*. [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846) | [Code](https://github.com/YNUniversityCQ/ACT-GAN)
 - **Real-Time Outdoor Localization Using Radio Maps: A Deep Learning Approach**. *IEEE TWC 2023*. [Paper](https://ieeexplore.ieee.org/document/10122907) | [Code](https://github.com/CagkanYapar/LocUNet)
 - **Deep Completion Autoencoders for Radio Map Estimation**. *IEEE TWC 2022*. [Paper](https://ieeexplore.ieee.org/document/9523765) | [Code](https://github.com/fachu000/deep-autoencoders-cartography)
+- **RadioUNet: Fast Radio Map Estimation With Convolutional Neural Networks**. *IEEE TWC 2021*. [Paper](https://ieeexplore.ieee.org/document/9354041) | [Code](https://github.com/RonLevie/RadioUNet)
+- **RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network**. *IEEE IoT J 2023*. [Paper](https://ieeexplore.ieee.org/document/10130091) | [Code](https://github.com/achinthaw/RME-GAN)
 
 ### Conference
 
@@ -56,7 +57,6 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 ## Papers without Code
 
 ### Journal
-- **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421)
 - **CSI-Tuples-Based 3-D Channel Fingerprints Construction Assisted by Multimodal Learning**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11534430)
 - **A Three-Stage Vision-Based Transformer for Channel Gain Map Construction**. *IEEE TCom 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11514075)
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**. *IEEE TCom 2026*. [Paper](https://ieeexplore.ieee.org/abstract/document/11506340)
