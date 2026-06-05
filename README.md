@@ -8,11 +8,14 @@ If you find this repository helpful, please consider citing our tutorial paper:
 ## Citation
 
 ```bibtex
-@article{wang2026tutorial,
-  title={A tutorial on learning-based radio map construction: Data, paradigms, and physics-awareness},
-  author={Wang, Xiucheng and Pan, Yuhao and Cheng, Nan},
-  journal={arXiv preprint arXiv:2603.17499},
-  year={2026}
+@misc{wang2026tutoriallearningbasedradiomap,
+      title={A Tutorial on Learning-Based Radio Map Construction: Data, Paradigms, and Physics-Awareness}, 
+      author={Xiucheng Wang and Yuhao Pan and Nan Cheng and Çağkan Yapar and Ruijin Sun and Zhisheng Yin and Conghao Zhou and Wenchao Xu and Yuxiang Zhang and Jianhua Zhang and Shuguang Cui and Xuemin Shen},
+      year={2026},
+      eprint={2603.17499},
+      archivePrefix={arXiv},
+      primaryClass={eess.SY},
+      url={https://arxiv.org/abs/2603.17499}, 
 }
 ```
 
