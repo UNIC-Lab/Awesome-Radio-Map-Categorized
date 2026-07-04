@@ -26,6 +26,7 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 ### Journal
 
 - **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**. *IEEE TWC 2026*. [Paper](https://ieeexplore.ieee.org/document/11466421) | [Code](https://github.com/UNIC-Lab/radiodiff-inverse)
+- **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**. *IEEE IoTJ 2026*. [Paper](https://ieeexplore.ieee.org/document/11577136) | [Code](https://github.com/UNIC-Lab/RadioDiff-FS)
 - **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**. *IEEE TCCN 2025*. [Paper](https://ieeexplore.ieee.org/document/10764739) | [Code](https://github.com/UNIC-Lab/RadioDiff)
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**. *IEEE JSAC 2026*. [Paper](https://ieeexplore.ieee.org/document/11278649) | [Code](https://github.com/UNIC-Lab/RadioDiff-k)
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**. *IEEE TNSE 2025*. [Paper](https://ieeexplore.ieee.org/document/11083758) | [Code](https://github.com/UNIC-Lab/UrbanRadio3D)
@@ -53,7 +54,6 @@ Contributions are welcome. If a relevant paper is missing, please open an issue 
 
 ### ArXiv
 
-- **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2603.18865) | [Code](https://github.com/UNIC-Lab/RadioDiff-FS)
 - **U6G XL-MIMO Radiomap Prediction: Multi-Config Dataset and Beam Map Approach**. *arXiv 2026*. [Paper](https://arxiv.org/abs/2603.06401v1) | [Code](https://github.com/Lxj321/MulticonfigRadiomapDataset)
 - **RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**. *arXiv 2025*. [Paper](https://arxiv.org/abs/2411.19420) | [Code](https://github.com/SunLab-UGA/RF-3DGS)
 
