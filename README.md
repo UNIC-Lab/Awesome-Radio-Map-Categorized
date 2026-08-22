@@ -818,7 +818,9 @@ If you find this repository helpful, please cite the tutorial paper:
 
 <details open>
 <summary><strong>2026</strong> <sub>28 papers</sub></summary>
-
+  
+- **Channel Map-Based Channel Estimation for Near-Field UM-MIMO with Movable Planar Arrays**  
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2608.05520)
 - **A Geometric Algebra-Informed 3DGS Framework for Wireless Channel Prediction**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.19065)
 - **Active Perception for Radio Map Reconstruction in Uncharted 3D Air-Ground Environments**  
