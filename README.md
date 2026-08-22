@@ -44,23 +44,23 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2026</strong> <sub>9 papers</sub></summary>
 
 - **A Fine-Grained 3D Radio Map Construction Paradigm With Ultra-Low Sampling Rates by Large Generative Models**  
-  *IEEE JSAC 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11455177) · [Code](https://github.com/liuzhiyuan-pku/RadioLAM) · <sub>JCR Q1 · CAS 1 · IF 16.8 · CCF A</sub>
+  *IEEE JSAC 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11455177) · [Code](https://github.com/liuzhiyuan-pku/RadioLAM) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8 · CCF A</sub>
 - **Bridging Visual and Wireless Sensing via a Unified Radiation Field for 3D Radio Map Construction**  
   *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00067-6) · [Code](https://github.com/wenchaozheng/URF-GS) · <sub>JCR None · JCR None · IF None · CCF None</sub>
 - **PathFinder: Advancing Path Loss Prediction for Single-to-Multi-Transmitter Scenario**  
-  *Pattern Recognition 2026* · [Paper](https://arxiv.org/abs/2512.14150) · [Code](https://github.com/EmorZz1G/PathFinder) · <sub>JCR Q1 · CAS 1 · IF 9.1 · CCF B</sub>
+  *Pattern Recognition 2026* · [Paper](https://arxiv.org/abs/2512.14150) · [Code](https://github.com/EmorZz1G/PathFinder) · <sub>JCR Q1 · 中科院分区 1 · IF 9.1 · CCF B</sub>
 - **R2Net: 2D Deep Residual Learning with Height Embedding for 3D Radio Map Estimation**  
-  *IEEE TVT 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) · [Code](https://github.com/lighttime2023/3DiRM3200.git) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) · [Code](https://github.com/lighttime2023/3DiRM3200.git) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**  
-  *IEEE JSAC 2026* · [Paper](https://ieeexplore.ieee.org/document/11278649) · [Code](https://github.com/UNIC-Lab/RadioDiff-k) · <sub>JCR Q1 · CAS 1 · IF 16.8 · CCF A</sub>
+  *IEEE JSAC 2026* · [Paper](https://ieeexplore.ieee.org/document/11278649) · [Code](https://github.com/UNIC-Lab/RadioDiff-k) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8 · CCF A</sub>
 - **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**  
-  *IEEE IoT J 2026* · [Paper](https://ieeexplore.ieee.org/document/11577136) · [Code](https://github.com/UNIC-Lab/RadioDiff-FS) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2026* · [Paper](https://ieeexplore.ieee.org/document/11577136) · [Code](https://github.com/UNIC-Lab/RadioDiff-FS) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**  
-  *IEEE TWC 2026* · [Paper](https://ieeexplore.ieee.org/document/11466421) · [Code](https://github.com/UNIC-Lab/radiodiff-inverse) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2026* · [Paper](https://ieeexplore.ieee.org/document/11466421) · [Code](https://github.com/UNIC-Lab/radiodiff-inverse) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **RadioMapMotion: A Dataset and Benchmark for Proactive Spatio-Temporal Radio Environment Prediction**  
-  *IEEE TCCN 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11488322) · [Code](https://github.com/UNIC-Lab/RadioMapMotion) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11488322) · [Code](https://github.com/UNIC-Lab/RadioMapMotion) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **RadioTrace: Transmitter-Aware Diffusion for Radio Map Estimation Without Deployment-Time Fine-Tuning**  
-  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3716965) · [Code](https://github.com/YannLeo/RadioTrace) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3716965) · [Code](https://github.com/YannLeo/RadioTrace) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 
 </details>
 
@@ -68,15 +68,15 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2025</strong> <sub>5 papers</sub></summary>
 
 - **Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach**  
-  *IEEE TWC 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3631663) · [Code](https://github.com/wenchaozheng/WRF-GSplus) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3631663) · [Code](https://github.com/wenchaozheng/WRF-GSplus) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Paying Deformable Attention to Sparse Spatial Observations for Deep Radio Map Estimation**  
-  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/11176936) · [Code](https://github.com/AkonLau/DAT-Unet) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/11176936) · [Code](https://github.com/AkonLau/DAT-Unet) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**  
-  *IEEE TNSE 2025* · [Paper](https://ieeexplore.ieee.org/document/11083758) · [Code](https://github.com/UNIC-Lab/UrbanRadio3D) · <sub>JCR Q1 · CAS 2 · IF 7.3 · CCF None</sub>
+  *IEEE TNSE 2025* · [Paper](https://ieeexplore.ieee.org/document/11083758) · [Code](https://github.com/UNIC-Lab/UrbanRadio3D) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3 · CCF None</sub>
 - **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**  
-  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/10764739) · [Code](https://github.com/UNIC-Lab/RadioDiff) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/10764739) · [Code](https://github.com/UNIC-Lab/RadioDiff) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **RadioMamba: Breaking the Accuracy-Efficiency Trade-Off in Radio Map Construction Via a Hybrid Mamba-UNet**  
-  *IEEE TNSE 2025* · [Paper](https://ieeexplore.ieee.org/document/11190042) · [Code](https://github.com/UNIC-Lab/RadioMamba) · <sub>JCR Q1 · CAS 2 · IF 7.3 · CCF None</sub>
+  *IEEE TNSE 2025* · [Paper](https://ieeexplore.ieee.org/document/11190042) · [Code](https://github.com/UNIC-Lab/RadioMamba) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3 · CCF None</sub>
 
 </details>
 
@@ -84,17 +84,17 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2024 and Earlier</strong> <sub>6 papers</sub></summary>
 
 - **ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks**  
-  *IET Communications 2024* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846) · [Code](https://github.com/YNUniversityCQ/ACT-GAN) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *IET Communications 2024* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846) · [Code](https://github.com/YNUniversityCQ/ACT-GAN) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **Deep Completion Autoencoders for Radio Map Estimation**  
-  *IEEE TWC 2022* · [Paper](https://ieeexplore.ieee.org/document/9523765) · [Code](https://github.com/fachu000/deep-autoencoders-cartography) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2022* · [Paper](https://ieeexplore.ieee.org/document/9523765) · [Code](https://github.com/fachu000/deep-autoencoders-cartography) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks**  
-  *IEEE TWC 2024* · [Paper](https://ieeexplore.ieee.org/document/10682510) · [Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2024* · [Paper](https://ieeexplore.ieee.org/document/10682510) · [Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **RadioUNet: Fast Radio Map Estimation With Convolutional Neural Networks**  
-  *IEEE TWC 2021* · [Paper](https://ieeexplore.ieee.org/document/9354041) · [Code](https://github.com/RonLevie/RadioUNet) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2021* · [Paper](https://ieeexplore.ieee.org/document/9354041) · [Code](https://github.com/RonLevie/RadioUNet) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Real-Time Outdoor Localization Using Radio Maps: A Deep Learning Approach**  
-  *IEEE TWC 2023* · [Paper](https://ieeexplore.ieee.org/document/10122907) · [Code](https://github.com/CagkanYapar/LocUNet) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2023* · [Paper](https://ieeexplore.ieee.org/document/10122907) · [Code](https://github.com/CagkanYapar/LocUNet) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network**  
-  *IEEE IoT J 2023* · [Paper](https://ieeexplore.ieee.org/document/10130091) · [Code](https://github.com/achinthaw/RME-GAN) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2023* · [Paper](https://ieeexplore.ieee.org/document/10130091) · [Code](https://github.com/achinthaw/RME-GAN) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 
 </details>
 
@@ -192,101 +192,101 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2026</strong> <sub>48 papers</sub></summary>
 
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**  
-  *IEEE TCom 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEEE TCom 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **A Low-Complexity Channel Knowledge Map Construction Based on Environmental Partitioning and Interpolation Weight Learning**  
-  *IEEE IoT J 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672412) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672412) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **A Novel 6G Dynamic Channel Map Based on a Hybrid Channel Model**  
-  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/tvt.2025.3602807) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/tvt.2025.3602807) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **A Three-Stage Vision-Based Transformer for Channel Gain Map Construction**  
-  *IEEE TCom 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11514075) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEEE TCom 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11514075) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **Active Sampling and Gaussian Reconstruction for Radio-Frequency Radiance Field**  
-  *IEEE JSAIT 2026* · [Paper](https://doi.org/10.1109/JSAIT.2026.3688148) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE JSAIT 2026* · [Paper](https://doi.org/10.1109/JSAIT.2026.3688148) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Adaptive Multi-Modal Channel Knowledge Map Construction for Robust Beam Prediction**  
-  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3703956) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3703956) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Adversarial Learning-Based Radio Map Reconstruction for Fingerprinting Localization**  
-  *IEEE AWPL 2026* · [Paper](https://doi.org/10.1109/lawp.2026.3679273) · <sub>JCR Q2 · CAS 3 · IF 4.6 · CCF None</sub>
+  *IEEE AWPL 2026* · [Paper](https://doi.org/10.1109/lawp.2026.3679273) · <sub>JCR Q2 · 中科院分区 3 · IF 4.6 · CCF None</sub>
 - **An RT-Supervised Simulation-to-Simulation Framework for Path Loss Radio Map Prediction Based on Geographic Environmental Information**  
-  *Electronics 2026* · [Paper](https://www.mdpi.com/2079-9292/15/8/1750) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Electronics 2026* · [Paper](https://www.mdpi.com/2079-9292/15/8/1750) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Bayesian Neural Field-Based 3-D Radio Environment Map Reconstruction With Uncertainty Quantification Under Sparse Sampling**  
-  *IEEE OJ-COMS 2026* · [Paper](https://doi.org/10.1109/OJCOMS.2026.3714834) · <sub>JCR Q1 · CAS 2 · IF 6.1 · CCF None</sub>
+  *IEEE OJ-COMS 2026* · [Paper](https://doi.org/10.1109/OJCOMS.2026.3714834) · <sub>JCR Q1 · 中科院分区 2 · IF 6.1 · CCF None</sub>
 - **BeamCKM: A Framework of Channel Knowledge Map Construction for Multi-Antenna Systems**  
-  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3718444) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3718444) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Blind Radio Map Construction via Topology Guided Manifold Learning**  
-  *IEEE IoT J 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11474342) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11474342) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **Channel Gain Map Estimation Based on 3-D Virtual Scatterer Model**  
-  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3685411) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3685411) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Channel Knowledge Map Construction via Guided Flow Matching**  
-  *IEEE WCL 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3693360) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3693360) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Channel Knowledge Map Construction With Radio Propagation Graph Representation Learning**  
-  *IEEE IoT J 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672928) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672928) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **Channel Knowledge Map Construction: Recent Advances and Open Challenges**  
-  *IEEE Wireless Communications 2026* · [Paper](https://doi.org/10.1109/MWC.2026.3668205) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Wireless Communications 2026* · [Paper](https://doi.org/10.1109/MWC.2026.3668205) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Constructing Radio Map via Spatio-Temporal Learning of Crowdsourced Trajectory Data**  
-  *IEEE TMC 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3710356) · <sub>JCR Q1 · CAS 1 · IF 8.8 · CCF A</sub>
+  *IEEE TMC 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3710356) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8 · CCF A</sub>
 - **CSI-Tuples-Based 3-D Channel Fingerprints Construction Assisted by Multimodal Learning**  
-  *IEEE TWC 2026* · [Paper](https://ieeexplore.ieee.org/document/11534430) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2026* · [Paper](https://ieeexplore.ieee.org/document/11534430) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Deformable 2D Gaussian Splatting for Efficient Wireless Radiance Field Rendering**  
-  *IEEE TVCG 2026* · [Paper](https://doi.org/10.1109/TVCG.2026.3681115) · <sub>JCR Q1 · CAS 1 · IF 6.8 · CCF A</sub>
+  *IEEE TVCG 2026* · [Paper](https://doi.org/10.1109/TVCG.2026.3681115) · <sub>JCR Q1 · 中科院分区 1 · IF 6.8 · CCF A</sub>
 - **Digital Twin-Assisted 3D Channel Knowledge Map Inference and Multi-Type Base Station Deployment Optimization for Urban Low-Altitude Economy**  
-  *IEEE TMC 2026* · [Paper](https://doi.org/10.1109/tmc.2026.3692307) · <sub>JCR Q1 · CAS 1 · IF 8.8 · CCF A</sub>
+  *IEEE TMC 2026* · [Paper](https://doi.org/10.1109/tmc.2026.3692307) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8 · CCF A</sub>
 - **End-to-End UAV-Enabled Adaptive 3D Radio Mapping via Joint Optimization of Sparse Sampling and Reconstruction**  
-  *IEEE IoT J 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456505) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456505) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **F4-CKM: Learning Channel Knowledge Map With Radio Frequency Radiance Field Rendering**  
-  *IEEE TCOM 2026* · [Paper](https://doi.org/10.1109/TCOMM.2026.3668162) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEEE TCOM 2026* · [Paper](https://doi.org/10.1109/TCOMM.2026.3668162) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **Fast Aerial Channel Knowledge Map Construction via an Energy-Constrained UAV**  
-  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3693060) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3693060) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Flow Matching for Fast Channel Knowledge Map Construction in AI-Native 6G Networks**  
-  *IEEE WCL 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3720195) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3720195) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Geometry-Aware Cholesky Projection for Indoor Radio Map Sampling**  
-  *IEEE SPL 2026* · [Paper](https://doi.org/10.1109/lsp.2025.3636448) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *IEEE SPL 2026* · [Paper](https://doi.org/10.1109/lsp.2025.3636448) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **HiFiRadio: High-Fidelity Radio Map Reconstruction for 3D Real-World Scenes**  
-  *Technologies 2026* · [Paper](https://doi.org/10.3390/technologies14010058) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Technologies 2026* · [Paper](https://doi.org/10.3390/technologies14010058) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**  
-  *IEEE CL 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481010) · <sub>JCR Q2 · CAS 3 · IF 4.5 · CCF None</sub>
+  *IEEE CL 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481010) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5 · CCF None</sub>
 - **Multiple Source Localization via Local Radio Map Construction in Urban Environments**  
-  *IEEE TCCN 2026* · [Paper](https://doi.org/10.1109/tccn.2025.3635590) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2026* · [Paper](https://doi.org/10.1109/tccn.2025.3635590) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**  
-  *IEEE TMC 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481652) · <sub>JCR Q1 · CAS 1 · IF 8.8 · CCF A</sub>
+  *IEEE TMC 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481652) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8 · CCF A</sub>
 - **Physics-Guided Neural Radiance Field Network for Multi-Antenna Channel Prediction**  
-  *IEEE AWPL 2026* · [Paper](https://doi.org/10.1109/LAWP.2026.3683930) · <sub>JCR Q2 · CAS 3 · IF 4.6 · CCF None</sub>
+  *IEEE AWPL 2026* · [Paper](https://doi.org/10.1109/LAWP.2026.3683930) · <sub>JCR Q2 · 中科院分区 3 · IF 4.6 · CCF None</sub>
 - **PhySNet: Physics-Inspired Spectral-Spatial Decoupled Attention for Radio Map Estimation**  
-  *IEEE CL 2026* · [Paper](https://doi.org/10.1109/LCOMM.2026.3705413) · <sub>JCR Q2 · CAS 3 · IF 4.5 · CCF None</sub>
+  *IEEE CL 2026* · [Paper](https://doi.org/10.1109/LCOMM.2026.3705413) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5 · CCF None</sub>
 - **Point Cloud Environment-Based Channel Knowledge Map Construction**  
-  *IEEE TCCN 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3706507) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3706507) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Prior Information for 6G Network: From Channel Knowledge Map to Radio Profile**  
-  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2600181) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2600181) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Radio Map Estimation via Latent Domain Plug-and-Play Denoising**  
-  *IEEE TSP 2026* · [Paper](https://doi.org/10.1109/TSP.2025.3650699) · <sub>JCR Q1 · CAS 1 · IF 5.5 · CCF None</sub>
+  *IEEE TSP 2026* · [Paper](https://doi.org/10.1109/TSP.2025.3650699) · <sub>JCR Q1 · 中科院分区 1 · IF 5.5 · CCF None</sub>
 - **Radio Radiance Field: The New Frontier of Spatial Wireless Channel Representation**  
-  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **RadioDUN: A Physics-Inspired Deep Unfolding Network for Radio Map Estimation**  
-  *IEEE TCCN 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3683882) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3683882) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **RadioGen3D: 3D Radio Map Generation via Adversarial Learning on Large-Scale Synthetic Data**  
-  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3724160) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3724160) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **RadioVAR: Fast Sampling-Free Radio Map Construction via Coarse-to-Fine Token Prediction**  
-  *IEEE TCE 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11493478) · <sub>JCR Q1 · CAS 2 · IF 9.9 · CCF None</sub>
+  *IEEE TCE 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11493478) · <sub>JCR Q1 · 中科院分区 2 · IF 9.9 · CCF None</sub>
 - **Rank-Adaptive Bayesian Tensor Ring Completion for Low-Altitude 5D Radio Environment Map Construction**  
-  *Big Data and Cognitive Computing 2026* · [Paper](https://doi.org/10.3390/bdcc10070220) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Big Data and Cognitive Computing 2026* · [Paper](https://doi.org/10.3390/bdcc10070220) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Rapid Generation of Channel Knowledge Map by Joint Physics and Conditional Diffusion Models**  
-  *IEEE TNSE 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3720671) · <sub>JCR Q1 · CAS 2 · IF 7.3 · CCF None</sub>
+  *IEEE TNSE 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3720671) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3 · CCF None</sub>
 - **REM-Net+: Quantified 3D Radio Environment Map Construction Guided by Radio Propagation Model**  
-  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2025.3623917) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2026* · [Paper](https://doi.org/10.1109/TVT.2025.3623917) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **RMF: one-step radio map reconstruction via mean flow matching**  
-  *Connection Science 2026* · [Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2026.2658948) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *Connection Science 2026* · [Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2026.2658948) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **RMG-SRGAN: Super-Resolution Generative Adversarial Network based on multi-scale attention aggregation and feature enhancement for radio map generation**  
-  *ICT Express 2026* · [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *ICT Express 2026* · [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Scene Structure Based Neural Radio-Frequency Radiance Fields for Channel Knowledge Map Construction**  
-  *IEEE WCL 2026* · [Paper](https://doi.org/10.1109/LWC.2025.3615621) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2026* · [Paper](https://doi.org/10.1109/LWC.2025.3615621) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **STFD-SNN: A Physics-Constrained Spiking Neural Network Framework for Maritime Radio Environment Map Reconstruction**  
-  *IEEE IoT J 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3702982) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3702982) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **Topology-Aware Embedding Network for Label-Free Radio Map Construction**  
-  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3713038) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3713038) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Toward Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds**  
-  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2500630) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2500630) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **UniRM: A Universal Large Model for Multiband 3D Radio Map Construction**  
-  *IEEE JSAC 2026* · [Paper](https://doi.org/10.1109/JSAC.2025.3640150) · <sub>JCR Q1 · CAS 1 · IF 16.8 · CCF A</sub>
+  *IEEE JSAC 2026* · [Paper](https://doi.org/10.1109/JSAC.2025.3640150) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8 · CCF A</sub>
 - **VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**  
-  *IEEE CL 2026* · [Paper](https://doi.org/10.1109/lcomm.2025.3644410) · <sub>JCR Q2 · CAS 3 · IF 4.5 · CCF None</sub>
+  *IEEE CL 2026* · [Paper](https://doi.org/10.1109/lcomm.2025.3644410) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5 · CCF None</sub>
 
 </details>
 
@@ -294,123 +294,123 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2025</strong> <sub>59 papers</sub></summary>
 
 - **3-D Radio Map Estimation Based on Active Measurement Trajectory Selection**  
-  *IEEE WCL 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557556) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557556) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **3D-RadioDiff: An Altitude-Conditioned Diffusion Model for 3D Radio Map Construction**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10963917) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10963917) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **A Data-and-Semantic Dual-Driven Intelligent Inference Framework for Simultaneously Spectrum Map Construction and Signal Source Localization**  
-  *IEEE IoT J 2025* · [Paper](https://ieeexplore.ieee.org/document/10946994) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2025* · [Paper](https://ieeexplore.ieee.org/document/10946994) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **A Data-driven Transfer Learning Method for Indoor Radio Map Estimation**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://ieeexplore.ieee.org/document/11159327) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://ieeexplore.ieee.org/document/11159327) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **A Disentangled Representation Learning Framework for Low-altitude Network Coverage Prediction**  
-  *IEEE Transactions on Mobile Computing 2025* · [Paper](https://ieeexplore.ieee.org/document/11268973) · <sub>JCR Q1 · CAS 1 · IF 8.8 · CCF A</sub>
+  *IEEE Transactions on Mobile Computing 2025* · [Paper](https://ieeexplore.ieee.org/document/11268973) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8 · CCF A</sub>
 - **A Recent Survey on Radio Map Estimation Methods for Wireless Networks**  
-  *Electronics 2025* · [Paper](https://doi.org/10.3390/electronics14081564) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Electronics 2025* · [Paper](https://doi.org/10.3390/electronics14081564) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **A robust learning framework for spatial-temporal-spectral radio map prediction**  
-  *Elsevier ESWA 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029665) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *Elsevier ESWA 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029665) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **A Sampling Method for Radio Environment Map Reconstruction Based on Multiarea Gudmundson Model**  
-  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/jsen.2025.3559083) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/jsen.2025.3559083) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **A Secure Wireless Transmission Scheme: Reconstructing Spatial Radio Environment Map and Redirecting Electromagnetic Signal Propagation Path**  
-  *IEEE OJCOMS 2025* · [Paper](https://ieeexplore.ieee.org/document/11146515) · <sub>JCR Q1 · CAS 2 · IF 6.1 · CCF None</sub>
+  *IEEE OJCOMS 2025* · [Paper](https://ieeexplore.ieee.org/document/11146515) · <sub>JCR Q1 · 中科院分区 2 · IF 6.1 · CCF None</sub>
 - **An Accurate Radio Environment Map Reconstruction Method**  
-  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/JSEN.2025.3562214) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/JSEN.2025.3562214) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **An I2I Inpainting Approach for Efficient Channel Knowledge Map Construction**  
-  *IEEE TWC 2025* · [Paper](https://ieeexplore.ieee.org/document/10791446) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2025* · [Paper](https://ieeexplore.ieee.org/document/10791446) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks**  
-  *IEEE JSAC 2025* · [Paper](https://ieeexplore.ieee.org/document/11059941) · <sub>JCR Q1 · CAS 1 · IF 16.8 · CCF A</sub>
+  *IEEE JSAC 2025* · [Paper](https://ieeexplore.ieee.org/document/11059941) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8 · CCF A</sub>
 - **Channel Gain Map Construction Based on Subregional Learning and Prediction**  
-  *IEEE TVT 2025* · [Paper](https://ieeexplore.ieee.org/document/10891198) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2025* · [Paper](https://ieeexplore.ieee.org/document/10891198) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Channel Gain Map Estimation for Wireless Networks Based on Scatterer Model**  
-  *IEEE TWC 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3557417) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3557417) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Channel Knowledge Map for Cellular-Connected UAV via Binary Bayesian Filtering**  
-  *IEEE TCOM 2025* · [Paper](https://doi.org/10.1109/tcomm.2025.3554681) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEEE TCOM 2025* · [Paper](https://doi.org/10.1109/tcomm.2025.3554681) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **CKMImageNet: A Dataset for AI-Based Channel Knowledge Map Toward Environment-Aware Communication and Sensing**  
-  *IEEE TCOM 2025* · [Paper](https://doi.org/10.1109/TCOMM.2025.3615778) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEEE TCOM 2025* · [Paper](https://doi.org/10.1109/TCOMM.2025.3615778) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **Constructing Frequency Modulation-Broadcasting Map Based on Semi-Supervised Clustering**  
-  *IEEE Transactions on Broadcasting 2025* · [Paper](https://ieeexplore.ieee.org/document/11074722) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Transactions on Broadcasting 2025* · [Paper](https://ieeexplore.ieee.org/document/11074722) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Convolutional neural networks for predicting the perceived density of large urban fabrics**  
-  *Elsevier CEUS 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000572) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Elsevier CEUS 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000572) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **DeepRT: A Hybrid Framework Combining Large Model Architectures and Ray Tracing Principles for 6G Digital Twin Channels**  
-  *MDPI Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/9/1849) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *MDPI Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/9/1849) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Denoising Diffusion Probabilistic Model for Radio Map Estimation in Generative Wireless Networks**  
-  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/10843401) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/10843401) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Electromagnetic wave property inspired radio environment knowledge construction and artificial intelligence based verification for 6G digital twin channel**  
-  *Frontiers of Information Technology & Electronic Engineering 2025* · [Paper](https://doi.org/10.1631/FITEE.2400464) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Frontiers of Information Technology & Electronic Engineering 2025* · [Paper](https://doi.org/10.1631/FITEE.2400464) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Fast Transmission Control Adaptation for URLLC via Channel Knowledge Map and Meta-Learning**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10930931) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10930931) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning**  
-  *IEEE TVT 2025* · [Paper](https://ieeexplore.ieee.org/document/11146461) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2025* · [Paper](https://ieeexplore.ieee.org/document/11146461) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Geo2ComMap: Deep Learning-Based MIMO Throughput Prediction Using Geographic Data**  
-  *IEEE WCL 2025* · [Paper](https://ieeexplore.ieee.org/document/10950386) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2025* · [Paper](https://ieeexplore.ieee.org/document/10950386) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **GPRT: A Gaussian Process Regression-Based Radio Map Construction Method for Rugged Terrain**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10938559) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10938559) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **Grid-Free Radio Map Estimation via Unsupervised Implicit Continuous Representation**  
-  *IEEE SPL 2025* · [Paper](https://doi.org/10.1109/LSP.2025.3601038) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *IEEE SPL 2025* · [Paper](https://doi.org/10.1109/LSP.2025.3601038) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **GS3D: Signal Recovery in 3-D Wireless Networks With Gaussian Splatting-Synergized Stable Diffusion**  
-  *IEEE WCL 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3561522) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3561522) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements**  
-  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3573595) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3573595) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**  
-  *IEEE WCL 2025* · [Paper](https://ieeexplore.ieee.org/document/10829585) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2025* · [Paper](https://ieeexplore.ieee.org/document/10829585) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Interference Management in Private 5G Networks via Interference Source Localization and Radio Environment Map Construction**  
-  *IEEE Access 2025* · [Paper](https://doi.org/10.1109/access.2025.3617014) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Access 2025* · [Paper](https://doi.org/10.1109/access.2025.3617014) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Interference-Cancellation-Based Channel Knowledge Map Construction and Its Applications to Channel Estimation**  
-  *IEEE TWC 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3552519) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3552519) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **KAN Based Interpretable Radio Map Prediction Framework with Symbolic Data Fusion**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11143592) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11143592) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Large Language Model Agents for Radio Map Generation and Wireless Network Planning**  
-  *IEEE Networking Letters 2025* · [Paper](https://doi.org/10.1109/lnet.2025.3539829) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Networking Letters 2025* · [Paper](https://doi.org/10.1109/lnet.2025.3539829) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field With Neural Representations**  
-  *IEEE OJ-COMS 2025* · [Paper](https://doi.org/10.1109/OJCOMS.2025.3535959) · <sub>JCR Q1 · CAS 2 · IF 6.1 · CCF None</sub>
+  *IEEE OJ-COMS 2025* · [Paper](https://doi.org/10.1109/OJCOMS.2025.3535959) · <sub>JCR Q1 · 中科院分区 2 · IF 6.1 · CCF None</sub>
 - **Leveraging Transfer Learning for Radio Map Estimation via Mixture of Experts**  
-  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/11005396) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2025* · [Paper](https://ieeexplore.ieee.org/document/11005396) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Machine learning methods comparison for maritime wireless signal strength prediction**  
-  *Elsevier JEngAppai 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625013594) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *Elsevier JEngAppai 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625013594) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **Machine-Learning-Based Path Loss Prediction for Vehicle-to-Vehicle Communication in Highway Environments**  
-  *MDPI Applied Science 2025* · [Paper](https://www.mdpi.com/2076-3417/14/17/7545) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *MDPI Applied Science 2025* · [Paper](https://www.mdpi.com/2076-3417/14/17/7545) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **MAE-Based Radio Map Construction for Wi-Fi Fingerprint Indoor Localization**  
-  *IEEE CL 2025* · [Paper](https://doi.org/10.1109/lcomm.2025.3582075) · <sub>JCR Q2 · CAS 3 · IF 4.5 · CCF None</sub>
+  *IEEE CL 2025* · [Paper](https://doi.org/10.1109/lcomm.2025.3582075) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5 · CCF None</sub>
 - **Novel Radio Environment Map Construction Scheme for 3-D and Full Band for Modern Internet of Things Applications**  
-  *IEEE IoT J 2025* · [Paper](https://doi.org/10.1109/JIOT.2024.3520611) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2025* · [Paper](https://doi.org/10.1109/JIOT.2024.3520611) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **Physics-Guided Language Model via Low-Rank Adaptation for Path Loss Prediction**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11202166) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11202166) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Prototyping and Experimental Results for ISAC-Based Channel Knowledge Map**  
-  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/tvt.2025.3545785) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/tvt.2025.3545785) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Radiation Source Localization Using Radio Maps: A Computer Vision Approach**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/11137360) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/11137360) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Radio Environment Map Reconstruction via Tensor Completion: Bayesian and Semantic Approaches**  
-  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3531124) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3531124) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Radio map estimation using a CycleGAN-based learning framework for 6G wireless communication**  
-  *Digital Communications and Networks 2025* · [Paper](https://www.sciencedirect.com/science/article/pii/S2352864825001294) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Digital Communications and Networks 2025* · [Paper](https://www.sciencedirect.com/science/article/pii/S2352864825001294) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Radio Map Prediction from Aerial Images and Application to Coverage Optimization**  
-  *IEEE TWC 2025* · [Paper](https://ieeexplore.ieee.org/document/11063460) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2025* · [Paper](https://ieeexplore.ieee.org/document/11063460) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Radio Map Reconstruction Based on Deep Denoising Regularization for UAV Communications**  
-  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3542768) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3542768) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Reconstruction of Radio Environment Map Based on Multi-Source Domain Adaptive of Graph Neural Network for Regression**  
-  *MDPI Sensors 2025* · [Paper](https://www.mdpi.com/1424-8220/24/8/2523) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *MDPI Sensors 2025* · [Paper](https://www.mdpi.com/1424-8220/24/8/2523) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **RGB-D Sensor-Aided Radio Map Estimation Using Materials Classification**  
-  *IEEE WCL 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557794) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557794) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **SC-GAN: A spectrum cartography with satellite Internet based on Pix2Pix generative adversarial network**  
-  *China Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/10906396) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *China Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/10906396) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **ST-CSFNet: Spatial-Temporal Cross Scale FNet for Radio Environment Map Forecasting**  
-  *IEEE CL 2025* · [Paper](https://doi.org/10.1109/LCOMM.2025.3529898) · <sub>JCR Q2 · CAS 3 · IF 4.5 · CCF None</sub>
+  *IEEE CL 2025* · [Paper](https://doi.org/10.1109/LCOMM.2025.3529898) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5 · CCF None</sub>
 - **Time-Variant Radio Map Reconstruction With Optimized Distributed Sensors in Dynamic Spectrum Environments**  
-  *IEEE IoT J 2025* · [Paper](https://ieeexplore.ieee.org/document/10902472) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE IoT J 2025* · [Paper](https://ieeexplore.ieee.org/document/10902472) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **TiRE-GAN: Task-Incentivized Generative Learning for Radiomap Estimation**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10892295) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10892295) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Towards accurate positioning: Directionality-enhanced fingerprinting radio map**  
-  *ICT Express 2025* · [Paper](https://doi.org/10.1016/j.icte.2024.12.004) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *ICT Express 2025* · [Paper](https://doi.org/10.1016/j.icte.2024.12.004) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Two-Stage Radio Map Construction With Real Environments and Sparse Measurements**  
-  *IEEE WCL 2025* · [Paper](https://ieeexplore.ieee.org/document/10838708) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WCL 2025* · [Paper](https://ieeexplore.ieee.org/document/10838708) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Unmanned Aerial Vehicle-Enabled Aerial Radio Environment Map Construction: A Multi-Stage Approach to Data Sampling and Path Planning**  
-  *Drones 2025* · [Paper](https://doi.org/10.3390/drones9020081) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Drones 2025* · [Paper](https://doi.org/10.3390/drones9020081) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction**  
-  *MDPI Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/10/1905) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *MDPI Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/10/1905) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Visual transformer based unified framework for radio map estimation and optimized site selection**  
-  *IEICE Transactions on Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11114848) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEICE Transactions on Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11114848) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **WiFi-Diffusion: Achieving Fine-Grained WiFi Radio Map Estimation with Ultra-Low Sampling Rate by Diffusion Models**  
-  *IEEE JSAC 2025* · [Paper](https://ieeexplore.ieee.org/document/11066175) · <sub>JCR Q1 · CAS 1 · IF 16.8 · CCF A</sub>
+  *IEEE JSAC 2025* · [Paper](https://ieeexplore.ieee.org/document/11066175) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8 · CCF A</sub>
 - **WirelessNet: An Efficient Radio Access Network Model Based on Heterogeneous Graph Neural Networks**  
-  *IEEE Access 2025* · [Paper](https://ieeexplore.ieee.org/document/10902045) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Access 2025* · [Paper](https://ieeexplore.ieee.org/document/10902045) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 
 </details>
 
@@ -418,71 +418,71 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2024 and Earlier</strong> <sub>33 papers</sub></summary>
 
 - **A Deep Learning-Based Indoor Radio Estimation Method Driven by 2.4 GHz Ray-Tracing Data**  
-  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10347228) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10347228) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **A Deep-Learning Approach to a Volumetric Radio Environment Map Construction for UAV-Assisted Networks**  
-  *Wiley IJAP 2024* · [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/9062023) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Wiley IJAP 2024* · [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/9062023) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **A FL-Based Radio Map Reconstruction Approach for UAV-Aided Wireless Networks**  
-  *MDPI Electronics 2023* · [Paper](https://www.mdpi.com/2079-9292/12/13/2817) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *MDPI Electronics 2023* · [Paper](https://www.mdpi.com/2079-9292/12/13/2817) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **A Graph Neural Network Based Radio Map Construction Method for Urban Environment**  
-  *IEEE WLC 2023* · [Paper](https://ieeexplore.ieee.org/document/10078269) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WLC 2023* · [Paper](https://ieeexplore.ieee.org/document/10078269) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **A Novel Multimodal Fusion Sensing-Based Channel Prediction Method for UAV Communications**  
-  *IEEE Internet of Things Journal 2024* · [Paper](https://ieeexplore.ieee.org/document/10720899) · <sub>JCR Q1 · CAS 1 · IF 8.7 · CCF C</sub>
+  *IEEE Internet of Things Journal 2024* · [Paper](https://ieeexplore.ieee.org/document/10720899) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7 · CCF C</sub>
 - **A Scalable and Generalizable Pathloss Map Prediction**  
-  *IEEE TWC 2024* · [Paper](https://ieeexplore.ieee.org/document/10682525) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2024* · [Paper](https://ieeexplore.ieee.org/document/10682525) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **A Tutorial on Environment-Aware Communications via Channel Knowledge Map for 6G**  
-  *IEEE Communications Surveys & Tutorials 2024* · [Paper](https://ieeexplore.ieee.org/document/10430216) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Communications Surveys & Tutorials 2024* · [Paper](https://ieeexplore.ieee.org/document/10430216) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Accurate Spectrum Map Construction for Spectrum Management Through Intelligent Frequency-Spatial Reasoning**  
-  *IEEE TCOMM 2023* · [Paper](https://ieeexplore.ieee.org/document/10103465) · <sub>JCR Q1 · CAS 2 · IF 8.4 · CCF B</sub>
+  *IEEE TCOMM 2023* · [Paper](https://ieeexplore.ieee.org/document/10103465) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4 · CCF B</sub>
 - **An Empirical Study on Using CNNs for Fast Radio Signal Prediction**  
-  *Springer SN Computer Science 2022* · [Paper](https://link.springer.com/article/10.1007/s42979-022-01022-2) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Springer SN Computer Science 2022* · [Paper](https://link.springer.com/article/10.1007/s42979-022-01022-2) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **An Overview of Propagation Models BasElectriacaled on Deep Learning Techniques**  
-  *International Journal Electrical Engineering 2022* · [Paper](https://ijeec.etf.ues.rs.ba/index.php/ijeec/article/view/134) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *International Journal Electrical Engineering 2022* · [Paper](https://ijeec.etf.ues.rs.ba/index.php/ijeec/article/view/134) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Cell-Level RSRP Estimation With the Image-to-Image Wireless Propagation Model Based on Measured Data**  
-  *IEEE TCCN 2023* · [Paper](https://ieeexplore.ieee.org/document/10227351) · <sub>JCR Q1 · CAS 2 · IF 8.0 · CCF None</sub>
+  *IEEE TCCN 2023* · [Paper](https://ieeexplore.ieee.org/document/10227351) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0 · CCF None</sub>
 - **Channel Path Loss Prediction Using Satellite Images: A Deep Learning Approach**  
-  *IEEE TMLCN 2024* · [Paper](https://ieeexplore.ieee.org/document/10663692) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE TMLCN 2024* · [Paper](https://ieeexplore.ieee.org/document/10663692) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Deep Learning for Reduced Sampling Spatial 3-D REM Reconstruction**  
-  *IEEE OJCOMS 2024* · [Paper](https://ieeexplore.ieee.org/document/10495350) · <sub>JCR Q1 · CAS 2 · IF 6.1 · CCF None</sub>
+  *IEEE OJCOMS 2024* · [Paper](https://ieeexplore.ieee.org/document/10495350) · <sub>JCR Q1 · 中科院分区 2 · IF 6.1 · CCF None</sub>
 - **Deep Learning-Empowered RF Sensing in Outdoor Environments: Recent Advances, Challenges, and Future Directions**  
-  *MDPI Electronics 2024* · [Paper](https://www.mdpi.com/2079-9292/14/1/125) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *MDPI Electronics 2024* · [Paper](https://www.mdpi.com/2079-9292/14/1/125) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Deep-Learning-Based Radio Map Reconstruction for V2X Communications**  
-  *IEEE TVT 2024* · [Paper](https://ieeexplore.ieee.org/document/10292913) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE TVT 2024* · [Paper](https://ieeexplore.ieee.org/document/10292913) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **DeepREM: Deep-Learning-Based Radio Environment Map Estimation From Sparse Measurements**  
-  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10127968) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10127968) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Development of a Conditional Generative Adversarial Network Model for Television Spectrum Radio Environment Mapping**  
-  *IEEE Access 2024* · [Paper](https://ieeexplore.ieee.org/document/10813343) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Access 2024* · [Paper](https://ieeexplore.ieee.org/document/10813343) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Diffraction and Scattering Aware Radio Map and Environment Reconstruction Using Geometry Model-Assisted Deep Learning**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10745208) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10745208) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Fast Radio Propagation Prediction with Deep Learning**  
-  *Compressed Sensing in Information Processing 2022* · [Paper](https://link.springer.com/chapter/10.1007/978-3-031-09745-4_10) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Compressed Sensing in Information Processing 2022* · [Paper](https://link.springer.com/chapter/10.1007/978-3-031-09745-4_10) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Intelligent reconstruction algorithm of electromagnetic map based on propagation model**  
-  *Journal of Communications and Networks 2024* · [Paper](https://ieeexplore.ieee.org/document/10748590) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *Journal of Communications and Networks 2024* · [Paper](https://ieeexplore.ieee.org/document/10748590) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Machine Learning for Channel Quality Prediction: From Concept to Experimental Validation**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10577598) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10577598) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Machine Learning-Based Radio Coverage Prediction in Urban Environments**  
-  *IEEE TNSE 2020* · [Paper](https://ieeexplore.ieee.org/document/9247298) · <sub>JCR Q1 · CAS 2 · IF 7.3 · CCF None</sub>
+  *IEEE TNSE 2020* · [Paper](https://ieeexplore.ieee.org/document/9247298) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3 · CCF None</sub>
 - **Machine Learning-Based Urban Canyon Path Loss Prediction Using 28 GHz Manhattan Measurements**  
-  *IEEE TAP 2022* · [Paper](https://ieeexplore.ieee.org/document/9722715) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE TAP 2022* · [Paper](https://ieeexplore.ieee.org/document/9722715) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Multi-Stage RF Emitter Search and Geolocation With UAV: A Cognitive Learning-Based Method**  
-  *IEEE Transactions on Vehicular Technology 2023* · [Paper](https://ieeexplore.ieee.org/document/10016683) · <sub>JCR Q1 · CAS 2 · IF 7.5 · CCF None</sub>
+  *IEEE Transactions on Vehicular Technology 2023* · [Paper](https://ieeexplore.ieee.org/document/10016683) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5 · CCF None</sub>
 - **Overview on IEEE 802.11bf: WLAN Sensing**  
-  *IEEE Communications Surveys & Tutorials 2024* · [Paper](https://ieeexplore.ieee.org/document/10547188) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE Communications Surveys & Tutorials 2024* · [Paper](https://ieeexplore.ieee.org/document/10547188) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Physics-Informed Neural Networks for Path Loss Estimation by Solving Electromagnetic Integral Equations**  
-  *IEEE TWC 2024* · [Paper](https://ieeexplore.ieee.org/document/10608081) · <sub>JCR Q1 · CAS 1 · IF 10.3 · CCF B</sub>
+  *IEEE TWC 2024* · [Paper](https://ieeexplore.ieee.org/document/10608081) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3 · CCF B</sub>
 - **Pseudo Ray-Tracing: Deep Leaning Assisted Outdoor mm-Wave Path Loss Prediction**  
-  *IEEE WLC 2022* · [Paper](https://ieeexplore.ieee.org/document/9774859) · <sub>JCR Q1 · CAS 2 · IF 5.1 · CCF None</sub>
+  *IEEE WLC 2022* · [Paper](https://ieeexplore.ieee.org/document/9774859) · <sub>JCR Q1 · 中科院分区 2 · IF 5.1 · CCF None</sub>
 - **Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map**  
-  *IEEE TNSE 2020* · [Paper](https://ieeexplore.ieee.org/document/10424680) · <sub>JCR Q1 · CAS 2 · IF 7.3 · CCF None</sub>
+  *IEEE TNSE 2020* · [Paper](https://ieeexplore.ieee.org/document/10424680) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3 · CCF None</sub>
 - **REM-U-Net: Deep Learning Based Agile REM Prediction With Energy-Efficient Cell-Free Use Case**  
-  *IEEE OJSP 2024* · [Paper](https://ieeexplore.ieee.org/document/10474197) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE OJSP 2024* · [Paper](https://ieeexplore.ieee.org/document/10474197) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Rigorous Indoor Wireless Communication System Simulations With Deep Learning-Based Radio Propagation Models**  
-  *IEEE JMMCT 2024* · [Paper](https://ieeexplore.ieee.org/document/10786819) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE JMMCT 2024* · [Paper](https://ieeexplore.ieee.org/document/10786819) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Super-Resolution of Wireless Channel Characteristics: A Multitask Learning Model**  
-  *IEEE TAP 2023* · [Paper](https://ieeexplore.ieee.org/document/10224827) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE TAP 2023* · [Paper](https://ieeexplore.ieee.org/document/10224827) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Temporal prediction for spectrum environment maps with moving radiation sources**  
-  *IET Communications 2023* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12560) · <sub>JCR None · CAS None · IF None · CCF C</sub>
+  *IET Communications 2023* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12560) · <sub>JCR None · 中科院分区 None · IF None · CCF C</sub>
 - **Weighted Ensembles for Adaptive Active Learning**  
-  *IEEE TSP 2024* · [Paper](https://ieeexplore.ieee.org/document/10648946) · <sub>JCR Q1 · CAS 1 · IF 5.5 · CCF None</sub>
+  *IEEE TSP 2024* · [Paper](https://ieeexplore.ieee.org/document/10648946) · <sub>JCR Q1 · 中科院分区 1 · IF 5.5 · CCF None</sub>
 
 </details>
 
@@ -490,9 +490,9 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>Year Unspecified</strong> <sub>2 papers</sub></summary>
 
 - **A graph neural network-based method for 3D radio environment map construction in urban scenarios**  
-  *IEEE JSEE* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456877) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *IEEE JSEE* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456877) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 - **Minimum energy consumption of multi-UAV logistics distribution with heading angle constraints based on radio map**  
-  *J. PhyCom* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382) · <sub>JCR None · CAS None · IF None · CCF None</sub>
+  *J. PhyCom* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382) · <sub>JCR None · 中科院分区 None · IF None · CCF None</sub>
 
 </details>
 
