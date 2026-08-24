@@ -31,8 +31,8 @@ If you find this repository helpful, please cite the tutorial paper:
 | Collection | Journals | Conferences | Preprints | Total |
 |:--|--:|--:|--:|--:|
 | [With code](#papers-with-code) | 20 | 7 | 15 | **42** |
-| [Without code](#papers-without-code) | 142 | 149 | 49 | **340** |
-| **All papers** | **162** | **156** | **64** | **382** |
+| [Without code](#papers-without-code) | 142 | 149 | 50 | **341** |
+| **All papers** | **162** | **156** | **65** | **383** |
 
 ---
 
@@ -817,7 +817,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Preprints
 
 <details open>
-<summary><strong>2026</strong> <sub>28 papers</sub></summary>
+<summary><strong>2026</strong> <sub>29 papers</sub></summary>
   
 - **Channel Map-Based Channel Estimation for Near-Field UM-MIMO with Movable Planar Arrays**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2608.05520)
