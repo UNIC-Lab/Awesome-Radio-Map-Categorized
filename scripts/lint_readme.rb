@@ -32,11 +32,11 @@ readme.each_line.with_index(1) do |line, number|
   venue = Regexp.last_match(1)
   errors << "README.md:#{number}: venue is missing a publication year: #{venue}" unless venue =~ /(?:19|20)\d{2}/
 
-  has_ranking = line =~ /<sub>[^<]*(?:JCR|中科院|IF|CCF)[^<]*<\/sub>/
-  if section == "Preprints" && has_ranking
-    errors << "README.md:#{number}: preprint should not have venue ranking metadata: #{venue}"
-  elsif section != "Preprints" && !has_ranking
-    errors << "README.md:#{number}: journal or conference is missing ranking metadata: #{venue}"
+  has_ranking = line =~ /<sub>[^<]*(?:JCR|中科院|IF)[^<]*<\/sub>/
+  if section == "Journals" && !has_ranking
+    errors << "README.md:#{number}: journal is missing ranking metadata: #{venue}"
+  elsif section != "Journals" && has_ranking
+    errors << "README.md:#{number}: conference or preprint should not have journal ranking metadata: #{venue}"
   end
 end
 
