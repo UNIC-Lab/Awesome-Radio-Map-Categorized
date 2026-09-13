@@ -15,7 +15,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ```bibtex
 @article{wang2026tutorial,
   title={A tutorial on learning-based radio map construction: Data, paradigms, and physics-awareness},
-  author={Wang, Xiucheng and Pan, Yuhao and Cheng, Nan and Yapar, {\c{C}}a{\u{g}}kan and Sun, Ruijin and Yin, Zhisheng and Zhou, Conghao and Xu, Wenchao and Zhang, Yuxiang and Zhang, Jianhua and others},
+  author={Wang, Xiucheng and Pan, Yuhao and Cheng, Nan and Yapar, {\c{C}}a{\u{g}}kan and Sun, Ruijin and Yin, Zhisheng and Zhou, Conghao and Xu, Wenchao and Zhang, Yuxiang and Zhang, Jianhua and Cui, Shuguang and Shen, Xuemin},
   journal={arXiv preprint arXiv:2603.17499},
   year={2026}
 }
