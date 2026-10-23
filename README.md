@@ -23,11 +23,21 @@ If you find this repository helpful, please cite the tutorial paper:
 
 ## Browse
 
-| Collection | Journals | Conferences | Preprints | Total |
-|:--|--:|--:|--:|--:|
-| [With code](#papers-with-code) | 22 | 9 | 5 | **36** |
-| [Without code](#papers-without-code) | 156 | 153 | 39 | **348** |
-| **All papers** | **178** | **162** | **44** | **384** |
+| Collection | Journals | Conferences | Preprints | Other¹ | Total |
+|:--|--:|--:|--:|--:|--:|
+| [With code](#papers-with-code) | 22 | 9 | 5 | 0 | **36** |
+| [Without code](#papers-without-code) | 154 | 153 | 39 | 2 | **348** |
+| **All entries** | **176** | **162** | **44** | **2** | **384** |
+
+¹ Other comprises one [book chapter](#books-and-chapters) and one [related-method paper](#related-methods), counted separately from the core journal list.
+
+### Metadata policy
+
+- **Publication years:** use the assigned journal volume/issue year when available, otherwise the formal publication metadata year; conference entries use the conference year. An online-first year may differ from the volume year. Journal titles remain those of the cited publication.
+- **Accepted papers:** an author-reported acceptance is marked explicitly when the linked version is still a preprint and proceedings publication has not been independently confirmed.
+- **Journal metrics:** labels use **2025 JIF**, **2025 JCR best category** (the best quartile across listed subjects), and **2025 CAS major category** (中科院大类). JIF/JCR data-year 2025 is distinct from release-year 2026. CAS 2025 is not the 2026 emerging-journal ranking (新锐分区). Journal metrics are contextual information, not paper-level quality scores.
+- **Metric evidence:** checked on 2026-10-23 against the linked public records, primarily secondary databases—not direct verification through the Clarivate or CAS subscription systems. Per-journal footnotes list the subject-specific JCR quartiles. `Unconfirmed` means that a value was not established, not that no metric exists. Former-title figures are explicitly marked.
+- **Code availability:** “With code” means that a linked repository contains source files; completeness and reproducibility have not been certified. “Without code” means that this catalog does not currently link a confirmed implementation, not that no code exists anywhere. Repository placeholders and datasets are labeled separately.
 
 ---
 
@@ -36,46 +46,46 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>12 papers</sub></summary>
+<summary><strong>2026</strong> <sub>15 papers</sub></summary>
 
 - **A Fine-Grained 3D Radio Map Construction Paradigm With Ultra-Low Sampling Rates by Large Generative Models**  
-  *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11455177) · [Code](https://github.com/liuzhiyuan-pku/RadioLAM) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
+  *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11455177) · [Code](https://github.com/liuzhiyuan-pku/RadioLAM) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
 - **ARM-SSM: Atrous Radio Map State Space Models for High-Resolution Wireless Environment Reconstruction**  
-  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3735078) · [Code](https://github.com/UNIC-Lab/ARM-SSM) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3</sub>
+  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3735078) · [Code](https://github.com/UNIC-Lab/ARM-SSM) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.3 (2025)</sub>[^metrics-ieee-transactions-on-network-science-and-engineering]
 - **LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines**  
-  *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00082-7) · [arXiv](https://arxiv.org/abs/2509.14711) · [Code](https://github.com/PKU-PCNI/LLM4MG) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00082-7) · [arXiv](https://arxiv.org/abs/2509.14711) · [Code](https://github.com/PKU-PCNI/LLM4MG) · <sub>JCR (2025): unconfirmed · 中科院大类 (2025): unconfirmed · JIF (2025): unconfirmed</sub>[^metrics-npj-wireless-technology]
+- **Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach**  
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2025.3631663) · [Code](https://github.com/wenchaozheng/WRF-GSplus) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **PathFinder: Advancing Path Loss Prediction for Single-to-Multi-Transmitter Scenario**  
-  *Pattern Recognition 2026* · [Paper](https://doi.org/10.1016/j.patcog.2026.113725) · [Code](https://github.com/EmorZz1G/PathFinder) · <sub>JCR Q1 · 中科院分区 1 · IF 7.6</sub>
+  *Pattern Recognition 2026* · [Paper](https://doi.org/10.1016/j.patcog.2026.113725) · [Code](https://github.com/EmorZz1G/PathFinder) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 9.1 (2025)</sub>[^metrics-pattern-recognition]
+- **Paying Deformable Attention to Sparse Spatial Observations for Deep Radio Map Estimation**  
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://ieeexplore.ieee.org/document/11176936) · [Code](https://github.com/AkonLau/DAT-Unet) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **PIHG: Physics-Inspired Heterogeneous Graph Neural Networks for Multi-Band Radio Map Prediction**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3734160) · [Code](https://github.com/Shirleyue/PIHG) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3734160) · [Code](https://github.com/Shirleyue/PIHG) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **R2Net: 2D Deep Residual Learning with Height Embedding for 3D Radio Map Estimation**  
-  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) · [Code](https://github.com/lighttime2023/3DiRM3200.git) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
-- **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**  
-  *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/document/11577136) · [Code](https://github.com/UNIC-Lab/RadioDiff-FS) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
-- **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11466421) · [Code](https://github.com/UNIC-Lab/radiodiff-inverse) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) · [Code](https://github.com/lighttime2023/3DiRM3200.git) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**<br>
-  *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11278649) · [Code](https://github.com/UNIC-Lab/RadioDiff-k) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
+  *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11278649) · [Code](https://github.com/UNIC-Lab/RadioDiff-k) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
+- **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**  
+  *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/document/11577136) · [Code](https://github.com/UNIC-Lab/RadioDiff-FS) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
+- **RadioDiff-Inverse: Diffusion Enhanced Bayesian Inverse Estimation for ISAC Radio Map Construction**  
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11466421) · [Code](https://github.com/UNIC-Lab/radiodiff-inverse) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
+- **RadioMamba: Breaking the Accuracy-Efficiency Trade-Off in Radio Map Construction Via a Hybrid Mamba-UNet**  
+  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://ieeexplore.ieee.org/document/11190042) · [Code](https://github.com/UNIC-Lab/RadioMamba) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.3 (2025)</sub>[^metrics-ieee-transactions-on-network-science-and-engineering]
 - **RadioMapMotion: A Dataset and Benchmark for Proactive Spatio-Temporal Radio Environment Prediction**  
-  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11488322) · [Code](https://github.com/UNIC-Lab/RadioMapMotion) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11488322) · [Code](https://github.com/UNIC-Lab/RadioMapMotion) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **RadioTrace: Transmitter-Aware Diffusion for Radio Map Estimation Without Deployment-Time Fine-Tuning**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3716965) · [Code](https://github.com/YannLeo/RadioTrace) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3716965) · [Code](https://github.com/YannLeo/RadioTrace) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **RF-3DGS: Wireless Channel Modeling with Radio Radiance Field and 3D Gaussian Splatting**<br>
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3652154) · [Code](https://github.com/SunLab-UGA/RF-3DGS) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3652154) · [Code](https://github.com/SunLab-UGA/RF-3DGS) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 
 </details>
 
 <details open>
-<summary><strong>2025</strong> <sub>4 papers</sub></summary>
+<summary><strong>2025</strong> <sub>1 paper</sub></summary>
 
-- **Neural Representation for Wireless Radiation Field Reconstruction: A 3D Gaussian Splatting Approach**  
-  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3631663) · [Code](https://github.com/wenchaozheng/WRF-GSplus) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
-- **Paying Deformable Attention to Sparse Spatial Observations for Deep Radio Map Estimation**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11176936) · [Code](https://github.com/AkonLau/DAT-Unet) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
 - **RadioDiff: An Effective Generative Diffusion Model for Sampling-Free Dynamic Radio Map Construction**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/10764739) · [Code](https://github.com/UNIC-Lab/RadioDiff) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
-- **RadioMamba: Breaking the Accuracy-Efficiency Trade-Off in Radio Map Construction Via a Hybrid Mamba-UNet**  
-  *IEEE Transactions on Network Science and Engineering 2025* · [Paper](https://ieeexplore.ieee.org/document/11190042) · [Code](https://github.com/UNIC-Lab/RadioMamba) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/10764739) · [Code](https://github.com/UNIC-Lab/RadioDiff) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 
 </details>
 
@@ -83,17 +93,17 @@ If you find this repository helpful, please cite the tutorial paper:
 <summary><strong>2024 and Earlier</strong> <sub>6 papers</sub></summary>
 
 - **ACT-GAN: Radio map construction based on generative adversarial networks with ACT blocks**  
-  *IET Communications 2024* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846) · [Code](https://github.com/YNUniversityCQ/ACT-GAN) · <sub>JCR None · 中科院分区 None · IF 1.6</sub>
+  *IET Communications 2024* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12846) · [Code](https://github.com/YNUniversityCQ/ACT-GAN) · <sub>JCR best Q4 (2025) · 中科院大类 4 (2025) · JIF 1.6 (2025)</sub>[^metrics-iet-communications]
 - **Deep Completion Autoencoders for Radio Map Estimation**  
-  *IEEE Transactions on Wireless Communications 2022* · [Paper](https://ieeexplore.ieee.org/document/9523765) · [Code](https://github.com/fachu000/deep-autoencoders-cartography) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2022* · [Paper](https://ieeexplore.ieee.org/document/9523765) · [Code](https://github.com/fachu000/deep-autoencoders-cartography) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **RadioGAT: A Joint Model-Based and Data-Driven Framework for Multi-Band Radiomap Reconstruction via Graph Attention Networks**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10682510) · [Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10682510) · [Code](https://github.com/Lxj321/RadioGAT-Multi-band-Radiomap-Reconstruction) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **RadioUNet: Fast Radio Map Estimation With Convolutional Neural Networks**  
-  *IEEE Transactions on Wireless Communications 2021* · [Paper](https://ieeexplore.ieee.org/document/9354041) · [Code](https://github.com/RonLevie/RadioUNet) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2021* · [Paper](https://ieeexplore.ieee.org/document/9354041) · [Code](https://github.com/RonLevie/RadioUNet) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Real-Time Outdoor Localization Using Radio Maps: A Deep Learning Approach**  
-  *IEEE Transactions on Wireless Communications 2023* · [Paper](https://ieeexplore.ieee.org/document/10122907) · [Code](https://github.com/CagkanYapar/LocUNet) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2023* · [Paper](https://ieeexplore.ieee.org/document/10122907) · [Code](https://github.com/CagkanYapar/LocUNet) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **RME-GAN: A Learning Framework for Radio Map Estimation Based on Conditional Generative Adversarial Network**  
-  *IEEE Internet of Things Journal 2023* · [Paper](https://ieeexplore.ieee.org/document/10130091) · [Code](https://github.com/achinthaw/RME-GAN) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2023* · [Paper](https://ieeexplore.ieee.org/document/10130091) · [Code](https://github.com/achinthaw/RME-GAN) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 
 </details>
 
@@ -105,9 +115,9 @@ If you find this repository helpful, please cite the tutorial paper:
 - **iRadioDiff: Physics-Informed Diffusion Model for Indoor Radio Map Construction and Localization**<br>
   *IEEE ICC 2026* · [Paper](https://doi.org/10.1109/ICC59461.2026.11587950) · [Code](https://github.com/UNIC-Lab/iRadioDiff)
 - **OpenPathNet: An Open-Source RF Multipath Data Generator for AI-Driven Wireless Systems**  
-  *IEEE VTC-Spring 2026* · [Paper](https://arxiv.org/abs/2512.17286) · [Code](https://github.com/liu-lz/OpenPathNet)
+  *IEEE VTC-Spring 2026* · [Paper](https://arxiv.org/abs/2512.17286) · [Code](https://github.com/liu-lz/OpenPathNet) · `Accepted; linked version is a preprint`
 - **Physics-Informed VAE-EVT for Tail-Aware Radio Map Prediction**  
-  *IEEE GLOBECOM 2026* · [Paper](https://arxiv.org/abs/2608.15314) · [Code](https://github.com/AmandaGamage/physics-informed-vae-evt)
+  *IEEE GLOBECOM 2026* · [Paper](https://arxiv.org/abs/2608.15314) · [Code](https://github.com/AmandaGamage/physics-informed-vae-evt) · `Accepted; linked version is a preprint`
 
 </details>
 
@@ -166,332 +176,328 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>64 papers</sub></summary>
+<summary><strong>2026</strong> <sub>73 papers</sub></summary>
 
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**  
-  *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
+  *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
+- **A Data-driven Transfer Learning Method for Indoor Radio Map Estimation**  
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/document/11159327) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **A Deep Unfolding-Based Scalarization Approach for Power Control in D2D Networks**<br>
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3702136) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3702136) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
+- **A Disentangled Representation Learning Framework for Low-altitude Network Coverage Prediction**  
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://ieeexplore.ieee.org/document/11268973) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **A graph neural network-based method for 3D radio environment map construction in urban scenarios**<br>
-  *Journal of Systems Engineering and Electronics 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456877) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *Journal of Systems Engineering and Electronics 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456877) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.6 (2025)</sub>[^metrics-journal-of-systems-engineering-and-electronics]
 - **A Low-Complexity Channel Knowledge Map Construction Based on Environmental Partitioning and Interpolation Weight Learning**  
-  *IEEE Internet of Things Journal 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672412) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672412) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **A Novel 6G Dynamic Channel Map Based on a Hybrid Channel Model**  
-  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/tvt.2025.3602807) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/tvt.2025.3602807) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
+- **A robust learning framework for spatial-temporal-spectral radio map prediction**  
+  *Expert Systems with Applications 2026* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029665) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 9.4 (2025)</sub>[^metrics-expert-systems-with-applications]
 - **A Three-Stage Vision-Based Transformer for Channel Gain Map Construction**  
-  *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11514075) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
+  *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11514075) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
 - **Active Sampling and Gaussian Reconstruction for Radio-Frequency Radiance Field**  
-  *IEEE Journal on Selected Areas in Information Theory 2026* · [Paper](https://doi.org/10.1109/JSAIT.2026.3688148) · <sub>JCR Q3 · 中科院分区 None · IF 2.3</sub>
+  *IEEE Journal on Selected Areas in Information Theory 2026* · [Paper](https://doi.org/10.1109/JSAIT.2026.3688148) · <sub>JCR best Q2 (2025) · 中科院大类 (2025): unconfirmed · JIF 2.3 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-information-theory]
 - **Adaptive Multi-Modal Channel Knowledge Map Construction for Robust Beam Prediction**  
-  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3703956) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3703956) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Adversarial Learning-Based Radio Map Reconstruction for Fingerprinting Localization**  
-  *IEEE Antennas and Wireless Propagation Letters 2026* · [Paper](https://doi.org/10.1109/lawp.2026.3679273) · <sub>JCR Q2 · 中科院分区 3 · IF 4.6</sub>
+  *IEEE Antennas and Wireless Propagation Letters 2026* · [Paper](https://doi.org/10.1109/lawp.2026.3679273) · <sub>JCR best Q2 (2025) · 中科院大类 2 (2025) · JIF 4.6 (2025)</sub>[^metrics-ieee-antennas-and-wireless-propagation-letters]
 - **An RT-Supervised Simulation-to-Simulation Framework for Path Loss Radio Map Prediction Based on Geographic Environmental Information**  
-  *Electronics 2026* · [Paper](https://www.mdpi.com/2079-9292/15/8/1750) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
+  *Electronics 2026* · [Paper](https://www.mdpi.com/2079-9292/15/8/1750) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-electronics]
 - **AUG-RME: An Attention-Based Uncertainty-Aware Grid-Free Framework for Radio Map Estimation**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3731526) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3731526) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Bayesian Neural Field-Based 3-D Radio Environment Map Reconstruction With Uncertainty Quantification Under Sparse Sampling**  
-  *IEEE Open Journal of the Communications Society 2026* · [Paper](https://doi.org/10.1109/OJCOMS.2026.3714834) · <sub>JCR Q1 · 中科院分区 2 · IF 6.2</sub>
+  *IEEE Open Journal of the Communications Society 2026* · [Paper](https://doi.org/10.1109/OJCOMS.2026.3714834) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 6.2 (2025)</sub>[^metrics-ieee-open-journal-of-the-communications-society]
 - **BeamCKM: A Framework of Channel Knowledge Map Construction for Multi-Antenna Systems**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3718444) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3718444) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Blind Radio Map Construction via Topology Guided Manifold Learning**  
-  *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11474342) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11474342) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **Bridging Visual and Wireless Sensing via a Unified Radiation Field for 3D Radio Map Construction**<br>
-  *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00067-6) · [Repository](https://github.com/wenchaozheng/URF-GS) · <sub>JCR None · 中科院分区 None · IF None</sub> · `Repository placeholder`
+  *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00067-6) · [Repository](https://github.com/wenchaozheng/URF-GS) · <sub>JCR (2025): unconfirmed · 中科院大类 (2025): unconfirmed · JIF (2025): unconfirmed</sub>[^metrics-npj-wireless-technology] · `Repository placeholder`
 - **BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks**  
-  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3741079) · [arXiv](https://arxiv.org/abs/2507.23236) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3741079) · [arXiv](https://arxiv.org/abs/2507.23236) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **Channel Fingerprint Construction for Massive MIMO: A Deep Conditional Generative Approach**<br>
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2025.3623623) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2025.3623623) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Channel Gain Map Estimation Based on 3-D Virtual Scatterer Model**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3685411) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
-- **Channel Knowledge Map Construction: Recent Advances and Open Challenges**<br>
-  *IEEE Wireless Communications 2026* · [Paper](https://doi.org/10.1109/MWC.2026.3668205) · <sub>JCR Q1 · 中科院分区 None · IF 13.4</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3685411) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Channel Knowledge Map Construction via Guided Flow Matching**  
-  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3693360) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3693360) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Channel Knowledge Map Construction With Radio Propagation Graph Representation Learning**  
-  *IEEE Internet of Things Journal 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672928) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3672928) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
+- **Channel Knowledge Map Construction: Recent Advances and Open Challenges**<br>
+  *IEEE Wireless Communications 2026* · [Paper](https://doi.org/10.1109/MWC.2026.3668205) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 13.4 (2025)</sub>[^metrics-ieee-wireless-communications]
 - **Constructing Radio Map via Spatio-Temporal Learning of Crowdsourced Trajectory Data**  
-  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3710356) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3710356) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **CSI-Tuples-Based 3-D Channel Fingerprints Construction Assisted by Multimodal Learning**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11534430) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11534430) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Deformable 2D Gaussian Splatting for Efficient Wireless Radiance Field Rendering**  
-  *IEEE Transactions on Visualization and Computer Graphics 2026* · [Paper](https://doi.org/10.1109/TVCG.2026.3681115) · <sub>JCR Q1 · 中科院分区 1 · IF 6.8</sub>
+  *IEEE Transactions on Visualization and Computer Graphics 2026* · [Paper](https://doi.org/10.1109/TVCG.2026.3681115) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 6.8 (2025)</sub>[^metrics-ieee-transactions-on-visualization-and-computer-graphics]
 - **Digital Twin-Assisted 3D Channel Knowledge Map Inference and Multi-Type Base Station Deployment Optimization for Urban Low-Altitude Economy**  
-  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/tmc.2026.3692307) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/tmc.2026.3692307) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **End-to-End UAV-Enabled Adaptive 3D Radio Mapping via Joint Optimization of Sparse Sampling and Reconstruction**  
-  *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456505) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11456505) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **ExposNet: A Deep Learning Framework for EMF Exposure Prediction in Complex Urban Environments**<br>
-  *IEEE Transactions on Machine Learning in Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TMLCN.2026.3714431) · <sub>JCR Q2 · 中科院分区 None · IF 4.9</sub>
+  *IEEE Transactions on Machine Learning in Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TMLCN.2026.3714431) · <sub>JCR best Q2 (2025) · 中科院大类 (2025): unconfirmed · JIF 4.9 (2025)</sub>[^metrics-ieee-transactions-on-machine-learning-in-communications-and-networking]
 - **F4-CKM: Learning Channel Knowledge Map With Radio Frequency Radiance Field Rendering**  
-  *IEEE Transactions on Communications 2026* · [Paper](https://doi.org/10.1109/TCOMM.2026.3668162) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
+  *IEEE Transactions on Communications 2026* · [Paper](https://doi.org/10.1109/TCOMM.2026.3668162) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
 - **Fast Aerial Channel Knowledge Map Construction via an Energy-Constrained UAV**  
-  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3693060) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3693060) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Flow Matching for Fast Channel Knowledge Map Construction in AI-Native 6G Networks**  
-  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3720195) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3720195) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Fusion of Pervasive RF Data with Spatial Images via Vision Transformers for Enhanced Mapping in Smart Cities**<br>
-  *Pervasive and Mobile Computing 2026* · [Paper](https://doi.org/10.1016/j.pmcj.2026.102261) · <sub>JCR None · 中科院分区 None · IF 3.5</sub>
+  *Pervasive and Mobile Computing 2026* · [Paper](https://doi.org/10.1016/j.pmcj.2026.102261) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 3.9 (2025)</sub>[^metrics-pervasive-and-mobile-computing]
+- **Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning**  
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/document/11146461) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Geometry-Aware Cholesky Projection for Indoor Radio Map Sampling**  
-  *IEEE Signal Processing Letters 2026* · [Paper](https://doi.org/10.1109/lsp.2025.3636448) · <sub>JCR Q2 · 中科院分区 None · IF 3.6</sub>
+  *IEEE Signal Processing Letters 2026* · [Paper](https://doi.org/10.1109/lsp.2025.3636448) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 3.6 (2025)</sub>[^metrics-ieee-signal-processing-letters]
 - **HiFiRadio: High-Fidelity Radio Map Reconstruction for 3D Real-World Scenes**  
-  *Technologies 2026* · [Paper](https://doi.org/10.3390/technologies14010058) · <sub>JCR Q1 · 中科院分区 None · IF 5.2</sub>
+  *Technologies 2026* · [Paper](https://doi.org/10.3390/technologies14010058) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.2 (2025)</sub>[^metrics-technologies]
 - **Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**  
-  *IEEE Communications Letters 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481010) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
+  *IEEE Communications Letters 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481010) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
+- **KAN Based Interpretable Radio Map Prediction Framework with Symbolic Data Fusion**  
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://ieeexplore.ieee.org/document/11143592) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
+- **Leveraging Transfer Learning for Radio Map Estimation via Mixture of Experts**  
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://ieeexplore.ieee.org/document/11005396) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Machine Learning-Based Radio Environment Map Estimation for Indoor Visible Light Communication**  
-  *IET Optoelectronics 2026* · [Paper](https://doi.org/10.1049/ote2.70043) · [arXiv](https://arxiv.org/abs/2507.19149) · <sub>JCR Q2 (best category) · 中科院分区 4 (2025) · IF 2.8 (2025)</sub>[^iet-metrics]
+  *IET Optoelectronics 2026* · [Paper](https://doi.org/10.1049/ote2.70043) · [arXiv](https://arxiv.org/abs/2507.19149) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.8 (2025)</sub>[^iet-metrics]
 - **Minimum energy consumption of multi-UAV logistics distribution with heading angle constraints based on radio map**<br>
-  *Physical Communication 2026* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *Physical Communication 2026* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382) · <sub>JCR best Q3 (2025) · 中科院大类 4 (2025) · JIF 1.9 (2025)</sub>[^metrics-physical-communication]
 - **Multiple Source Localization via Local Radio Map Construction in Urban Environments**  
-  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/tccn.2025.3635590) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/tccn.2025.3635590) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**  
-  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481652) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481652) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **P-WRFGS: Pruning 3-D Gaussians for Efficient Wireless Radiance Field Construction**  
-  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3727361) · [arXiv](https://arxiv.org/abs/2605.15324) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3727361) · [arXiv](https://arxiv.org/abs/2605.15324) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
+- **Physics-Guided Language Model via Low-Rank Adaptation for Path Loss Prediction**  
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://ieeexplore.ieee.org/document/11202166) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Physics-Guided Neural Radiance Field Network for Multi-Antenna Channel Prediction**  
-  *IEEE Antennas and Wireless Propagation Letters 2026* · [Paper](https://doi.org/10.1109/LAWP.2026.3683930) · <sub>JCR Q2 · 中科院分区 3 · IF 4.6</sub>
+  *IEEE Antennas and Wireless Propagation Letters 2026* · [Paper](https://doi.org/10.1109/LAWP.2026.3683930) · <sub>JCR best Q2 (2025) · 中科院大类 2 (2025) · JIF 4.6 (2025)</sub>[^metrics-ieee-antennas-and-wireless-propagation-letters]
 - **PhySNet: Physics-Inspired Spectral-Spatial Decoupled Attention for Radio Map Estimation**  
-  *IEEE Communications Letters 2026* · [Paper](https://doi.org/10.1109/LCOMM.2026.3705413) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
+  *IEEE Communications Letters 2026* · [Paper](https://doi.org/10.1109/LCOMM.2026.3705413) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
 - **Point Cloud Environment-Based Channel Knowledge Map Construction**  
-  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3706507) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3706507) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Prior Information for 6G Network: From Channel Knowledge Map to Radio Profile**  
-  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2600181) · <sub>JCR Q1 · 中科院分区 None · IF 8.3</sub>
+  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2600181) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.3 (2025)</sub>[^metrics-ieee-communications-magazine]
 - **Radio Map Estimation via Latent Domain Plug-and-Play Denoising**  
-  *IEEE Transactions on Signal Processing 2026* · [Paper](https://doi.org/10.1109/TSP.2025.3650699) · <sub>JCR Q1 · 中科院分区 1 · IF 5.5</sub>
+  *IEEE Transactions on Signal Processing 2026* · [Paper](https://doi.org/10.1109/TSP.2025.3650699) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 5.5 (2025)</sub>[^metrics-ieee-transactions-on-signal-processing]
+- **Radio Map Prediction from Aerial Images and Application to Coverage Optimization**  
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11063460) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Radio Radiance Field: The New Frontier of Spatial Wireless Channel Representation**  
-  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR Q1 · 中科院分区 None · IF 8.3</sub>
+  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.3 (2025)</sub>[^metrics-ieee-communications-magazine]
+- **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**<br>
+  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://ieeexplore.ieee.org/document/11083758) · [Dataset](https://github.com/UNIC-Lab/UrbanRadio3D) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.3 (2025)</sub>[^metrics-ieee-transactions-on-network-science-and-engineering] · `Dataset only`
 - **RadioDUN: A Physics-Inspired Deep Unfolding Network for Radio Map Estimation**  
-  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3683882) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3683882) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer With 1‱ Spatial Sampling**  
-  *IEEE Transactions on Networking 2026* · [Paper](https://doi.org/10.1109/TON.2026.3735501) · [arXiv](https://arxiv.org/abs/2504.19161) · [Repository](https://github.com/FzJun26th/RadioFormer) · <sub>JCR Q1 (best category; former title) · 中科院分区 3 (2025; former title) · IF 5.3 (2025; former title)</sub>[^ton-metrics] · `Repository placeholder`
+  *IEEE Transactions on Networking 2026* · [Paper](https://doi.org/10.1109/TON.2026.3735501) · [arXiv](https://arxiv.org/abs/2504.19161) · [Repository](https://github.com/FzJun26th/RadioFormer) · <sub>JCR best Q1 (2025; former title) · 中科院大类 3 (2025; former title) · JIF 5.3 (2025; former title)</sub>[^ton-metrics] · `Repository placeholder`
 - **RadioGen3D: 3D Radio Map Generation via Adversarial Learning on Large-Scale Synthetic Data**  
-  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3724160) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3724160) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **RadioVAR: Fast Sampling-Free Radio Map Construction via Coarse-to-Fine Token Prediction**  
-  *IEEE Transactions on Consumer Electronics 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11493478) · <sub>JCR Q1 · 中科院分区 2 · IF 9.9</sub>
+  *IEEE Transactions on Consumer Electronics 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11493478) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 9.9 (2025)</sub>[^metrics-ieee-transactions-on-consumer-electronics]
 - **Rank-Adaptive Bayesian Tensor Ring Completion for Low-Altitude 5D Radio Environment Map Construction**  
-  *Big Data and Cognitive Computing 2026* · [Paper](https://doi.org/10.3390/bdcc10070220) · <sub>JCR Q1 · 中科院分区 None · IF 5.3</sub>
+  *Big Data and Cognitive Computing 2026* · [Paper](https://doi.org/10.3390/bdcc10070220) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.3 (2025)</sub>[^metrics-big-data-and-cognitive-computing]
 - **Rapid Generation of Channel Knowledge Map by Joint Physics and Conditional Diffusion Models**  
-  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3720671) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3</sub>
+  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3720671) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.3 (2025)</sub>[^metrics-ieee-transactions-on-network-science-and-engineering]
 - **REM-Net+: Quantified 3D Radio Environment Map Construction Guided by Radio Propagation Model**  
-  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2025.3623917) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2025.3623917) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **RMF: one-step radio map reconstruction via mean flow matching**  
-  *Connection Science 2026* · [Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2026.2658948) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *Connection Science 2026* · [Paper](https://www.tandfonline.com/doi/full/10.1080/09540091.2026.2658948) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 3.0 (2025)</sub>[^metrics-connection-science]
 - **RMG-SRGAN: Super-Resolution Generative Adversarial Network based on multi-scale attention aggregation and feature enhancement for radio map generation**  
-  *ICT Express 2026* · [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *ICT Express 2026* · [Paper](https://www.sciencedirect.com/science/article/pii/S240595952600069X) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.6 (2025)</sub>[^metrics-ict-express]
 - **Scene Structure Based Neural Radio-Frequency Radiance Fields for Channel Knowledge Map Construction**  
-  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2025.3615621) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2025.3615621) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Statistical Channel Fingerprint Construction for Massive MIMO: A Unified Tensor Learning Framework**<br>
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3720256) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3720256) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **STFD-SNN: A Physics-Constrained Spiking Neural Network Framework for Maritime Radio Environment Map Reconstruction**  
-  *IEEE Internet of Things Journal 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3702982) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2026* · [Paper](https://doi.org/10.1109/JIOT.2026.3702982) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **Temporal Spectrum Cartography in Low-Altitude Economy Networks: A Generative AI Framework with Multi-Agent Learning**<br>
-  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2025.3647029) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2025.3647029) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **Topology-Aware Embedding Network for Label-Free Radio Map Construction**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3713038) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3713038) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Toward Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds**  
-  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2500630) · <sub>JCR Q1 · 中科院分区 None · IF 8.3</sub>
+  *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2500630) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.3 (2025)</sub>[^metrics-ieee-communications-magazine]
 - **UAV-enabled Adaptive Radio Sampling for High-quality Radio Environment Map Construction in Unknown Environments**  
-  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3737955) · [TechRxiv](https://doi.org/10.36227/techrxiv.175993459.99080577/v1) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3737955) · [TechRxiv](https://doi.org/10.36227/techrxiv.175993459.99080577/v1) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.8 (2025)</sub>[^metrics-ieee-transactions-on-mobile-computing]
 - **UniRM: A Universal Large Model for Multiband 3D Radio Map Construction**  
-  *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://doi.org/10.1109/JSAC.2025.3640150) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
+  *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://doi.org/10.1109/JSAC.2025.3640150) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
 - **Visual Transformer Based Unified Framework for Radio Map Estimation and Optimized Site Selection**<br>
-  *IEICE Transactions on Communications 2026* · [Paper](https://doi.org/10.23919/transcom.2025EBP3055) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *IEICE Transactions on Communications 2026* · [Paper](https://doi.org/10.23919/transcom.2025EBP3055) · <sub>JCR best Q4 (2025) · 中科院大类 4 (2025) · JIF 1.1 (2025)</sub>[^metrics-ieice-transactions-on-communications]
 - **VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**  
-  *IEEE Communications Letters 2026* · [Paper](https://doi.org/10.1109/lcomm.2025.3644410) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
+  *IEEE Communications Letters 2026* · [Paper](https://doi.org/10.1109/lcomm.2025.3644410) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
 
 </details>
 
 <details open>
-<summary><strong>2025</strong> <sub>59 papers</sub></summary>
+<summary><strong>2025</strong> <sub>51 papers</sub></summary>
 
 - **3-D Radio Map Estimation Based on Active Measurement Trajectory Selection**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557556) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557556) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **3D-RadioDiff: An Altitude-Conditioned Diffusion Model for 3D Radio Map Construction**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10963917) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10963917) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **A Data-and-Semantic Dual-Driven Intelligent Inference Framework for Simultaneously Spectrum Map Construction and Signal Source Localization**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10946994) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
-- **A Data-driven Transfer Learning Method for Indoor Radio Map Estimation**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://ieeexplore.ieee.org/document/11159327) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
-- **A Disentangled Representation Learning Framework for Low-altitude Network Coverage Prediction**  
-  *IEEE Transactions on Mobile Computing 2025* · [Paper](https://ieeexplore.ieee.org/document/11268973) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10946994) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
+- **A Novel Multimodal Fusion Sensing-Based Channel Prediction Method for UAV Communications**  
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10720899) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **A Recent Survey on Radio Map Estimation Methods for Wireless Networks**  
-  *Electronics 2025* · [Paper](https://doi.org/10.3390/electronics14081564) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
-- **A robust learning framework for spatial-temporal-spectral radio map prediction**  
-  *Expert Systems with Applications 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417425029665) · <sub>JCR None · 中科院分区 None · IF 7.5</sub>
+  *Electronics 2025* · [Paper](https://doi.org/10.3390/electronics14081564) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-electronics]
 - **A Sampling Method for Radio Environment Map Reconstruction Based on Multiarea Gudmundson Model**  
-  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/jsen.2025.3559083) · <sub>JCR Q2 · 中科院分区 None · IF 4.5</sub>
+  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/jsen.2025.3559083) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-sensors-journal]
 - **A Secure Wireless Transmission Scheme: Reconstructing Spatial Radio Environment Map and Redirecting Electromagnetic Signal Propagation Path**  
-  *IEEE Open Journal of the Communications Society 2025* · [Paper](https://ieeexplore.ieee.org/document/11146515) · <sub>JCR Q1 · 中科院分区 2 · IF 6.2</sub>
+  *IEEE Open Journal of the Communications Society 2025* · [Paper](https://ieeexplore.ieee.org/document/11146515) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 6.2 (2025)</sub>[^metrics-ieee-open-journal-of-the-communications-society]
 - **An Accurate Radio Environment Map Reconstruction Method**  
-  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/JSEN.2025.3562214) · <sub>JCR Q2 · 中科院分区 None · IF 4.5</sub>
+  *IEEE Sensors Journal 2025* · [Paper](https://doi.org/10.1109/JSEN.2025.3562214) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-sensors-journal]
 - **An I2I Inpainting Approach for Efficient Channel Knowledge Map Construction**  
-  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/10791446) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/10791446) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **An Overview on IEEE 802.11bf: WLAN Sensing**<br>
-  *IEEE Communications Surveys & Tutorials 2025* · [Paper](https://doi.org/10.1109/COMST.2024.3408899) · <sub>JCR Q1 · 中科院分区 None · IF 50.6</sub>
+  *IEEE Communications Surveys & Tutorials 2025* · [Paper](https://doi.org/10.1109/COMST.2024.3408899) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 50.6 (2025)</sub>[^metrics-ieee-communications-surveys-tutorials]
 - **CF-CGN: Channel Fingerprints Extrapolation for Multi-band Massive MIMO Transmission based on Cycle-Consistent Generative Networks**  
-  *IEEE Journal on Selected Areas in Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11059941) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
+  *IEEE Journal on Selected Areas in Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11059941) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
 - **Channel Gain Map Construction Based on Subregional Learning and Prediction**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://ieeexplore.ieee.org/document/10891198) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://ieeexplore.ieee.org/document/10891198) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Channel Gain Map Estimation for Wireless Networks Based on Scatterer Model**  
-  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3557417) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3557417) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Channel Knowledge Map for Cellular-Connected UAV via Binary Bayesian Filtering**  
-  *IEEE Transactions on Communications 2025* · [Paper](https://doi.org/10.1109/tcomm.2025.3554681) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
+  *IEEE Transactions on Communications 2025* · [Paper](https://doi.org/10.1109/tcomm.2025.3554681) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
 - **CKMImageNet: A Dataset for AI-Based Channel Knowledge Map Toward Environment-Aware Communication and Sensing**  
-  *IEEE Transactions on Communications 2025* · [Paper](https://doi.org/10.1109/TCOMM.2025.3615778) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
+  *IEEE Transactions on Communications 2025* · [Paper](https://doi.org/10.1109/TCOMM.2025.3615778) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
 - **Constructing Frequency Modulation-Broadcasting Map Based on Semi-Supervised Clustering**  
-  *IEEE Transactions on Broadcasting 2025* · [Paper](https://ieeexplore.ieee.org/document/11074722) · <sub>JCR Q1 · 中科院分区 None · IF 5.9</sub>
-- **Convolutional neural networks for predicting the perceived density of large urban fabrics**  
-  *Computers, Environment and Urban Systems 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000572) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *IEEE Transactions on Broadcasting 2025* · [Paper](https://ieeexplore.ieee.org/document/11074722) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 5.9 (2025)</sub>[^metrics-ieee-transactions-on-broadcasting]
 - **Deep Learning-Empowered RF Sensing in Outdoor Environments: Recent Advances, Challenges, and Future Directions**<br>
-  *Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/1/125) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
+  *Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/1/125) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-electronics]
 - **DeepRT: A Hybrid Framework Combining Large Model Architectures and Ray Tracing Principles for 6G Digital Twin Channels**  
-  *Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/9/1849) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
+  *Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/9/1849) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-electronics]
 - **Denoising Diffusion Probabilistic Model for Radio Map Estimation in Generative Wireless Networks**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/10843401) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/10843401) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Electromagnetic wave property inspired radio environment knowledge construction and artificial intelligence based verification for 6G digital twin channel**  
-  *Frontiers of Information Technology & Electronic Engineering 2025* · [Paper](https://doi.org/10.1631/FITEE.2400464) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *Frontiers of Information Technology & Electronic Engineering 2025* · [Paper](https://doi.org/10.1631/FITEE.2400464) · <sub>JCR (2025): unconfirmed · 中科院大类 3 (2025) · JIF (2025): unconfirmed</sub>[^metrics-frontiers-of-information-technology-electronic-engineering]
 - **Fast Transmission Control Adaptation for URLLC via Channel Knowledge Map and Meta-Learning**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10930931) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
-- **Generating CKM Using Others' Data: Cross-AP CKM Inference with Deep Learning**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://ieeexplore.ieee.org/document/11146461) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10930931) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **Geo2ComMap: Deep Learning-Based MIMO Throughput Prediction Using Geographic Data**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10950386) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10950386) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **GPRT: A Gaussian Process Regression-Based Radio Map Construction Method for Rugged Terrain**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10938559) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10938559) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **Grid-Free Radio Map Estimation via Unsupervised Implicit Continuous Representation**  
-  *IEEE Signal Processing Letters 2025* · [Paper](https://doi.org/10.1109/LSP.2025.3601038) · <sub>JCR Q2 · 中科院分区 None · IF 3.6</sub>
+  *IEEE Signal Processing Letters 2025* · [Paper](https://doi.org/10.1109/LSP.2025.3601038) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 3.6 (2025)</sub>[^metrics-ieee-signal-processing-letters]
 - **GS3D: Signal Recovery in 3-D Wireless Networks With Gaussian Splatting-Synergized Stable Diffusion**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3561522) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3561522) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **High-Efficiency Urban 3D Radio Map Estimation Based on Sparse Measurements**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3573595) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3573595) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **IMNet: Interference-Aware Channel Knowledge Map Construction and Localization**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10829585) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
-- **Interference-Cancellation-Based Channel Knowledge Map Construction and Its Applications to Channel Estimation**  
-  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3552519) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10829585) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Interference Management in Private 5G Networks via Interference Source Localization and Radio Environment Map Construction**<br>
-  *IEEE Access 2025* · [Paper](https://doi.org/10.1109/access.2025.3617014) · <sub>JCR Q2 · 中科院分区 None · IF 4.2</sub>
-- **KAN Based Interpretable Radio Map Prediction Framework with Symbolic Data Fusion**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11143592) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Access 2025* · [Paper](https://doi.org/10.1109/access.2025.3617014) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 4.2 (2025)</sub>[^metrics-ieee-access]
+- **Interference-Cancellation-Based Channel Knowledge Map Construction and Its Applications to Channel Estimation**  
+  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://doi.org/10.1109/TWC.2025.3552519) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Large Language Model Agents for Radio Map Generation and Wireless Network Planning**  
-  *IEEE Networking Letters 2025* · [Paper](https://doi.org/10.1109/lnet.2025.3539829) · <sub>JCR Q2 · 中科院分区 None · IF 3.3</sub>
+  *IEEE Networking Letters 2025* · [Paper](https://doi.org/10.1109/lnet.2025.3539829) · <sub>JCR best Q2 (2025) · 中科院大类 (2025): unconfirmed · JIF 3.3 (2025)</sub>[^metrics-ieee-networking-letters]
 - **Learnable Wireless Digital Twins: Reconstructing Electromagnetic Field With Neural Representations**  
-  *IEEE Open Journal of the Communications Society 2025* · [Paper](https://doi.org/10.1109/OJCOMS.2025.3535959) · <sub>JCR Q1 · 中科院分区 2 · IF 6.2</sub>
-- **Leveraging Transfer Learning for Radio Map Estimation via Mixture of Experts**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11005396) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Open Journal of the Communications Society 2025* · [Paper](https://doi.org/10.1109/OJCOMS.2025.3535959) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 6.2 (2025)</sub>[^metrics-ieee-open-journal-of-the-communications-society]
 - **Machine learning methods comparison for maritime wireless signal strength prediction**  
-  *Engineering Applications of Artificial Intelligence 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625013594) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *Engineering Applications of Artificial Intelligence 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0952197625013594) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 9.0 (2025)</sub>[^metrics-engineering-applications-of-artificial-intelligence]
 - **MAE-Based Radio Map Construction for Wi-Fi Fingerprint Indoor Localization**  
-  *IEEE Communications Letters 2025* · [Paper](https://doi.org/10.1109/lcomm.2025.3582075) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
+  *IEEE Communications Letters 2025* · [Paper](https://doi.org/10.1109/lcomm.2025.3582075) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
 - **Novel Radio Environment Map Construction Scheme for 3-D and Full Band for Modern Internet of Things Applications**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://doi.org/10.1109/JIOT.2024.3520611) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
-- **Physics-Guided Language Model via Low-Rank Adaptation for Path Loss Prediction**  
-  *IEEE Transactions on Cognitive Communications and Networking 2025* · [Paper](https://ieeexplore.ieee.org/document/11202166) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://doi.org/10.1109/JIOT.2024.3520611) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **Prototyping and Experimental Results for ISAC-Based Channel Knowledge Map**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/tvt.2025.3545785) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/tvt.2025.3545785) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Radiation Source Localization Using Radio Maps: A Computer Vision Approach**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/11137360) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/11137360) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Radio Environment Map Reconstruction via Tensor Completion: Bayesian and Semantic Approaches**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3531124) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3531124) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Radio map estimation using a CycleGAN-based learning framework for 6G wireless communication**  
-  *Digital Communications and Networks 2025* · [Paper](https://www.sciencedirect.com/science/article/pii/S2352864825001294) · <sub>JCR None · 中科院分区 None · IF None</sub>
-- **Radio Map Prediction from Aerial Images and Application to Coverage Optimization**  
-  *IEEE Transactions on Wireless Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11063460) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *Digital Communications and Networks 2025* · [Paper](https://www.sciencedirect.com/science/article/pii/S2352864825001294) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 6.3 (2025)</sub>[^metrics-digital-communications-and-networks]
 - **Radio Map Reconstruction Based on Deep Denoising Regularization for UAV Communications**  
-  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3542768) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
-- **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**<br>
-  *IEEE Transactions on Network Science and Engineering 2025* · [Paper](https://ieeexplore.ieee.org/document/11083758) · [Dataset](https://github.com/UNIC-Lab/UrbanRadio3D) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3</sub> · `Dataset only`
+  *IEEE Transactions on Vehicular Technology 2025* · [Paper](https://doi.org/10.1109/TVT.2025.3542768) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **RGB-D Sensor-Aided Radio Map Estimation Using Materials Classification**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557794) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://doi.org/10.1109/LWC.2025.3557794) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
+- **Rigorous Indoor Wireless Communication System Simulations With Deep Learning-Based Radio Propagation Models**  
+  *IEEE Journal on Multiscale and Multiphysics Computational Techniques 2025* · [Paper](https://ieeexplore.ieee.org/document/10786819) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 2.1 (2025)</sub>[^metrics-ieee-journal-on-multiscale-and-multiphysics-computational-techniques]
 - **SC-GAN: A spectrum cartography with satellite Internet based on Pix2Pix generative adversarial network**  
-  *China Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/10906396) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *China Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/10906396) · <sub>JCR best Q3 (2025) · 中科院大类 4 (2025) · JIF 2.8 (2025)</sub>[^metrics-china-communications]
 - **ST-CSFNet: Spatial-Temporal Cross Scale FNet for Radio Environment Map Forecasting**  
-  *IEEE Communications Letters 2025* · [Paper](https://doi.org/10.1109/LCOMM.2025.3529898) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
+  *IEEE Communications Letters 2025* · [Paper](https://doi.org/10.1109/LCOMM.2025.3529898) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
 - **Time-Variant Radio Map Reconstruction With Optimized Distributed Sensors in Dynamic Spectrum Environments**  
-  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10902472) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Internet of Things Journal 2025* · [Paper](https://ieeexplore.ieee.org/document/10902472) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.7 (2025)</sub>[^metrics-ieee-internet-of-things-journal]
 - **TiRE-GAN: Task-Incentivized Generative Learning for Radiomap Estimation**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10892295) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10892295) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Towards accurate positioning: Directionality-enhanced fingerprinting radio map**  
-  *ICT Express 2025* · [Paper](https://doi.org/10.1016/j.icte.2024.12.004) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *ICT Express 2025* · [Paper](https://doi.org/10.1016/j.icte.2024.12.004) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.6 (2025)</sub>[^metrics-ict-express]
 - **Two-Stage Radio Map Construction With Real Environments and Sparse Measurements**  
-  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10838708) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2025* · [Paper](https://ieeexplore.ieee.org/document/10838708) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Unmanned Aerial Vehicle-Enabled Aerial Radio Environment Map Construction: A Multi-Stage Approach to Data Sampling and Path Planning**  
-  *Drones 2025* · [Paper](https://doi.org/10.3390/drones9020081) · <sub>JCR Q2 · 中科院分区 None · IF 5.2</sub>
+  *Drones 2025* · [Paper](https://doi.org/10.3390/drones9020081) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 5.2 (2025)</sub>[^metrics-drones]
 - **Vision Transformers for Efficient Indoor Pathloss Radio Map Prediction**  
-  *Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/10/1905) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
+  *Electronics 2025* · [Paper](https://www.mdpi.com/2079-9292/14/10/1905) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-electronics]
 - **WiFi-Diffusion: Achieving Fine-Grained WiFi Radio Map Estimation with Ultra-Low Sampling Rate by Diffusion Models**  
-  *IEEE Journal on Selected Areas in Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11066175) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
+  *IEEE Journal on Selected Areas in Communications 2025* · [Paper](https://ieeexplore.ieee.org/document/11066175) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
 - **WirelessNet: An Efficient Radio Access Network Model Based on Heterogeneous Graph Neural Networks**  
-  *IEEE Access 2025* · [Paper](https://ieeexplore.ieee.org/document/10902045) · <sub>JCR Q2 · 中科院分区 None · IF 4.2</sub>
+  *IEEE Access 2025* · [Paper](https://ieeexplore.ieee.org/document/10902045) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 4.2 (2025)</sub>[^metrics-ieee-access]
 
 </details>
 
 <details open>
-<summary><strong>2024 and Earlier</strong> <sub>33 papers</sub></summary>
+<summary><strong>2024 and Earlier</strong> <sub>30 papers</sub></summary>
 
-- **A Deep-Learning Approach to a Volumetric Radio Environment Map Construction for UAV-Assisted Networks**  
-  *International Journal of Antennas and Propagation 2024* · [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/9062023) · <sub>JCR None · 中科院分区 None · IF None</sub>
 - **A Deep Learning-Based Indoor Radio Estimation Method Driven by 2.4 GHz Ray-Tracing Data**<br>
-  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10347228) · <sub>JCR Q2 · 中科院分区 None · IF 4.2</sub>
+  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10347228) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 4.2 (2025)</sub>[^metrics-ieee-access]
+- **A Deep-Learning Approach to a Volumetric Radio Environment Map Construction for UAV-Assisted Networks**  
+  *International Journal of Antennas and Propagation 2024* · [Paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/9062023) · <sub>JCR best Q4 (2025) · 中科院大类 4 (2025) · JIF 1.5 (2025)</sub>[^metrics-international-journal-of-antennas-and-propagation]
 - **A FL-Based Radio Map Reconstruction Approach for UAV-Aided Wireless Networks**  
-  *Electronics 2023* · [Paper](https://www.mdpi.com/2079-9292/12/13/2817) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
+  *Electronics 2023* · [Paper](https://www.mdpi.com/2079-9292/12/13/2817) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-electronics]
 - **A Graph Neural Network Based Radio Map Construction Method for Urban Environment**  
-  *IEEE Communications Letters 2023* · [Paper](https://doi.org/10.1109/LCOMM.2023.3260272) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
-- **A Novel Multimodal Fusion Sensing-Based Channel Prediction Method for UAV Communications**  
-  *IEEE Internet of Things Journal 2024* · [Paper](https://ieeexplore.ieee.org/document/10720899) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
+  *IEEE Communications Letters 2023* · [Paper](https://doi.org/10.1109/LCOMM.2023.3260272) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
 - **A Scalable and Generalizable Pathloss Map Prediction**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10682525) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10682525) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **A Tutorial on Environment-Aware Communications via Channel Knowledge Map for 6G**  
-  *IEEE Communications Surveys & Tutorials 2024* · [Paper](https://ieeexplore.ieee.org/document/10430216) · <sub>JCR Q1 · 中科院分区 None · IF 50.6</sub>
+  *IEEE Communications Surveys & Tutorials 2024* · [Paper](https://ieeexplore.ieee.org/document/10430216) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 50.6 (2025)</sub>[^metrics-ieee-communications-surveys-tutorials]
 - **Accurate Spectrum Map Construction for Spectrum Management Through Intelligent Frequency-Spatial Reasoning**  
-  *IEEE Transactions on Communications 2023* · [Paper](https://ieeexplore.ieee.org/document/10103465) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
+  *IEEE Transactions on Communications 2023* · [Paper](https://ieeexplore.ieee.org/document/10103465) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
 - **An Empirical Study on Using CNNs for Fast Radio Signal Prediction**  
-  *SN Computer Science 2022* · [Paper](https://link.springer.com/article/10.1007/s42979-022-01022-2) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *SN Computer Science 2022* · [Paper](https://link.springer.com/article/10.1007/s42979-022-01022-2) · <sub>JCR (2025): unconfirmed · 中科院大类 (2025): unconfirmed · JIF (2025): unconfirmed</sub>[^metrics-sn-computer-science]
 - **An overview of propagation models based on deep learning techniques**<br>
-  *International Journal of Electrical Engineering and Computing 2022* · [Paper](https://ijeec.etf.ues.rs.ba/index.php/ijeec/article/view/134) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *International Journal of Electrical Engineering and Computing 2022* · [Paper](https://ijeec.etf.ues.rs.ba/index.php/ijeec/article/view/134) · <sub>JCR (2025): unconfirmed · 中科院大类 (2025): unconfirmed · JIF (2025): unconfirmed</sub>[^metrics-international-journal-of-electrical-engineering-and-computing]
 - **Cell-Level RSRP Estimation With the Image-to-Image Wireless Propagation Model Based on Measured Data**  
-  *IEEE Transactions on Cognitive Communications and Networking 2023* · [Paper](https://ieeexplore.ieee.org/document/10227351) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+  *IEEE Transactions on Cognitive Communications and Networking 2023* · [Paper](https://ieeexplore.ieee.org/document/10227351) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Channel Path Loss Prediction Using Satellite Images: A Deep Learning Approach**  
-  *IEEE Transactions on Machine Learning in Communications and Networking 2024* · [Paper](https://ieeexplore.ieee.org/document/10663692) · <sub>JCR Q2 · 中科院分区 None · IF 4.9</sub>
-- **Deep-Learning-Based Radio Map Reconstruction for V2X Communications**  
-  *IEEE Transactions on Vehicular Technology 2024* · [Paper](https://ieeexplore.ieee.org/document/10292913) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Machine Learning in Communications and Networking 2024* · [Paper](https://ieeexplore.ieee.org/document/10663692) · <sub>JCR best Q2 (2025) · 中科院大类 (2025): unconfirmed · JIF 4.9 (2025)</sub>[^metrics-ieee-transactions-on-machine-learning-in-communications-and-networking]
 - **Deep Learning for Reduced Sampling Spatial 3-D REM Reconstruction**<br>
-  *IEEE Open Journal of the Communications Society 2024* · [Paper](https://ieeexplore.ieee.org/document/10495350) · <sub>JCR Q1 · 中科院分区 2 · IF 6.2</sub>
+  *IEEE Open Journal of the Communications Society 2024* · [Paper](https://ieeexplore.ieee.org/document/10495350) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 6.2 (2025)</sub>[^metrics-ieee-open-journal-of-the-communications-society]
+- **Deep-Learning-Based Radio Map Reconstruction for V2X Communications**  
+  *IEEE Transactions on Vehicular Technology 2024* · [Paper](https://ieeexplore.ieee.org/document/10292913) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **DeepREM: Deep-Learning-Based Radio Environment Map Estimation From Sparse Measurements**  
-  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10127968) · <sub>JCR Q2 · 中科院分区 None · IF 4.2</sub>
+  *IEEE Access 2023* · [Paper](https://ieeexplore.ieee.org/document/10127968) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 4.2 (2025)</sub>[^metrics-ieee-access]
 - **Development of a Conditional Generative Adversarial Network Model for Television Spectrum Radio Environment Mapping**  
-  *IEEE Access 2024* · [Paper](https://ieeexplore.ieee.org/document/10813343) · <sub>JCR Q2 · 中科院分区 None · IF 4.2</sub>
+  *IEEE Access 2024* · [Paper](https://ieeexplore.ieee.org/document/10813343) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 4.2 (2025)</sub>[^metrics-ieee-access]
 - **Diffraction and Scattering Aware Radio Map and Environment Reconstruction Using Geometry Model-Assisted Deep Learning**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10745208) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
-- **Fast Radio Propagation Prediction with Deep Learning**  
-  *Compressed Sensing in Information Processing 2022* · [Paper](https://link.springer.com/chapter/10.1007/978-3-031-09745-4_10) · <sub>JCR None · 中科院分区 None · IF None</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10745208) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Intelligent reconstruction algorithm of electromagnetic map based on propagation model**  
-  *Journal of Communications and Networks 2024* · [Paper](https://ieeexplore.ieee.org/document/10748590) · <sub>JCR None · 中科院分区 None · IF None</sub>
-- **Machine-Learning-Based Path Loss Prediction for Vehicle-to-Vehicle Communication in Highway Environments**<br>
-  *Applied Sciences 2024* · [Paper](https://www.mdpi.com/2076-3417/14/17/7545) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
-- **Machine Learning-Based Radio Coverage Prediction in Urban Environments**<br>
-  *IEEE Transactions on Network and Service Management 2020* · [Paper](https://doi.org/10.1109/TNSM.2020.3035442) · <sub>JCR Q1 · 中科院分区 None · IF 5.7</sub>
-- **Machine Learning-Based Urban Canyon Path Loss Prediction Using 28 GHz Manhattan Measurements**<br>
-  *IEEE Transactions on Antennas and Propagation 2022* · [Paper](https://ieeexplore.ieee.org/document/9722715) · <sub>JCR Q1 · 中科院分区 None · IF 5.9</sub>
+  *Journal of Communications and Networks 2024* · [Paper](https://ieeexplore.ieee.org/document/10748590) · <sub>JCR best Q3 (2025) · 中科院大类 4 (2025) · JIF 3.0 (2025)</sub>[^metrics-journal-of-communications-and-networks]
 - **Machine Learning for Channel Quality Prediction: From Concept to Experimental Validation**<br>
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10577598) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10577598) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
+- **Machine Learning-Based Radio Coverage Prediction in Urban Environments**<br>
+  *IEEE Transactions on Network and Service Management 2020* · [Paper](https://doi.org/10.1109/TNSM.2020.3035442) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 5.7 (2025)</sub>[^metrics-ieee-transactions-on-network-and-service-management]
+- **Machine Learning-Based Urban Canyon Path Loss Prediction Using 28 GHz Manhattan Measurements**<br>
+  *IEEE Transactions on Antennas and Propagation 2022* · [Paper](https://ieeexplore.ieee.org/document/9722715) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 5.9 (2025)</sub>[^metrics-ieee-transactions-on-antennas-and-propagation]
+- **Machine-Learning-Based Path Loss Prediction for Vehicle-to-Vehicle Communication in Highway Environments**<br>
+  *Applied Sciences 2024* · [Paper](https://www.mdpi.com/2076-3417/14/17/7545) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.9 (2025)</sub>[^metrics-applied-sciences]
 - **Multi-Stage RF Emitter Search and Geolocation With UAV: A Cognitive Learning-Based Method**  
-  *IEEE Transactions on Vehicular Technology 2023* · [Paper](https://ieeexplore.ieee.org/document/10016683) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
+  *IEEE Transactions on Vehicular Technology 2023* · [Paper](https://ieeexplore.ieee.org/document/10016683) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Physics-Informed Neural Networks for Path Loss Estimation by Solving Electromagnetic Integral Equations**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10608081) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://ieeexplore.ieee.org/document/10608081) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Pseudo Ray-Tracing: Deep Learning Assisted Outdoor mm-Wave Path Loss Prediction**<br>
-  *IEEE Wireless Communications Letters 2022* · [Paper](https://ieeexplore.ieee.org/document/9774859) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
+  *IEEE Wireless Communications Letters 2022* · [Paper](https://ieeexplore.ieee.org/document/9774859) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **Radiomap Inpainting for Restricted Areas Based on Propagation Priority and Depth Map**  
-  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://doi.org/10.1109/TWC.2024.3360872) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
+  *IEEE Transactions on Wireless Communications 2024* · [Paper](https://doi.org/10.1109/TWC.2024.3360872) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Reconstruction of Radio Environment Map Based on Multi-Source Domain Adaptive of Graph Neural Network for Regression**<br>
-  *Sensors 2024* · [Paper](https://www.mdpi.com/1424-8220/24/8/2523) · <sub>JCR Q2 · 中科院分区 None · IF 4.0</sub>
+  *Sensors 2024* · [Paper](https://www.mdpi.com/1424-8220/24/8/2523) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.0 (2025)</sub>[^metrics-sensors]
 - **REM-U-Net: Deep Learning Based Agile REM Prediction With Energy-Efficient Cell-Free Use Case**  
-  *IEEE Open Journal of Signal Processing 2024* · [Paper](https://ieeexplore.ieee.org/document/10474197) · <sub>JCR Q3 · 中科院分区 None · IF 2.6</sub>
-- **Rigorous Indoor Wireless Communication System Simulations With Deep Learning-Based Radio Propagation Models**  
-  *IEEE Journal on Multiscale and Multiphysics Computational Techniques 2024* · [Paper](https://ieeexplore.ieee.org/document/10786819) · <sub>JCR Q3 · 中科院分区 None · IF 2.1</sub>
+  *IEEE Open Journal of Signal Processing 2024* · [Paper](https://ieeexplore.ieee.org/document/10474197) · <sub>JCR best Q3 (2025) · 中科院大类 3 (2025) · JIF 2.6 (2025)</sub>[^metrics-ieee-open-journal-of-signal-processing]
 - **Super-Resolution of Wireless Channel Characteristics: A Multitask Learning Model**  
-  *IEEE Transactions on Antennas and Propagation 2023* · [Paper](https://ieeexplore.ieee.org/document/10224827) · <sub>JCR Q1 · 中科院分区 None · IF 5.9</sub>
+  *IEEE Transactions on Antennas and Propagation 2023* · [Paper](https://ieeexplore.ieee.org/document/10224827) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 5.9 (2025)</sub>[^metrics-ieee-transactions-on-antennas-and-propagation]
 - **Temporal prediction for spectrum environment maps with moving radiation sources**  
-  *IET Communications 2023* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12560) · <sub>JCR None · 中科院分区 None · IF 1.6</sub>
+  *IET Communications 2023* · [Paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cmu2.12560) · <sub>JCR best Q4 (2025) · 中科院大类 4 (2025) · JIF 1.6 (2025)</sub>[^metrics-iet-communications]
 - **Weighted Ensembles for Adaptive Active Learning**  
-  *IEEE Transactions on Signal Processing 2024* · [Paper](https://ieeexplore.ieee.org/document/10648946) · <sub>JCR Q1 · 中科院分区 1 · IF 5.5</sub>
+  *IEEE Transactions on Signal Processing 2024* · [Paper](https://ieeexplore.ieee.org/document/10648946) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 5.5 (2025)</sub>[^metrics-ieee-transactions-on-signal-processing]
 
 </details>
 
@@ -567,7 +573,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **RadioAR: Autoregressive Modeling for Accurate Radio Map Estimation**  
   *ACM Web Conference Companion 2026* · [Paper](https://doi.org/10.1145/3774905.3794674)
 - **RadioVIL: Anomaly-Aware Diffusion Models for Radio Map Inpainting and Zero-Shot Vehicle Localization**  
-  *IEEE GLOBECOM 2026* · [Paper](https://arxiv.org/abs/2608.16167)
+  *IEEE GLOBECOM 2026* · [Paper](https://arxiv.org/abs/2608.16167) · `Accepted; linked version is a preprint`
 - **Ripple-Inspired In-Context Learning for Radio Map Estimation**  
   *IEEE ICC 2026* · [Paper](https://doi.org/10.1109/ICC59461.2026.11587713)
 - **Robust Pathloss Radio Map Prediction via Physics-Informed Transformer**  
@@ -813,7 +819,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **Transformer-Based Neural Surrogate for Link-Level Path Loss Prediction from Variable-Sized Maps**  
   *IEEE GLOBECOM 2023* · [Paper](https://ieeexplore.ieee.org/document/10436935)
 - **Transformer based Radio Map Prediction Model for Dense Urban Environments**<br>
-  *IEEE ISAPE 2021* · [Paper](https://ieeexplore.ieee.org/document/9753644) · [arXiv (RadioNet)](https://arxiv.org/abs/2105.07158)
+  *IEEE ISAPE 2021* · [Paper](https://ieeexplore.ieee.org/document/9753644) · [Possible related preprint (RadioNet)](https://arxiv.org/abs/2105.07158)[^radionet-version]
 - **UAV-aided Joint Radio Map and 3D Environment Reconstruction using Deep Learning Approaches**  
   *IEEE ICC 2022* · [Paper](https://ieeexplore.ieee.org/document/9838964)
 - **UnetRay: A Prediction Method of Indoor Radio Signal Strength Distribution**  
@@ -919,12 +925,146 @@ If you find this repository helpful, please cite the tutorial paper:
 
 </details>
 
+### Books and Chapters
+
+Book chapters are retained separately and do not carry journal-metric labels.
+
+<details open>
+<summary><strong>2024 and Earlier</strong> <sub>1 entry</sub></summary>
+
+- **Fast Radio Propagation Prediction with Deep Learning**  
+  *Compressed Sensing in Information Processing 2022* · [Paper](https://link.springer.com/chapter/10.1007/978-3-031-09745-4_10) · `Book chapter`
+
+</details>
+
+### Related Methods
+
+Adjacent methods retained for methodological context; these are not presented as direct radio-map studies.
+
+<details open>
+<summary><strong>2025</strong> <sub>1 entry</sub></summary>
+
+- **Convolutional neural networks for predicting the perceived density of large urban fabrics**  
+  *Computers, Environment and Urban Systems 2025* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0198971525000572) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.9 (2025)</sub>[^metrics-computers-environment-and-urban-systems] · `Related method: urban visual openness, not a radio-map study`
+
+</details>
+
 ---
 
 ## Contributing
 
-Contributions are welcome. Please include the paper title, venue, year, paper URL, and official code repository when available.
+Contributions are welcome. Please include the paper title, venue, publication year, paper URL, and official code repository when available. For version merges or acceptance updates, provide an explicit author/publisher link or statement; title similarity alone is not conclusive. For journal metrics, include the data year, category, and source.
 
 [^iet-metrics]: Checked 2026-10-23. The [publisher](https://ietresearch.onlinelibrary.wiley.com/journal/17518776) lists a JIF of 2.8. For the 2025 JIF/JCR data released in 2026, [AbleSci](https://www.ablesci.com/journal/detail?id=DGLVBr) reports Q2 in Electrical & Electronic Engineering and Optics, and Q3 in Telecommunications. It also reports CAS 2025 Computer Science tier 4. The quartile and CAS information was checked through this public secondary source, not directly against the subscription databases; CAS 2025 is distinct from the 2026 emerging-journal ranking.
 
 [^ton-metrics]: Checked 2026-10-23. These are metrics for the former title, IEEE/ACM Transactions on Networking, not independently verified metrics for the renamed title. [BioxBio](https://www.bioxbio.com/journal/IEEE-ACM-T-NETWORK) and [AbleSci](https://www.ablesci.com/journal/detail?id=r0zN25) report a 2025 JIF of 5.3 (released in 2026). AbleSci reports Q1 in Computer Science (Hardware & Architecture; Theory & Methods) and Electrical & Electronic Engineering, Q2 in Telecommunications, and CAS 2025 Computer Science tier 3. These latest figures come from public secondary sources. The [IEEE January 2026 title list](https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf) explicitly uses former-title rankings but contains the older 2024 JIF of 3.6, not the 2025 value.
+
+[^radionet-version]: The ISAPE 2021 paper and arXiv:2105.07158 have the same four authors in the same order and closely matching titles. Their version relationship is plausible but has not been independently confirmed by an explicit author/publisher linkage or a comparison with the conference full text. The preprint link is retained as a possible association, not proof of identical content.
+
+[^metrics-ieee-journal-on-selected-areas-in-communications]: IEEE Journal on Selected Areas in Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=5JqKGp), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 16.8.
+
+[^metrics-ieee-transactions-on-network-science-and-engineering]: IEEE Transactions on Network Science and Engineering: [public secondary record](https://www.ablesci.com/journal/detail?id=DXlKGD), checked 2026-10-23. JCR 2025 by category: ENGINEERING, MULTIDISCIPLINARY: Q1; MATHEMATICS, INTERDISCIPLINARY APPLICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 7.3.
+
+[^metrics-npj-wireless-technology]: npj Wireless Technology: current JIF, JCR quartiles and CAS tier were not confirmed in this check; this does not establish that the journal has no metrics. [Journal website](https://www.nature.com/npjwireltech/).
+
+[^metrics-pattern-recognition]: Pattern Recognition: [public secondary record](https://www.ablesci.com/journal/detail?id=p6vzvp), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE: Q1; ENGINEERING, ELECTRICAL & ELECTRONIC: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 9.1.
+
+[^metrics-ieee-transactions-on-wireless-communications]: IEEE Transactions on Wireless Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=5j2ye5), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 10.3.
+
+[^metrics-ieee-transactions-on-vehicular-technology]: IEEE Transactions on Vehicular Technology: [public secondary record](https://www.ablesci.com/journal/detail?id=5yNAED), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1; TRANSPORTATION SCIENCE & TECHNOLOGY: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 7.5.
+
+[^metrics-ieee-internet-of-things-journal]: IEEE Internet of Things Journal: [public secondary record](https://www.ablesci.com/journal/detail?id=rwxJ1p), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q1; ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 8.7.
+
+[^metrics-ieee-transactions-on-cognitive-communications-and-networking]: IEEE Transactions on Cognitive Communications and Networking: [public secondary record](https://www.ablesci.com/journal/detail?id=p1xJar), checked 2026-10-23. JCR 2025 by category: TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 8.0.
+
+[^metrics-iet-communications]: IET Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=5mw16r), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q4. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 1.6.
+
+[^metrics-ieee-transactions-on-communications]: IEEE Transactions on Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=5j2Y45), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 8.4.
+
+[^metrics-journal-of-systems-engineering-and-electronics]: Journal of Systems Engineering and Electronics: [public secondary record](https://www.ablesci.com/journal/detail?id=p6BPop), checked 2026-10-23. JCR 2025 by category: AUTOMATION & CONTROL SYSTEMS: Q2; ENGINEERING, ELECTRICAL & ELECTRONIC: Q3; OPERATIONS RESEARCH & MANAGEMENT SCIENCE: Q2. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 2.6.
+
+[^metrics-ieee-journal-on-selected-areas-in-information-theory]: IEEE Journal on Selected Areas in Information Theory: [public secondary record](https://www.ablesci.com/journal/detail?id=p6oBW5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q3; COMPUTER SCIENCE, THEORY & METHODS: Q2; ENGINEERING, ELECTRICAL & ELECTRONIC: Q3. CAS 2025 major-category tier was not confirmed. Reported 2025 JIF: 2.3.
+
+[^metrics-ieee-antennas-and-wireless-propagation-letters]: IEEE Antennas and Wireless Propagation Letters: [public secondary record](https://www.ablesci.com/journal/detail?id=p1wQjD), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q2; TELECOMMUNICATIONS: Q2. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 4.6.
+
+[^metrics-electronics]: Electronics: [public secondary record](https://www.ablesci.com/journal/detail?id=peVkX5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q3; ENGINEERING, ELECTRICAL & ELECTRONIC: Q2; PHYSICS, APPLIED: Q3. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 2.9.
+
+[^metrics-ieee-open-journal-of-the-communications-society]: IEEE Open Journal of the Communications Society: [public secondary record](https://www.ablesci.com/journal/detail?id=r0P0Jr), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 6.2.
+
+[^metrics-ieee-transactions-on-mobile-computing]: IEEE Transactions on Mobile Computing: [public secondary record](https://www.ablesci.com/journal/detail?id=DXRA8p), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 8.8.
+
+[^metrics-ieee-wireless-communications]: IEEE Wireless Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=rvR2lr), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, HARDWARE & ARCHITECTURE: Q1; COMPUTER SCIENCE, INFORMATION SYSTEMS: Q1; ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 13.4.
+
+[^metrics-ieee-wireless-communications-letters]: IEEE Wireless Communications Letters: [public secondary record](https://www.ablesci.com/journal/detail?id=5mx9jp), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q2; ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 5.1.
+
+[^metrics-ieee-transactions-on-visualization-and-computer-graphics]: IEEE Transactions on Visualization and Computer Graphics: [public secondary record](https://www.ablesci.com/journal/detail?id=5O94Xr), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, SOFTWARE ENGINEERING: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 6.8.
+
+[^metrics-ieee-transactions-on-machine-learning-in-communications-and-networking]: IEEE Transactions on Machine Learning in Communications and Networking: [public secondary record](https://www.ablesci.com/journal/detail?id=po4035), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE: Q2; TELECOMMUNICATIONS: Q2. CAS 2025 major-category tier was not confirmed. Reported 2025 JIF: 4.9.
+
+[^metrics-pervasive-and-mobile-computing]: Pervasive and Mobile Computing: [public secondary record](https://www.ablesci.com/journal/detail?id=DXdK8D), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q2; TELECOMMUNICATIONS: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 3.9.
+
+[^metrics-ieee-signal-processing-letters]: IEEE Signal Processing Letters: [public secondary record](https://www.ablesci.com/journal/detail?id=DbGdnr), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 3.6.
+
+[^metrics-technologies]: Technologies: [public secondary record](https://www.ablesci.com/journal/detail?id=5VNaW5), checked 2026-10-23. JCR 2025 by category: ENGINEERING, MULTIDISCIPLINARY: Q1. CAS 2025 major category: 工程技术, tier 3. Reported 2025 JIF: 5.2.
+
+[^metrics-ieee-communications-letters]: IEEE Communications Letters: [public secondary record](https://www.ablesci.com/journal/detail?id=p3geZp), checked 2026-10-23. JCR 2025 by category: TELECOMMUNICATIONS: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 4.5.
+
+[^metrics-physical-communication]: Physical Communication: [public secondary record](https://www.ablesci.com/journal/detail?id=p1xAKr), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q3; TELECOMMUNICATIONS: Q4. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 1.9.
+
+[^metrics-ieee-communications-magazine]: IEEE Communications Magazine: [public secondary record](https://www.ablesci.com/journal/detail?id=DlZoLp), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 8.3.
+
+[^metrics-ieee-transactions-on-signal-processing]: IEEE Transactions on Signal Processing: [public secondary record](https://www.ablesci.com/journal/detail?id=DlZOop), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1. CAS 2025 major category: 工程技术, tier 2. Reported 2025 JIF: 5.5.
+
+[^metrics-ieee-transactions-on-consumer-electronics]: IEEE Transactions on Consumer Electronics: [public secondary record](https://www.ablesci.com/journal/detail?id=r0z115), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 9.9.
+
+[^metrics-big-data-and-cognitive-computing]: Big Data and Cognitive Computing: [public secondary record](https://www.ablesci.com/journal/detail?id=5Eaxl5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE: Q2; COMPUTER SCIENCE, INFORMATION SYSTEMS: Q1; COMPUTER SCIENCE, THEORY & METHODS: Q1. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 5.3.
+
+[^metrics-connection-science]: Connection Science: [public secondary record](https://www.ablesci.com/journal/detail?id=5QdVjp), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE: Q3; COMPUTER SCIENCE, THEORY & METHODS: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 3.0.
+
+[^metrics-ict-express]: ICT Express: [public secondary record](https://www.ablesci.com/journal/detail?id=peBMx5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q2; TELECOMMUNICATIONS: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 4.6.
+
+[^metrics-ieice-transactions-on-communications]: IEICE Transactions on Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=5NYyLp), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q4; TELECOMMUNICATIONS: Q4. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 1.1.
+
+[^metrics-expert-systems-with-applications]: Expert Systems with Applications: [public secondary record](https://www.ablesci.com/journal/detail?id=pB2jEp), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE: Q1; ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; OPERATIONS RESEARCH & MANAGEMENT SCIENCE: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 9.4.
+
+[^metrics-ieee-sensors-journal]: IEEE Sensors Journal: [public secondary record](https://www.ablesci.com/journal/detail?id=DGLAbr), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q2; INSTRUMENTS & INSTRUMENTATION: Q1; PHYSICS, APPLIED: Q2. CAS 2025 major category: 综合性期刊, tier 3. Reported 2025 JIF: 4.5.
+
+[^metrics-ieee-communications-surveys-tutorials]: IEEE Communications Surveys & Tutorials: [public secondary record](https://www.ablesci.com/journal/detail?id=r8Lw0r), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 50.6.
+
+[^metrics-ieee-transactions-on-broadcasting]: IEEE Transactions on Broadcasting: [public secondary record](https://www.ablesci.com/journal/detail?id=pqK7ED), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 5.9.
+
+[^metrics-computers-environment-and-urban-systems]: Computers, Environment and Urban Systems: [public secondary record](https://www.ablesci.com/journal/detail?id=Db2ABD), checked 2026-10-23. JCR 2025 by category: ENVIRONMENTAL STUDIES: Q1; GEOGRAPHY: Q1; REGIONAL & URBAN PLANNING: Q1. CAS 2025 major category: 地球科学, tier 1. Reported 2025 JIF: 8.9.
+
+[^metrics-frontiers-of-information-technology-electronic-engineering]: Frontiers of Information Technology & Electronic Engineering: [public secondary record](https://www.ablesci.com/journal/detail?id=52zOW5), checked 2026-10-23. JCR 2025 quartiles were not confirmed. CAS 2025 major category: 计算机科学, tier 3. The 2025 JIF was not confirmed for this title. The [publisher](https://www.fitee.zjujournals.com/en/introduction/) identifies EITEE as its successor title with different ISSNs; successor-title metrics are not automatically assigned to older FITEE articles.
+
+[^metrics-ieee-access]: IEEE Access: [public secondary record](https://www.ablesci.com/journal/detail?id=r7mlY5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q2; ENGINEERING, ELECTRICAL & ELECTRONIC: Q2; TELECOMMUNICATIONS: Q2. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 4.2.
+
+[^metrics-ieee-networking-letters]: IEEE Networking Letters: [public secondary record](https://www.ablesci.com/journal/detail?id=5mQyx5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q2; TELECOMMUNICATIONS: Q3. CAS 2025 major-category tier was not confirmed. Reported 2025 JIF: 3.3.
+
+[^metrics-engineering-applications-of-artificial-intelligence]: Engineering Applications of Artificial Intelligence: [public secondary record](https://www.ablesci.com/journal/detail?id=pP3GOr), checked 2026-10-23. JCR 2025 by category: AUTOMATION & CONTROL SYSTEMS: Q1; COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE: Q1; ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; ENGINEERING, MULTIDISCIPLINARY: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 9.0.
+
+[^metrics-digital-communications-and-networks]: Digital Communications and Networks: [public secondary record](https://www.ablesci.com/journal/detail?id=5JgbZD), checked 2026-10-23. JCR 2025 by category: TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 6.3.
+
+[^metrics-china-communications]: China Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=GDG0mr), checked 2026-10-23. JCR 2025 by category: TELECOMMUNICATIONS: Q3. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 2.8.
+
+[^metrics-drones]: Drones: [public secondary record](https://www.ablesci.com/journal/detail?id=rvveJr), checked 2026-10-23. JCR 2025 by category: REMOTE SENSING: Q2. CAS 2025 major category: 计算机科学, tier 3. Reported 2025 JIF: 5.2.
+
+[^metrics-international-journal-of-antennas-and-propagation]: International Journal of Antennas and Propagation: [public secondary record](https://www.ablesci.com/journal/detail?id=D4GjL5), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q4; TELECOMMUNICATIONS: Q4. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 1.5.
+
+[^metrics-sn-computer-science]: SN Computer Science: current JIF, JCR quartiles and CAS tier were not confirmed in this check; this does not establish that the journal has no metrics. [Journal website](https://link.springer.com/journal/42979).
+
+[^metrics-international-journal-of-electrical-engineering-and-computing]: International Journal of Electrical Engineering and Computing: current JIF, JCR quartiles and CAS tier were not confirmed in this check; this does not establish that the journal has no metrics.
+
+[^metrics-journal-of-communications-and-networks]: Journal of Communications and Networks: [public secondary record](https://www.ablesci.com/journal/detail?id=5E9mZ5), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q3; TELECOMMUNICATIONS: Q3. CAS 2025 major category: 计算机科学, tier 4. Reported 2025 JIF: 3.0.
+
+[^metrics-applied-sciences]: Applied Sciences: [public secondary record](https://www.ablesci.com/journal/detail?id=DYYORD), checked 2026-10-23. JCR 2025 by category: CHEMISTRY, MULTIDISCIPLINARY: Q3; ENGINEERING, MULTIDISCIPLINARY: Q2; MATERIALS SCIENCE, MULTIDISCIPLINARY: Q3; PHYSICS, APPLIED: Q3. CAS 2025 major category: 综合性期刊, tier 4. Reported 2025 JIF: 2.9.
+
+[^metrics-ieee-transactions-on-network-and-service-management]: IEEE Transactions on Network and Service Management: [public secondary record](https://www.ablesci.com/journal/detail?id=5ONvap), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INFORMATION SYSTEMS: Q1. CAS 2025 major category: 计算机科学, tier 2. Reported 2025 JIF: 5.7.
+
+[^metrics-ieee-transactions-on-antennas-and-propagation]: IEEE Transactions on Antennas and Propagation: [public secondary record](https://www.ablesci.com/journal/detail?id=r7RKwD), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 5.9.
+
+[^metrics-sensors]: Sensors: [public secondary record](https://www.ablesci.com/journal/detail?id=5QQnn5), checked 2026-10-23. JCR 2025 by category: CHEMISTRY, ANALYTICAL: Q2; ENGINEERING, ELECTRICAL & ELECTRONIC: Q2; INSTRUMENTS & INSTRUMENTATION: Q2. CAS 2025 major category: 综合性期刊, tier 3. Reported 2025 JIF: 4.0.
+
+[^metrics-ieee-open-journal-of-signal-processing]: IEEE Open Journal of Signal Processing: [public secondary record](https://www.ablesci.com/journal/detail?id=rv0oE5), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q3. CAS 2025 major category: 工程技术, tier 3. Reported 2025 JIF: 2.6.
+
+[^metrics-ieee-journal-on-multiscale-and-multiphysics-computational-techniques]: IEEE Journal on Multiscale and Multiphysics Computational Techniques: [public secondary record](https://www.ablesci.com/journal/detail?id=rzON7p), checked 2026-10-23. JCR 2025 by category: COMPUTER SCIENCE, INTERDISCIPLINARY APPLICATIONS: Q3; ENGINEERING, ELECTRICAL & ELECTRONIC: Q3; PHYSICS, MATHEMATICAL: Q2. CAS 2025 major category: 工程技术, tier 3. Reported 2025 JIF: 2.1.
