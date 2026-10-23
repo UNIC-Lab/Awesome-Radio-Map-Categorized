@@ -25,8 +25,8 @@ If you find this repository helpful, please cite the tutorial paper:
 
 | Collection | Journals | Conferences | Preprints | Other¹ | Total |
 |:--|--:|--:|--:|--:|--:|
-| [With code](#papers-with-code) | 22 | 9 | 5 | 0 | **36** |
-| [Without code](#papers-without-code) | 154 | 153 | 39 | 2 | **348** |
+| [With code](#papers-with-code) | 24 | 9 | 5 | 0 | **38** |
+| [Without code](#papers-without-code) | 152 | 153 | 39 | 2 | **346** |
 | **All entries** | **176** | **162** | **44** | **2** | **384** |
 
 ¹ Other comprises one [book chapter](#books-and-chapters) and one [related-method paper](#related-methods), counted separately from the core journal list.
@@ -46,7 +46,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>15 papers</sub></summary>
+<summary><strong>2026</strong> <sub>17 papers</sub></summary>
 
 - **A Fine-Grained 3D Radio Map Construction Paradigm With Ultra-Low Sampling Rates by Large Generative Models**  
   *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11455177) · [Code](https://github.com/liuzhiyuan-pku/RadioLAM) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
@@ -64,6 +64,10 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3734160) · [Code](https://github.com/Shirleyue/PIHG) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **R2Net: 2D Deep Residual Learning with Height Embedding for 3D Radio Map Estimation**  
   *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) · [Code](https://github.com/lighttime2023/3DiRM3200.git) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
+- **Radio Map Estimation via Latent Domain Plug-and-Play Denoising**<br>
+  *IEEE Transactions on Signal Processing 2026* · [Paper](https://doi.org/10.1109/TSP.2025.3650699) · [Code](https://github.com/xumaomao94/LaPnP) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 5.5 (2025)</sub>[^metrics-ieee-transactions-on-signal-processing] · [Earlier conference version](https://ieeexplore.ieee.org/document/10889056)[^lapnp-versions]
+- **Radio Map Prediction from Aerial Images and Application to Coverage Optimization**<br>
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11063460) · [Code](https://github.com/fabja19/RML_v2_img) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **RadioDiff-$k^2$: Helmholtz Equation Informed Generative Diffusion Model for Multi-Path Aware Radio Map Construction**<br>
   *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11278649) · [Code](https://github.com/UNIC-Lab/RadioDiff-k) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
 - **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**  
@@ -176,7 +180,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>73 papers</sub></summary>
+<summary><strong>2026</strong> <sub>71 papers</sub></summary>
 
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**  
   *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
@@ -278,10 +282,6 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3706507) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Prior Information for 6G Network: From Channel Knowledge Map to Radio Profile**  
   *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2600181) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.3 (2025)</sub>[^metrics-ieee-communications-magazine]
-- **Radio Map Estimation via Latent Domain Plug-and-Play Denoising**  
-  *IEEE Transactions on Signal Processing 2026* · [Paper](https://doi.org/10.1109/TSP.2025.3650699) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 5.5 (2025)</sub>[^metrics-ieee-transactions-on-signal-processing]
-- **Radio Map Prediction from Aerial Images and Application to Coverage Optimization**  
-  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://ieeexplore.ieee.org/document/11063460) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 10.3 (2025)</sub>[^metrics-ieee-transactions-on-wireless-communications]
 - **Radio Radiance Field: The New Frontier of Spatial Wireless Channel Representation**  
   *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.3 (2025)</sub>[^metrics-ieee-communications-magazine]
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**<br>
@@ -321,7 +321,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **UniRM: A Universal Large Model for Multiband 3D Radio Map Construction**  
   *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://doi.org/10.1109/JSAC.2025.3640150) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 16.8 (2025)</sub>[^metrics-ieee-journal-on-selected-areas-in-communications]
 - **Visual Transformer Based Unified Framework for Radio Map Estimation and Optimized Site Selection**<br>
-  *IEICE Transactions on Communications 2026* · [Paper](https://doi.org/10.23919/transcom.2025EBP3055) · <sub>JCR best Q4 (2025) · 中科院大类 4 (2025) · JIF 1.1 (2025)</sub>[^metrics-ieice-transactions-on-communications]
+  *IEICE Transactions on Communications 2026* · [Paper](https://doi.org/10.23919/transcom.2025EBP3055) · <sub>JCR best Q4 (2025) · 中科院大类 4 (2025) · JIF 1.1 (2025)</sub>[^metrics-ieice-transactions-on-communications] · [Earlier work (OSSN)](https://ieeexplore.ieee.org/document/10627516)[^txstrans-ossn]
 - **VoxelRF: Voxelized Radiance Field for Fast Wireless Channel Modeling**  
   *IEEE Communications Letters 2026* · [Paper](https://doi.org/10.1109/lcomm.2025.3644410) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 4.5 (2025)</sub>[^metrics-ieee-communications-letters]
 
@@ -513,7 +513,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **3DCKM: A Large-Scale Multiband 3D Channel Knowledge Map Dataset for Low-Altitude Corridors**  
   *IEEE ICC Workshops 2026* · [Paper](https://doi.org/10.1109/ICCWORKSHOPS63917.2026.11586209)
 - **A Data-Friendly Deep Learning Architecture for High-Resolution Radio Map Construction**  
-  *IEEE ICC Workshops 2026* · [Paper](https://doi.org/10.1109/ICCWORKSHOPS63917.2026.11586443)
+  *IEEE ICC Workshops 2026* · [Paper](https://doi.org/10.1109/ICCWORKSHOPS63917.2026.11586443) · [Extended preprint (DF-3DRME)](https://arxiv.org/abs/2604.00676)[^df3drme-versions]
 - **A Geometric Algebra-Informed 3DGS Framework for Wireless Channel Prediction**<br>
   *CVPR 2026* · [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shen_A_Geometric_Algebra-Informed_3DGS_Framework_for_Wireless_Channel_Prediction_CVPR_2026_paper.html)
 - **A Seven-Channel Encoder-Decoder Network for Radio Map Estimation in Wireless Network Planning**  
@@ -679,7 +679,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **Radio Environment Map Reconstruction via Multi-Scale Feature Fusion Convolutional Autoencoder**  
   *IEEE ISEMC 2025* · [Paper](https://doi.org/10.1109/isemc68048.2025.11291887)
 - **Radio Map Estimation via Latent-Domain Plug-and-Play Denoisers**  
-  *IEEE ICASSP 2025* · [Paper](https://ieeexplore.ieee.org/document/10889056)
+  *IEEE ICASSP 2025* · [Paper](https://ieeexplore.ieee.org/document/10889056) · [Extended journal version](https://doi.org/10.1109/TSP.2025.3650699)[^lapnp-versions]
 - **Radio Map Interpolation Using Geodesics on Statistical Manifolds**  
   *IEEE SmartIoT 2025* · [Paper](https://doi.org/10.1109/smartiot66867.2025.00011)
 - **Radio Map Reconstruction Based on NAS Enhanced Deep Regularization Completion for UAV Communications**<br>
@@ -737,7 +737,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **A New Approach to Predict Radio Map via Learning-Based Spatial Loss Field**  
   *IEEE ICASSP Workshops 2024* · [Paper](https://ieeexplore.ieee.org/document/10627524)
 - **A Transformer-Based Network for Unifying Radio Map Estimation and Optimized Site Selection**  
-  *IEEE ICASSP Workshops 2024* · [Paper](https://ieeexplore.ieee.org/document/10627516)
+  *IEEE ICASSP Workshops 2024* · [Paper](https://ieeexplore.ieee.org/document/10627516) · [Follow-up work (TxSTrans)](https://doi.org/10.23919/transcom.2025EBP3055)[^txstrans-ossn]
 - **Agile Radio Map Prediction Using Deep Learning**  
   *IEEE ICASSP 2023* · [Paper](https://ieeexplore.ieee.org/document/10096546)
 - **Channel Knowledge Map Construction with Laplacian Pyramid Reconstruction Network**  
@@ -847,7 +847,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.25569)
 - **DF-3DRME: A Data-Friendly Learning Framework for 3D Radio Map Estimation based on Super-Resolution Technique**<br>
-  *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.00676) · [Repository](https://github.com/LINZHU-PolyU/DF-3DRME) · `Code forthcoming`
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.00676) · [Repository](https://github.com/LINZHU-PolyU/DF-3DRME) · `Code forthcoming` · [Earlier conference version](https://doi.org/10.1109/ICCWORKSHOPS63917.2026.11586443)[^df3drme-versions]
 - **Diffusion Models for Radio Map Estimation: Theoretical Performance Analysis and Sampling Rate Guideline**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.25310)
 - **Dynamic Channel Knowledge Map: Fundamentals, Construction, and Applications**  
@@ -960,6 +960,12 @@ Contributions are welcome. Please include the paper title, venue, publication ye
 [^ton-metrics]: Checked 2026-10-23. These are metrics for the former title, IEEE/ACM Transactions on Networking, not independently verified metrics for the renamed title. [BioxBio](https://www.bioxbio.com/journal/IEEE-ACM-T-NETWORK) and [AbleSci](https://www.ablesci.com/journal/detail?id=r0zN25) report a 2025 JIF of 5.3 (released in 2026). AbleSci reports Q1 in Computer Science (Hardware & Architecture; Theory & Methods) and Electrical & Electronic Engineering, Q2 in Telecommunications, and CAS 2025 Computer Science tier 3. These latest figures come from public secondary sources. The [IEEE January 2026 title list](https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf) explicitly uses former-title rankings but contains the older 2024 JIF of 3.6, not the 2025 value.
 
 [^radionet-version]: The ISAPE 2021 paper and arXiv:2105.07158 have the same four authors in the same order and closely matching titles. Their version relationship is plausible but has not been independently confirmed by an explicit author/publisher linkage or a comparison with the conference full text. The preprint link is retained as a possible association, not proof of identical content.
+
+[^lapnp-versions]: The [authors' manuscript, Introduction](https://arxiv.org/html/2501.13472v2) explicitly identifies the ICASSP 2025 conference version. The journal version adds denoisers, recoverability and convergence analysis, and broader experiments. Both publication records are retained; they are not counted as independent research projects.
+
+[^txstrans-ossn]: The [IEICE article, Section 1 and reference 19](https://globals.ieice.org/en_transactions/communications/10.23919/transcom.2025EBP3055/_f) states that TxSTrans was developed from the authors' earlier OSSN work at ICASSP Workshops 2024. This confirms a predecessor/follow-up relationship, not identical content.
+
+[^df3drme-versions]: The [DF-3DRME manuscript, first-page note and reference 1](https://arxiv.org/html/2604.00676) explicitly identifies the ICC Workshops 2026 paper as an earlier version presented in part. The extended manuscript remains listed as a preprint; this association does not establish journal acceptance.
 
 [^metrics-ieee-journal-on-selected-areas-in-communications]: IEEE Journal on Selected Areas in Communications: [public secondary record](https://www.ablesci.com/journal/detail?id=5JqKGp), checked 2026-10-23. JCR 2025 by category: ENGINEERING, ELECTRICAL & ELECTRONIC: Q1; TELECOMMUNICATIONS: Q1. CAS 2025 major category: 计算机科学, tier 1. Reported 2025 JIF: 16.8.
 
