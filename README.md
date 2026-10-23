@@ -25,9 +25,9 @@ If you find this repository helpful, please cite the tutorial paper:
 
 | Collection | Journals | Conferences | Preprints | Total |
 |:--|--:|--:|--:|--:|
-| [With code](#papers-with-code) | 19 | 9 | 5 | **33** |
-| [Without code](#papers-without-code) | 150 | 152 | 48 | **350** |
-| **All papers** | **169** | **161** | **53** | **383** |
+| [With code](#papers-with-code) | 22 | 9 | 5 | **36** |
+| [Without code](#papers-without-code) | 156 | 153 | 39 | **348** |
+| **All papers** | **178** | **162** | **44** | **384** |
 
 ---
 
@@ -36,12 +36,18 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>9 papers</sub></summary>
+<summary><strong>2026</strong> <sub>12 papers</sub></summary>
 
 - **A Fine-Grained 3D Radio Map Construction Paradigm With Ultra-Low Sampling Rates by Large Generative Models**  
   *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11455177) · [Code](https://github.com/liuzhiyuan-pku/RadioLAM) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
+- **ARM-SSM: Atrous Radio Map State Space Models for High-Resolution Wireless Environment Reconstruction**  
+  *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://doi.org/10.1109/TNSE.2026.3735078) · [Code](https://github.com/UNIC-Lab/ARM-SSM) · <sub>JCR Q1 · 中科院分区 2 · IF 7.3</sub>
+- **LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines**  
+  *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00082-7) · [arXiv](https://arxiv.org/abs/2509.14711) · [Code](https://github.com/PKU-PCNI/LLM4MG) · <sub>JCR None · 中科院分区 None · IF None</sub>
 - **PathFinder: Advancing Path Loss Prediction for Single-to-Multi-Transmitter Scenario**  
   *Pattern Recognition 2026* · [Paper](https://doi.org/10.1016/j.patcog.2026.113725) · [Code](https://github.com/EmorZz1G/PathFinder) · <sub>JCR Q1 · 中科院分区 1 · IF 7.6</sub>
+- **PIHG: Physics-Inspired Heterogeneous Graph Neural Networks for Multi-Band Radio Map Prediction**  
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3734160) · [Code](https://github.com/Shirleyue/PIHG) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
 - **R2Net: 2D Deep Residual Learning with Height Embedding for 3D Radio Map Estimation**  
   *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11505057) · [Code](https://github.com/lighttime2023/3DiRM3200.git) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
 - **RadioDiff-FS: Physics-Informed Manifold Alignment in Few-Shot Diffusion Models for High-Fidelity Radio Map Construction**  
@@ -160,7 +166,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>58 papers</sub></summary>
+<summary><strong>2026</strong> <sub>64 papers</sub></summary>
 
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**  
   *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR Q1 · 中科院分区 2 · IF 8.4</sub>
@@ -182,6 +188,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Antennas and Wireless Propagation Letters 2026* · [Paper](https://doi.org/10.1109/lawp.2026.3679273) · <sub>JCR Q2 · 中科院分区 3 · IF 4.6</sub>
 - **An RT-Supervised Simulation-to-Simulation Framework for Path Loss Radio Map Prediction Based on Geographic Environmental Information**  
   *Electronics 2026* · [Paper](https://www.mdpi.com/2079-9292/15/8/1750) · <sub>JCR Q2 · 中科院分区 None · IF 2.9</sub>
+- **AUG-RME: An Attention-Based Uncertainty-Aware Grid-Free Framework for Radio Map Estimation**  
+  *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3731526) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
 - **Bayesian Neural Field-Based 3-D Radio Environment Map Reconstruction With Uncertainty Quantification Under Sparse Sampling**  
   *IEEE Open Journal of the Communications Society 2026* · [Paper](https://doi.org/10.1109/OJCOMS.2026.3714834) · <sub>JCR Q1 · 中科院分区 2 · IF 6.2</sub>
 - **BeamCKM: A Framework of Channel Knowledge Map Construction for Multi-Antenna Systems**  
@@ -190,6 +198,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Internet of Things Journal 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11474342) · <sub>JCR Q1 · 中科院分区 1 · IF 8.7</sub>
 - **Bridging Visual and Wireless Sensing via a Unified Radiation Field for 3D Radio Map Construction**<br>
   *npj Wireless Technology 2026* · [Paper](https://doi.org/10.1038/s44459-026-00067-6) · [Repository](https://github.com/wenchaozheng/URF-GS) · <sub>JCR None · 中科院分区 None · IF None</sub> · `Repository placeholder`
+- **BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks**  
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3741079) · [arXiv](https://arxiv.org/abs/2507.23236) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
 - **Channel Fingerprint Construction for Massive MIMO: A Deep Conditional Generative Approach**<br>
   *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2025.3623623) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
 - **Channel Gain Map Estimation Based on 3-D Virtual Scatterer Model**  
@@ -226,12 +236,16 @@ If you find this repository helpful, please cite the tutorial paper:
   *Technologies 2026* · [Paper](https://doi.org/10.3390/technologies14010058) · <sub>JCR Q1 · 中科院分区 None · IF 5.2</sub>
 - **Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**  
   *IEEE Communications Letters 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481010) · <sub>JCR Q2 · 中科院分区 3 · IF 4.5</sub>
+- **Machine Learning-Based Radio Environment Map Estimation for Indoor Visible Light Communication**  
+  *IET Optoelectronics 2026* · [Paper](https://doi.org/10.1049/ote2.70043) · [arXiv](https://arxiv.org/abs/2507.19149) · <sub>JCR Q2 (best category) · 中科院分区 4 (2025) · IF 2.8 (2025)</sub>[^iet-metrics]
 - **Minimum energy consumption of multi-UAV logistics distribution with heading angle constraints based on radio map**<br>
   *Physical Communication 2026* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382) · <sub>JCR None · 中科院分区 None · IF None</sub>
 - **Multiple Source Localization via Local Radio Map Construction in Urban Environments**  
   *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/tccn.2025.3635590) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
 - **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**  
   *IEEE Transactions on Mobile Computing 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11481652) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
+- **P-WRFGS: Pruning 3-D Gaussians for Efficient Wireless Radiance Field Construction**  
+  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3727361) · [arXiv](https://arxiv.org/abs/2605.15324) · <sub>JCR Q2 · 中科院分区 2 · IF 5.1</sub>
 - **Physics-Guided Neural Radiance Field Network for Multi-Antenna Channel Prediction**  
   *IEEE Antennas and Wireless Propagation Letters 2026* · [Paper](https://doi.org/10.1109/LAWP.2026.3683930) · <sub>JCR Q2 · 中科院分区 3 · IF 4.6</sub>
 - **PhySNet: Physics-Inspired Spectral-Spatial Decoupled Attention for Radio Map Estimation**  
@@ -246,6 +260,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR Q1 · 中科院分区 None · IF 8.3</sub>
 - **RadioDUN: A Physics-Inspired Deep Unfolding Network for Radio Map Estimation**  
   *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3683882) · <sub>JCR Q1 · 中科院分区 2 · IF 8.0</sub>
+- **RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer With 1‱ Spatial Sampling**  
+  *IEEE Transactions on Networking 2026* · [Paper](https://doi.org/10.1109/TON.2026.3735501) · [arXiv](https://arxiv.org/abs/2504.19161) · [Repository](https://github.com/FzJun26th/RadioFormer) · <sub>JCR Q1 (best category; former title) · 中科院分区 3 (2025; former title) · IF 5.3 (2025; former title)</sub>[^ton-metrics] · `Repository placeholder`
 - **RadioGen3D: 3D Radio Map Generation via Adversarial Learning on Large-Scale Synthetic Data**  
   *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://doi.org/10.1109/TVT.2026.3724160) · <sub>JCR Q1 · 中科院分区 2 · IF 7.5</sub>
 - **RadioVAR: Fast Sampling-Free Radio Map Construction via Coarse-to-Fine Token Prediction**  
@@ -272,6 +288,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Transactions on Wireless Communications 2026* · [Paper](https://doi.org/10.1109/TWC.2026.3713038) · <sub>JCR Q1 · 中科院分区 1 · IF 10.3</sub>
 - **Toward Precise Channel Knowledge Map: Exploiting Environmental Information from 2D Visuals to 3D Point Clouds**  
   *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/mcom.001.2500630) · <sub>JCR Q1 · 中科院分区 None · IF 8.3</sub>
+- **UAV-enabled Adaptive Radio Sampling for High-quality Radio Environment Map Construction in Unknown Environments**  
+  *IEEE Transactions on Mobile Computing 2026* · [Paper](https://doi.org/10.1109/TMC.2026.3737955) · [TechRxiv](https://doi.org/10.36227/techrxiv.175993459.99080577/v1) · <sub>JCR Q1 · 中科院分区 1 · IF 8.8</sub>
 - **UniRM: A Universal Large Model for Multiband 3D Radio Map Construction**  
   *IEEE Journal on Selected Areas in Communications 2026* · [Paper](https://doi.org/10.1109/JSAC.2025.3640150) · <sub>JCR Q1 · 中科院分区 1 · IF 16.8</sub>
 - **Visual Transformer Based Unified Framework for Radio Map Estimation and Optimized Site Selection**<br>
@@ -480,7 +498,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Conferences
 
 <details open>
-<summary><strong>2026</strong> <sub>37 papers</sub></summary>
+<summary><strong>2026</strong> <sub>38 papers</sub></summary>
 
 - **3D Dynamic Radio Map Prediction Using Vision Transformers for Low-Altitude Wireless Networks**  
   *IEEE ICC 2026* · [Paper](https://doi.org/10.1109/ICC59461.2026.11587465)
@@ -510,6 +528,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *ACM CAICE 2026* · [Paper](https://doi.org/10.1145/3804601.3804674)
 - **Diffusion Model for Channel Knowledge Map Construction and Channel Estimation**  
   *IEEE ICTC 2026* · [Paper](https://doi.org/10.1109/ictc70246.2026.11650045)
+- **Diffusion²: Turning 3D Environments into Radio Frequency Heatmaps**  
+  *IEEE/CVF CVPR Findings 2026* · [Paper](https://doi.org/10.1109/CVPRF71909.2026.00616) · [arXiv](https://arxiv.org/abs/2510.02274)
 - **Efficient Clustered Channel Estimation via Channel Knowledge Map Constructed with Tensor Decomposition**  
   *IEEE ICC 2026* · [Paper](https://doi.org/10.1109/icc59461.2026.11587011)
 - **Energy-Efficient Channel Knowledge Map Construction for 6G Networks Using Improved Transformer**  
@@ -793,7 +813,7 @@ If you find this repository helpful, please cite the tutorial paper:
 - **Transformer-Based Neural Surrogate for Link-Level Path Loss Prediction from Variable-Sized Maps**  
   *IEEE GLOBECOM 2023* · [Paper](https://ieeexplore.ieee.org/document/10436935)
 - **Transformer based Radio Map Prediction Model for Dense Urban Environments**<br>
-  *IEEE ISAPE 2021* · [Paper](https://ieeexplore.ieee.org/document/9753644)
+  *IEEE ISAPE 2021* · [Paper](https://ieeexplore.ieee.org/document/9753644) · [arXiv (RadioNet)](https://arxiv.org/abs/2105.07158)
 - **UAV-aided Joint Radio Map and 3D Environment Reconstruction using Deep Learning Approaches**  
   *IEEE ICC 2022* · [Paper](https://ieeexplore.ieee.org/document/9838964)
 - **UnetRay: A Prediction Method of Indoor Radio Signal Strength Distribution**  
@@ -804,7 +824,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Preprints
 
 <details open>
-<summary><strong>2026</strong> <sub>32 papers</sub></summary>
+<summary><strong>2026</strong> <sub>31 papers</sub></summary>
 
 - **Active Perception for Radio Map Reconstruction in Uncharted 3D Air-Ground Environments**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.12844)
@@ -822,6 +842,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.25569)
 - **DF-3DRME: A Data-Friendly Learning Framework for 3D Radio Map Estimation based on Super-Resolution Technique**<br>
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.00676) · [Repository](https://github.com/LINZHU-PolyU/DF-3DRME) · `Code forthcoming`
+- **Diffusion Models for Radio Map Estimation: Theoretical Performance Analysis and Sampling Rate Guideline**  
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.25310)
 - **Dynamic Channel Knowledge Map: Fundamentals, Construction, and Applications**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.17133)
 - **EA-RMENet: Path Loss Prediction in Urban Environments Using Deep Learning**  
@@ -832,12 +854,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2608.05896)
 - **OctCGS: Octree-Contextual Gaussian Splatting with Explicit Multi-Order Propagation Modeling for Channel Knowledge Map Construction**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.22961)
-- **P-WRFGS: Pruning 3D Gaussians for Efficient Wireless Radiance Field Construction**<br>
-  *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.15324)
 - **PALM: Single-Station Super-Resolved Small-Scale Radio-Map Localization by Path-Atom Matching**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.16157)
-- **Physics-Aware Query-Conditioned Graph Attention Networks for Radio Map Estimation**  
-  *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.17414)
 - **Physics-Unrolled Neural Operator for Wireless Field Modeling**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2608.18495)
 - **PILOT: One Physics-Integrated Generation Framework to Unify 2D and 3D Radio Map Construction**<br>
@@ -862,10 +880,10 @@ If you find this repository helpful, please cite the tutorial paper:
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.24290)
 - **Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.05788)
+- **Structured Edge-Aware Graph Attention Network for Transmitter-Resolved Pointwise Radio Map Estimation**  
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.17414)
 - **TGPP: Trajectory-Guided Plug-and-Play Priors for Sparse Radio Map Reconstruction**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.05844)
-- **Theoretical Analysis of Diffusion Models for Radio Map Estimation with Ultra-Low Sampling Rates**  
-  *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.25310)
 - **Transmitter-Agnostic Radio Map Reconstruction via Adversarial Cooperative Inference**  
   *SSRN 2026* · [Paper](https://doi.org/10.2139/ssrn.7304218)
 - **Voxel-CKM: Voxelized Radio Frequency Radiance Fields for Fast and Few-Shot CKM Construction**  
@@ -874,40 +892,24 @@ If you find this repository helpful, please cite the tutorial paper:
 </details>
 
 <details open>
-<summary><strong>2025</strong> <sub>11 papers</sub></summary>
+<summary><strong>2025</strong> <sub>4 papers</sub></summary>
 
-- **BS-1-to-N: Diffusion-Based Environment-Aware Cross-BS Channel Knowledge Map Generation for Cell-Free Networks**  
-  *arXiv 2025* · [Paper](https://arxiv.org/abs/2507.23236)
-- **Diffusion2: Turning 3D Environments into Radio Frequency Heatmaps**  
-  *arXiv 2025* · [Paper](https://arxiv.org/abs/2510.02274)
 - **GenMetaLoc: Learning to Learn Environment-Aware Fingerprint Generation for Sample Efficient Wireless Localization**  
   *arXiv 2025* · [Paper](https://arxiv.org/abs/2503.18078)
 - **GSpaRC: Gaussian Splatting for Real-Time Reconstruction of RF Channels**  
   *arXiv 2025* · [Paper](https://arxiv.org/abs/2511.22793)
-- **LLM4MG: Adapting Large Language Model for Multipath Generation via Synesthesia of Machines**  
-  *arXiv 2025* · [Paper](https://arxiv.org/abs/2509.14711)
-- **Machine Learning based Radio Environment Map Estimation for Indoor Visible Light Communication**  
-  *arXiv 2025* · [Paper](https://arxiv.org/abs/2507.19149)
 - **Mip-NeWRF: Enhanced Wireless Radiance Field with Hybrid Encoding for Channel Prediction**  
   *arXiv 2025* · [Paper](https://arxiv.org/abs/2511.09150)
 - **RadioDiff-Loc: Diffusion Model Enhanced Scattering Congnition for NLoS Localization with Sparse Radio Map Estimation**  
   *arXiv 2025* · [Paper](https://arxiv.org/abs/2509.01875)
-- **RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer with 0.01% Spatial Sampling**<br>
-  *arXiv 2025* · [Paper](https://arxiv.org/abs/2504.19161) · [Repository](https://github.com/FzJun26th/RadioFormer) · `Repository placeholder`
-- **UAV-enabled Adaptive Radio Sampling for High-quality Radio Environment Map Construction in Unknown Environments**  
-  *TechRxiv 2025* · [Paper](https://doi.org/10.36227/techrxiv.175993459.99080577/v1)
-- **Wideband RF Radiance Field Modeling Using Frequency-Embedded 3D Gaussian Splatting**  
-  *arXiv 2025* · [Paper](https://arxiv.org/abs/2505.20714)
 
 </details>
 
 <details open>
-<summary><strong>2024 and Earlier</strong> <sub>5 papers</sub></summary>
+<summary><strong>2024 and Earlier</strong> <sub>4 papers</sub></summary>
 
 - **Deep Learning Based Active Spatial Channel Gain Prediction Using a Swarm of Unmanned Aerial Vehicles**  
   *arXiv 2023* · [Paper](https://arxiv.org/abs/2310.04547)
-- **RadioNet: Transformer based Radio Map Prediction Model For Dense Urban Environments**  
-  *arXiv 2021* · [Paper](https://arxiv.org/abs/2105.07158)
 - **Simulating, Fast and Slow: Learning Policies for Black-Box Optimization**  
   *arXiv 2024* · [Paper](https://arxiv.org/abs/2406.04261)
 - **Solving Maxwell's equations with Non-Trainable Graph Neural Network Message Passing**  
@@ -922,3 +924,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ## Contributing
 
 Contributions are welcome. Please include the paper title, venue, year, paper URL, and official code repository when available.
+
+[^iet-metrics]: Checked 2026-10-23. The [publisher](https://ietresearch.onlinelibrary.wiley.com/journal/17518776) lists a JIF of 2.8. For the 2025 JIF/JCR data released in 2026, [AbleSci](https://www.ablesci.com/journal/detail?id=DGLVBr) reports Q2 in Electrical & Electronic Engineering and Optics, and Q3 in Telecommunications. It also reports CAS 2025 Computer Science tier 4. The quartile and CAS information was checked through this public secondary source, not directly against the subscription databases; CAS 2025 is distinct from the 2026 emerging-journal ranking.
+
+[^ton-metrics]: Checked 2026-10-23. These are metrics for the former title, IEEE/ACM Transactions on Networking, not independently verified metrics for the renamed title. [BioxBio](https://www.bioxbio.com/journal/IEEE-ACM-T-NETWORK) and [AbleSci](https://www.ablesci.com/journal/detail?id=r0zN25) report a 2025 JIF of 5.3 (released in 2026). AbleSci reports Q1 in Computer Science (Hardware & Architecture; Theory & Methods) and Electrical & Electronic Engineering, Q2 in Telecommunications, and CAS 2025 Computer Science tier 3. These latest figures come from public secondary sources. The [IEEE January 2026 title list](https://open.ieee.org/wp-content/uploads/IEEE-Title-List-January-2026.pdf) explicitly uses former-title rankings but contains the older 2024 JIF of 3.6, not the 2025 value.
