@@ -25,9 +25,9 @@ If you find this repository helpful, please cite the tutorial paper:
 
 | Collection | Journals | Conferences | Preprints | Other¹ | Total |
 |:--|--:|--:|--:|--:|--:|
-| [With code](#papers-with-code) | 24 | 9 | 5 | 0 | **38** |
-| [Without code](#papers-without-code) | 152 | 153 | 39 | 2 | **346** |
-| **All entries** | **176** | **162** | **44** | **2** | **384** |
+| [With code](#papers-with-code) | 24 | 9 | 6 | 0 | **39** |
+| [Without code](#papers-without-code) | 155 | 153 | 45 | 2 | **355** |
+| **All entries** | **179** | **162** | **51** | **2** | **394** |
 
 ¹ Other comprises one [book chapter](#books-and-chapters) and one [related-method paper](#related-methods), counted separately from the core journal list.
 
@@ -152,8 +152,10 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Preprints
 
 <details open>
-<summary><strong>2026</strong> <sub>4 papers</sub></summary>
+<summary><strong>2026</strong> <sub>5 papers</sub></summary>
 
+- **Completing Radio Map Tensors via Factor Diffusion Posterior Sampling**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2610.15980) · [Code](https://github.com/xumaomao94/FactorDPS)
 - **ControlRadio: Prompt-Driven Controllable Diffusion for Cross-Modal Radio Map Generation**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2608.09357) · [Code](https://github.com/AkonLau/ControlRadio)
 - **U6G XL-MIMO Radiomap Prediction: Multi-Config Dataset and Beam Map Approach**  
@@ -180,7 +182,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Journals
 
 <details open>
-<summary><strong>2026</strong> <sub>71 papers</sub></summary>
+<summary><strong>2026</strong> <sub>74 papers</sub></summary>
 
 - **28 GHz Indoor Continuous-Space Channel Measurements and AI-Enabled 6G Channel Map Construction**  
   *IEEE Transactions on Communications 2026* · [Paper](https://ieeexplore.ieee.org/abstract/document/11506340) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.4 (2025)</sub>[^metrics-ieee-transactions-on-communications]
@@ -254,6 +256,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Transactions on Vehicular Technology 2026* · [Paper](https://ieeexplore.ieee.org/document/11146461) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.5 (2025)</sub>[^metrics-ieee-transactions-on-vehicular-technology]
 - **Geometry-Aware Cholesky Projection for Indoor Radio Map Sampling**  
   *IEEE Signal Processing Letters 2026* · [Paper](https://doi.org/10.1109/lsp.2025.3636448) · <sub>JCR best Q2 (2025) · 中科院大类 3 (2025) · JIF 3.6 (2025)</sub>[^metrics-ieee-signal-processing-letters]
+- **HAMM-UNet: Height-Adaptive Multi-Modal Radio Map Reconstruction Based on Sparse Measurements**<br>
+  *IEEE Wireless Communications Letters 2026* · [Paper](https://doi.org/10.1109/LWC.2026.3712700) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.1 (2025)</sub>[^metrics-ieee-wireless-communications-letters]
 - **HiFiRadio: High-Fidelity Radio Map Reconstruction for 3D Real-World Scenes**  
   *Technologies 2026* · [Paper](https://doi.org/10.3390/technologies14010058) · <sub>JCR best Q1 (2025) · 中科院大类 3 (2025) · JIF 5.2 (2025)</sub>[^metrics-technologies]
 - **Invertible Diffusion for Low-Memory Channel Gain Map Construction in Wireless Communication Networks**  
@@ -266,6 +270,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IET Optoelectronics 2026* · [Paper](https://doi.org/10.1049/ote2.70043) · [arXiv](https://arxiv.org/abs/2507.19149) · <sub>JCR best Q2 (2025) · 中科院大类 4 (2025) · JIF 2.8 (2025)</sub>[^iet-metrics]
 - **Minimum energy consumption of multi-UAV logistics distribution with heading angle constraints based on radio map**<br>
   *Physical Communication 2026* · [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1874490726001382) · <sub>JCR best Q3 (2025) · 中科院大类 4 (2025) · JIF 1.9 (2025)</sub>[^metrics-physical-communication]
+- **Multimodal Knowledge Guided Framework for Physics-Conditioned Radio Map Estimation**<br>
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3745629) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Multiple Source Localization via Local Radio Map Construction in Urban Environments**  
   *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/tccn.2025.3635590) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **Neural Fitting for Sparse Radio Map Construction in LEO Satellite Network**  
@@ -286,6 +292,8 @@ If you find this repository helpful, please cite the tutorial paper:
   *IEEE Communications Magazine 2026* · [Paper](https://doi.org/10.1109/MCOM.001.2500161) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 8.3 (2025)</sub>[^metrics-ieee-communications-magazine]
 - **RadioDiff-3D: A 3D × 3D Radio Map Dataset and Generative Diffusion-Based Benchmark for 6G Environment-Aware Communication**<br>
   *IEEE Transactions on Network Science and Engineering 2026* · [Paper](https://ieeexplore.ieee.org/document/11083758) · [Dataset](https://github.com/UNIC-Lab/UrbanRadio3D) · <sub>JCR best Q1 (2025) · 中科院大类 2 (2025) · JIF 7.3 (2025)</sub>[^metrics-ieee-transactions-on-network-science-and-engineering] · `Dataset only`
+- **RadioDiff-Flux: Efficient Radio Map Construction via Generative Denoise Diffusion Model Trajectory Midpoint Reuse**<br>
+  *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2025.3641513) · [arXiv](https://arxiv.org/abs/2601.02790) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **RadioDUN: A Physics-Inspired Deep Unfolding Network for Radio Map Estimation**  
   *IEEE Transactions on Cognitive Communications and Networking 2026* · [Paper](https://doi.org/10.1109/TCCN.2026.3683882) · <sub>JCR best Q1 (2025) · 中科院大类 1 (2025) · JIF 8.0 (2025)</sub>[^metrics-ieee-transactions-on-cognitive-communications-and-networking]
 - **RadioFormer: A Multiple-Granularity Radio Map Estimation Transformer With 1‱ Spatial Sampling**  
@@ -830,7 +838,7 @@ If you find this repository helpful, please cite the tutorial paper:
 ### Preprints
 
 <details open>
-<summary><strong>2026</strong> <sub>31 papers</sub></summary>
+<summary><strong>2026</strong> <sub>37 papers</sub></summary>
 
 - **Active Perception for Radio Map Reconstruction in Uncharted 3D Air-Ground Environments**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.12844)
@@ -852,8 +860,12 @@ If you find this repository helpful, please cite the tutorial paper:
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.25310)
 - **Dynamic Channel Knowledge Map: Fundamentals, Construction, and Applications**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.17133)
+- **DyRadio: Spatiotemporal Diffusion for Dynamic Radio Map Reconstruction**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2611.01603)
 - **EA-RMENet: Path Loss Prediction in Urban Environments Using Deep Learning**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.16449)
+- **Embodied AI for Radio Mapping: From Solo to Swarm**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2611.00770)
 - **FARM: Foundational Aerial Radio Map for Intelligent Low-Altitude Networking**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.17362)
 - **GSBF: Gaussian Splatting for Environment-Aware Beamforming**  
@@ -872,16 +884,24 @@ If you find this repository helpful, please cite the tutorial paper:
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.00974)
 - **Radio-Frequency Inverse Rendering for Wireless Environment Modeling**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2604.07086)
+- **Radio Map Construction with Post-Hoc Location Calibration under Quasi-Static Positioning Errors: Joint Estimation, Performance Bounds, and GNSS-Based Evaluation**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2609.11142)
 - **Radio Map Updating from Streaming Spectrum Measurements via Memory-Based Online Gaussian Processes**<br>
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.17954)
 - **RadioDiff-Inv2: Differentiable Diffusion Inversion under Location Drift from Sparse Noisy Measurements for Radio Map Estimation**<br>
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.08439) · [Repository](https://github.com/UNIC-Lab/RadioDiff-inv2) · `Code forthcoming`
 - **RadioDiff-v2: Generative Angular Radio Maps for Multi-Beam Selection and Localization**<br>
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2607.08045) · [Repository](https://github.com/UNIC-Lab/RadioDiff-v2) · `Code forthcoming`
+- **RadioDreamer: A World Model for Radio Map Forecasting and Imagination-Based Optimization**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2610.29382)
 - **RadioFormer3D: Weakly Supervised 3D Radio Map Estimation in Low-Altitude Airspace via Generative Modeling**<br>
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.29538) · [Repository](https://github.com/FzJun26th/RadioFormer3D) · `Empty repository`
+- **RadioTraj3D: Height-Aware Adaptive Sampling for 3D Radio-Map Reconstruction from Ultra-Sparse Trajectories**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2610.41786)
 - **RMPrior: Bridging Propagation Priors and Diffusion Refinement for Efficient Radio Map Construction**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2606.03074)
+- **RMSampler: Sparse Radio Map Reconstruction with Active Sampling and Diffusion Posterior Correction**<br>
+  *arXiv 2026* · [Paper](https://arxiv.org/abs/2610.27464)
 - **RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis**  
   *arXiv 2026* · [Paper](https://arxiv.org/abs/2605.24290)
 - **Sparse Gain Radio Map Reconstruction With Geometry Priors and Uncertainty-Guided Measurement Selection**  
@@ -953,7 +973,7 @@ Adjacent methods retained for methodological context; these are not presented as
 
 ## Contributing
 
-Contributions are welcome. Please include the paper title, venue, publication year, paper URL, and official code repository when available. For version merges or acceptance updates, provide an explicit author/publisher link or statement; title similarity alone is not conclusive. For journal metrics, include the data year, category, and source.
+Contributions are welcome. Please provide the paper title, publication venue and year, paper URL, and an in-paper code citation when requesting placement in **Papers with Code**.
 
 [^iet-metrics]: Checked 2026-10-23. The [publisher](https://ietresearch.onlinelibrary.wiley.com/journal/17518776) lists a JIF of 2.8. For the 2025 JIF/JCR data released in 2026, [AbleSci](https://www.ablesci.com/journal/detail?id=DGLVBr) reports Q2 in Electrical & Electronic Engineering and Optics, and Q3 in Telecommunications. It also reports CAS 2025 Computer Science tier 4. The quartile and CAS information was checked through this public secondary source, not directly against the subscription databases; CAS 2025 is distinct from the 2026 emerging-journal ranking.
 
